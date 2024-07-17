@@ -49,6 +49,7 @@ Live project can be viewed <span style="background-color:red;color:yellow;font-w
 ---
 # Introduction to the Project
 
+The website Gravity Gym was created for the business to advertise and enlighten both present and new gym members. This website provides existing and prospective gym members with information about the facility. 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -58,13 +59,39 @@ Live project can be viewed <span style="background-color:red;color:yellow;font-w
 
 ### Project Goals
 
+The main objective is to offer a platform that helps the client and the business reach their respective objectives. The website is created with the intention of giving clients access to vital company information and bringing in more gym members for the company. 
+
 [BACK TO TOP](#table-of-contents)
 
 ### Client's Goals
 
+The following table shows the goals of current and potential gym members and how it can be achieved through this website 
+
+  Clients Goals | Gravity Gym achieves this by
+  --- | ---
+  To find basic information about the gym e.g. opening times and location | Providing a section on the website that is dedicated to basic information (footer)
+  To find out what previous and current users think about the gym and users experience with the gym | Providing a section which contains gym members feedback (testimonial section)
+  To find out what facilities the gym offers | Providing a section which contains the facilities they provide (facilities)
+  To find out what the membership plans are and if they are a good deal. | Providing a page dedicated for membership plans. 
+  To find out more details about the classes the gym offers and their timings | Providing a page dedicated for classes that will be available and at what times. The same page entails information on other schedules. 
+  To have the ability to get in touch with the gym with any more questions | Providing a page that members will be able to contact the gym when needed. 
+  To have access to the social media profiles | Providing social links at the footer of the webpage. 
+  To be able to easily access the website | Providing a navigation menu will be at the top of the page, easily accessible and user friendly. 
+
 [BACK TO TOP](#table-of-contents)
 
 ### Business Goals
+
+The following table shows business goals and how it can be achieved through this website. 
+
+Business Goals | Gravity Gym achieves this by
+ --- | ---
+Reach out to as many locals as possible | Providing website users with the address of the gym that is easily accessible (footer)  
+Attract new gym members | Providing potential gym members with information about the website such as facilities they provide and feedbacks from previous and current users. Also provide users with offers. 
+Prove reliability and trustworthiness | Provide website users with feedbacks from previous and current users. Also provide users with social links.  
+Retain current gym members | Provide current gym members easy access to information such as opening hours and timetables.  
+Growth in the quantity of new users expressing interest | To measure this, gravity gym provides a contact us page. 
+
 
 [BACK TO TOP](#table-of-contents)
 
@@ -72,19 +99,43 @@ Live project can be viewed <span style="background-color:red;color:yellow;font-w
 
 #### First Time Visitor Goals
 
+As a first-time visitor:
+* I want to learn more about Gravity Gym. 
+* The website should be simple to use and intuitive to browse.  
+* I want to know where the gym is location and what are their opening times. I want to know if it is local to me and if they are open at the hours I can go to the gym. 
+* I want to know what the experience previous and current users have had with the gym. 
+* I want to know if the gym is reliable and trustworthy. I would want to have access to their social media platforms. 
+* I want to know what membership plans they have, what the ranges are. 
+* I would like to know what offers they have currently for new gym members 
+
 [BACK TO TOP](#table-of-contents)
 
 #### Returning Visitor Goals
 
+As a returning visitor:
+* I want to know more about the gym, rather than just opening hours and location. I would like to know what facilities they offer. 
+* I want to know if they have classes, and usually around what times. 
+* I want to know if swimming is gender specific and if there are times allocated for that. 
+* I want to know what membership plans they have and the difference between their membership plans. 
+* To be able to contact the gym if needed
 
 [BACK TO TOP](#table-of-contents)
 
 #### Frequent User Goals
 
+As a frequent user:
+* I want to have easy access to the class information and their schedule. 
+* I want to have easy access to swimming schedule
+* I want to have easy access to sauna & steam schedule
+* I want to be able to download the schedule as pdf for offline use. 
+* I want to be able to source membership information for renewal 
+* I would like to know what offers they have currently for current and previous gym members 
+
 [BACK TO TOP](#table-of-contents)
 
 
 ### Design choices
+
 
 
 #### Color Scheme
