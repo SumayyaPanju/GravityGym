@@ -152,9 +152,9 @@ As a frequent user:
 
 ### Wireframes
 
-* Mobile Wireframes
-* Tablet  Wireframes
-* Desktop  Wireframes
+* Mobile Wireframes - <a href="/assets/documents/mobile-wireframe.pdf" target="_blank">Click Here</a>
+* Tablet  Wireframes - <a href="/assets/documents/tablet-wireframe.pdf" target="_blank">Click Here</a>
+* Desktop  Wireframes - <a href="/assets/documents/desktop-wireframe.pdf" target="_blank">Click Here</a>
 
 FOR ALL PAGES
 
