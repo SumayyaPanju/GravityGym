@@ -233,6 +233,8 @@ FOR ALL PAGES
 
 ### Media
 
+* **Logo** - https://pngtree.com/freepng/gym-vector-design_8875711.html
+
 [BACK TO TOP](#table-of-contents)
 
 
