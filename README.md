@@ -240,6 +240,8 @@ FOR ALL PAGES
 
 ### Code
 
+* **Invert logo** - https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/invert
+
 * template for grid taken from Bootstrap and heavily modified 
 * Floating buttons from w3schools 
 * [example video](https://learn.codeinstitute.net/courses/course-v1:code_institute+DIWAD_MS1+1/courseware/5cc55f6df9fe41cc8dcb4d665a251ded/8341150079674a76b87da0143c45f6f9/)
