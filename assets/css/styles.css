@@ -144,6 +144,19 @@ body{
     animation-duration: 3s;
     animation-fill-mode: forwards;
 }
+
+#images-cont-pt{
+    background: url("/assets/images/pt.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80vh;
+    width: auto;
+
+    animation-name: started-img-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
 /*Zooms the image - gives it some transition*/
 @keyframes started-img-zoom {
     from{
