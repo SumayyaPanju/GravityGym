@@ -132,7 +132,7 @@ body{
     height: 80vh;
     padding: 0;
 }
-.images-cont-img{
+#images-cont-gs{
     background: url("/assets/images/get-started.jpg");
     background-size: cover;
     background-repeat: no-repeat;
