@@ -50,13 +50,13 @@ body{
 .nav a{
     text-decoration: none;
     color: white;
-    font-size: 18px;
+    font-size: 75%;
 }
 
 .nav li{
     border-style: solid;
     border-color: white;
-    border-width: 2px;
+    border-width: 3px;
     height: auto;
     margin-bottom: 10px;
 }
@@ -74,13 +74,13 @@ body{
 }
 
 .navtext:hover{
-    border-width: 5px;
+    border-width: 3px;
     border-color: #e41023;
 }
 
 .nav li#active{
     border-color: #e41023;
-    border-width: 5px;
+    border-width: 3px;
 }
 
 #active a span{
@@ -137,10 +137,7 @@ body{
 
 /* Small devices (landscape phones, less than 768px)*/
 @media (max-width: 768px) { 
-    .nav a{
-        font-size: 16px;
-    }
-    .navtext {
+      .navtext {
         font-weight:600;
         padding: 10px 10px 10px 10px;
     }
@@ -157,9 +154,6 @@ body{
 
  /* X-Small devices (portrait phones, less than 576px)*/
 @media (max-width: 576px) { 
-    .nav a{
-        font-size: 14px;
-    }
     .navtext {
         font-weight:600;
         padding: 10px 10px 10px 10px;
