@@ -100,18 +100,6 @@ body{
     background: url("/assets/images/full-width.jpg") no-repeat center top;
     height:500px;
     width: 100%;
-    animation-name:  full-image-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-}
-
-@keyframes full-image-zoom {
-    from{
-        transform: scale(0.8);
-    }
-    to{
-        transform: scale(1.2);
-    }
 }
 
 /*----------------------------------------------------GET STARTED SECTION*/
