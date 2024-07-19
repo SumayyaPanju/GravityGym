@@ -237,6 +237,12 @@ FOR ALL PAGES
 # Credits
 ### Content
 
+The following websites were used to gather ideas on how to design the website and what content to include. These websites was also used to decide what features I did not want to include on this project:
+* [**Village Gym**](https://www.villagegym.co.uk/)
+* [**Pure Gym**](https://www.puregym.com/)
+* [**JD Gyms**](https://www.jdgyms.co.uk/)
+* [**Places Leisure**](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/)
+
 [BACK TO TOP](#table-of-contents)
 
 
