@@ -3,12 +3,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow&family=Fjalla+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-/*----------------------------------------------GENRALISED STYLING*/
+/*----------------------------------------------BODY STYLING*/
 body{
     font-family: "Barlow", sans-serif;
     background-color: black;
     color: white;
 }
+
+#body-container{
+    margin-top: 20px;
+}
+
 /*----------------------------------------------HEAD SECTION*/
 
 .head-section{
@@ -37,6 +42,7 @@ body{
 /*---------------------------------------NAVIGATION SECTION*/
 .nav{
     justify-content: center;
+    
 }
 
 .nav a{
@@ -67,14 +73,50 @@ body{
 
 .navtext:hover{
     border-width: 5px;
-    border-color: #97d700;
+    border-color: #e41023;
 }
 
 .nav li.active{
-    border-color: #97d700;
+    border-color: #e41023;
     border-width: 5px;
 }
 
 .active a span{
-    color: #97d700;
+    color: #e41023;
 }
+
+
+/*-----------------------------------------------------MEDIA QUERIES*/
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1401px) { ... }
+
+/* X-Large devices (large desktops, less than 1400px)*/
+@media (max-width: 1400px) { ... }
+
+/* Large devices (desktops, less than 1200px)*/
+@media (max-width: 1200px) { ... }
+
+/* Medium devices (tablets, less than 992px)*/
+@media (max-width: 992px) { ... }
+
+/* Small devices (landscape phones, less than 768px)*/
+@media (max-width: 768px) { 
+    .nav a{
+        font-size: 16px;
+    }
+    .navtext {
+        font-weight:600;
+        padding: 10px 10px 10px 10px;
+    }
+ }
+
+ /* X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 576px) { 
+    .nav a{
+        font-size: 14px;
+    }
+    .navtext {
+        font-weight:600;
+        padding: 10px 10px 10px 10px;
+    }
+ }
