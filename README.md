@@ -263,7 +263,11 @@ A range of images were used from various websites. The link from where the image
 * [example video](https://learn.codeinstitute.net/courses/course-v1:code_institute+DIWAD_MS1+1/courseware/5cc55f6df9fe41cc8dcb4d665a251ded/8341150079674a76b87da0143c45f6f9/)
 <h3 id="acknowledgments"> Acknowledgements</h3>
 
-* Must acknowledge - otherwise can be done for plagarism  
+* Throughout the project, I had continuous support from:
+    * My tutor - Satish Boini 
+    * My mentor - Rory Patrick 
+    * Tutor support - which was available to us from code Institute 
+    * W3 Schools - Support from there was obtained for various values and ideas 
 
 [BACK TO TOP](#table-of-contents)
 
