@@ -114,6 +114,14 @@ body{
     }
 }
 
+/*----------------------------------------------------GET STARTED SECTION*/
+
+#get-started{
+    background-color: white;
+    color: black;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1401px) { ... }
