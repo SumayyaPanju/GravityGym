@@ -210,7 +210,15 @@ FOR ALL PAGES
 
 #### Solved Bugs
 
+The following bugs were identified whilst creating the website. These bugs were tested and fixed. The table below shows what bugs were identified, tested and fixed. 
+
+| Number    | Bug   | Identified    |  Tested   |  Fixed    | Description   |
+|---        | ---   | ---           |  ---      |  ---      | ---           |
+|1          | Unwanted space |<a href="/assets/images/screenshots/unwanted space identified.png">Screenshot</a>|<a href="/assets/images/screenshots/unwated space tested in dev tools.png">Screenshot</a>|<a href="/assets/images/screenshots/unwated space fixed.png">Screenshot</a>|There was unwanted space betweem the upper image and lower image for smaller screen size. This was tested using dev tools and then fixed on GitPod|
+| 2|
+
 [BACK TO TOP](#table-of-contents)
+
 
 #### Unsolved Bugs
 
