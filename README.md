@@ -233,7 +233,14 @@ FOR ALL PAGES
 
 ### Media
 
-* **Logo** - https://pngtree.com/freepng/gym-vector-design_8875711.html
+A range of images were used from various websites. The link from where the images were sourced has been referenced here:
+
+* **Logo** - [Visit Original Source Here](https://pngtree.com/freepng/gym-vector-design_8875711.html)
+* **Full width Image** - [Visit Original Source Here](https://topflexfitness.co.uk/cdn/shop/files/Untitled_design_-_2024-05-24T113406.722-min.jpg?v=1716546925&width=2000)
+* **Getting Started** - [Visit Original Source Here](https://stablediffusionweb.com/fr/image/6614364-hyper-realistic-gym-workout)
+* **Personal Trainer** - [Visit Original Source Here](https://www.revolution-pts.com/locations/personal-trainer-withdean-sports-complex)
+
+
 
 [BACK TO TOP](#table-of-contents)
 
