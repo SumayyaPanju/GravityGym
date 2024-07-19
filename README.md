@@ -178,6 +178,15 @@ FOR ALL PAGES
 
 # Technologies used
 
+* **HTML5** - Language used to make the website
+* **CSS** - Language used to make the website 
+* [**Bootstrap**](https://getbootstrap.com/) - Bootstrap v5.3 was used to make the website responsive and for styling purposes 
+* [**Font Awesome**](https://fontawesome.com/) - Font awesome was used for icons and better user experience. 
+* [**Google Fonts**](https://fonts.google.com/?preview.layout=grid) - Google fonts was used to import fonts on to the website. The font used for this website was 'Fjalla One' and 'Barlow'. 
+* [**Balsamiq**](https://balsamiq.com/) - Desktop version of Balsamiq was used to create [wireframes](#wireframes) for the website for mobile, tablet and laptop devices. 
+* **Git** - Git was used for version control. For this [GitPod]https://www.gitpod.io/) and [GitHub](https://github.com/) was also used.  
+* [**GitHub**](https://github.com/) - Project code that was written up on [GitPod](https://www.gitpod.io/) was stored here. Codes were pushed onto the GitHub using add and commit commands. 
+* [**GitPod**](https://www.gitpod.io/) - This platform was used to writeup the code. Code from here was pushed onto the [GitHub](https://github.com/) using add and commit commands. 
 [BACK TO TOP](#table-of-contents)
 
 ---
