@@ -94,7 +94,7 @@ body{
     width: 100%;
     overflow: hidden;
     position: relative;
-    margin-top: 20px;
+;    margin-top: 20px;
 }
 #full-width-image{
     background: url("/assets/images/full-width.jpg") no-repeat center top;
@@ -119,12 +119,59 @@ body{
 #get-started{
     background-color: white;
     color: black;
-    padding-top: 30px;
-    margin-bottom: 30px;
+    height: 80vh;
+    width: 100%;
+    align-content: center;
+    margin:0;
 }
+
+#get-started-text-cont h2{
+    font-size: 200%;
+    letter-spacing: 2px;
+    font-weight: 900;
+}
+
+#get-started-text-cont p{
+    font-size: 125%;
+    letter-spacing: 2px;
+    font-weight: 400;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40vw;
+}
+
+#get-started-img-cont{
+    height: 80vh;
+    padding: 0;
+}
+#get-started-img{
+    background: url("/assets/images/get-started.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80vh;
+    width: auto;
+
+    animation-name: started-img-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+/*Zooms the image - gives it some transition*/
+@keyframes started-img-zoom {
+    from{
+        transform: scale(0.9);
+    }
+    to{
+        transform: scale(1.0);
+    }
+
+}
+
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
-@media (min-width: 1401px) { ... }
+@media (min-width: 1401px) { 
+    
+ }
 
 /* X-Large devices (large desktops, less than 1400px)*/
 @media (max-width: 1400px) { ... }
@@ -167,4 +214,15 @@ body{
         height:300px;
         width: 100%;
     }
+    #get-started-text-cont p{
+        font-size: 100%;
+        width: 80vw;
+    }
+    #get-started{
+        height: auto;
+        width: 100%;
+        align-content: center;
+        margin:0;
+        padding-top: 20px;
+        padding-bottom: 20px;
  }
