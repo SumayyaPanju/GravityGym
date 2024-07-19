@@ -187,6 +187,7 @@ FOR ALL PAGES
 * **Git** - Git was used for version control. For this [GitPod]https://www.gitpod.io/) and [GitHub](https://github.com/) was also used.  
 * [**GitHub**](https://github.com/) - Project code that was written up on [GitPod](https://www.gitpod.io/) was stored here. Codes were pushed onto the GitHub using add and commit commands. 
 * [**GitPod**](https://www.gitpod.io/) - This platform was used to writeup the code. Code from here was pushed onto the [GitHub](https://github.com/) using add and commit commands. 
+* [**DevTools**](https://developer.chrome.com/docs/devtools) - Dev tools was used to identify ways in which the bugs can be resolved
 [BACK TO TOP](#table-of-contents)
 
 ---
@@ -216,6 +217,7 @@ The following bugs were identified whilst creating the website. These bugs were 
 |---        | ---   | ---           |  ---      |  ---      | ---           |
 |1          | Unwanted space |<a href="/assets/images/screenshots/unwanted space identified.png">Screenshot</a>|<a href="/assets/images/screenshots/unwated space tested in dev tools.png">Screenshot</a>|<a href="/assets/images/screenshots/unwated space fixed.png">Screenshot</a>|There was unwanted space betweem the upper image and lower image for smaller screen size. This was tested using dev tools and then fixed on GitPod|
 | 2|
+
 
 [BACK TO TOP](#table-of-contents)
 
