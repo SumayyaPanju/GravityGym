@@ -113,7 +113,7 @@ body{
     margin:0;
 }
 
-.textbox-cont-text h2{
+.textbox-cont-text h2, #faci-heading{
     font-size: 200%;
     letter-spacing: 2px;
     font-weight: 900;
@@ -157,7 +157,7 @@ body{
     animation-duration: 3s;
     animation-fill-mode: forwards;
 }
-/*Zooms the image - gives it some transition*/
+/*Zooms the image for getting started and personal trainer- gives it some transition*/
 @keyframes started-img-zoom {
     from{
         transform: scale(0.9);
@@ -167,7 +167,47 @@ body{
     }
 
 }
+/*----------------------------------------------------Facilities*/
+#faci-cont{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
 
+#faci-heading{
+    padding-bottom: 50px;
+}
+
+.group-cont{
+    width: 300px;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.group-cont img{
+    width: 140px;
+    height: auto;
+    filter: brightness(0) invert(1);
+}
+
+.group-cont img:hover{
+    width: 145px;
+    filter: none;
+
+}
+
+.group-cont h3{
+    font-family: "Fjalla One", 'Franklin Gothic Medium';
+    transform: scaleY(0.8);
+    padding-top: 20px;
+    letter-spacing: 2px;
+}
+
+.faci-p{
+    letter-spacing: 2px;
+    font-weight: 400;
+    padding: 0 15px;
+}
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1401px) { 
@@ -237,4 +277,5 @@ body{
         align-content: center;
         margin:0;
     }
+    
 }
