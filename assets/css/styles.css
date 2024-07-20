@@ -120,7 +120,6 @@ body{
 }
 
 .textbox-cont-text p{
-    font-size: 100%;
     letter-spacing: 2px;
     font-weight: 400;
     margin-left: auto;
@@ -171,14 +170,19 @@ body{
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1401px) { 
-    
  }
 
 /* X-Large devices (large desktops, less than 1400px)*/
-@media (max-width: 1400px) { ... }
+@media (max-width: 1400px) { 
+    .textbox-cont-text p{
+        font-size: 125%;}
+ }
 
 /* Large devices (desktops, less than 1200px)*/
-@media (max-width: 1200px) { ... }
+@media (max-width: 1200px) { 
+    .textbox-cont-text p{
+        font-size: 100%;}
+ }
 
 /* Medium devices (tablets, less than 992px)*/
 @media (max-width: 992px) { ... }
@@ -216,7 +220,6 @@ body{
         width: 100%;
     }
     .textbox-cont-text p{
-        font-size: 100%;
         width: 80vw;
     }
     .textbox-cont{
