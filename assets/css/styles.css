@@ -50,7 +50,7 @@ body{
 .nav a{
     text-decoration: none;
     color: white;
-    font-size: 75%;
+    font-size: 115%;
 }
 
 .nav li{
@@ -117,6 +117,7 @@ body{
     font-size: 200%;
     letter-spacing: 2px;
     font-weight: 900;
+    padding-top:30px;
 }
 
 .textbox-cont-text p{
@@ -182,8 +183,10 @@ body{
 @media (max-width: 1200px) { 
     .textbox-cont-text p{
         font-size: 100%;}
- }
-
+    .nav a{
+        font-size: 100%;
+    }
+}
 /* Medium devices (tablets, less than 992px)*/
 @media (max-width: 992px) { ... }
 
@@ -192,6 +195,9 @@ body{
       .navtext {
         font-weight:600;
         padding: 10px 10px 10px 10px;
+    }
+    .nav a{
+        font-size: 75%;
     }
     #full-width-cont{
         height:400px;
@@ -209,6 +215,9 @@ body{
     .navtext {
         font-weight:600;
         padding: 10px 10px 10px 10px;
+    }
+    .nav a{
+        font-size: 80%;
     }
     #full-width-cont{
         height:300px;
