@@ -213,10 +213,10 @@ FOR ALL PAGES
 
 The following bugs were identified whilst creating the website. These bugs were tested and fixed. The table below shows what bugs were identified, tested and fixed. 
 
-| Number    | Bug   | Identified    |  Tested   |  Fixed    | Description   |
-|---        | ---   | ---           |  ---      |  ---      | ---           |
-|1          | Unwanted space |<a href="/assets/images/screenshots/unwanted space identified.png">Screenshot</a>|<a href="/assets/images/screenshots/unwated space tested in dev tools.png">Screenshot</a>|<a href="/assets/images/screenshots/unwated space fixed.png">Screenshot</a>|There was unwanted space betweem the upper image and lower image for smaller screen size. This was tested using dev tools and then fixed on GitPod|
-| 2|
+| Date Identified    | Bug   | Identified    |  Tested   |  Fixed    | Description   | Date Fixed   |
+|---        | ---   | ---           |  ---      |  ---      | ---           | --- |
+|19/07/2024         | Unwanted space |<a href="/assets/images/screenshots/unwanted space identified.png" target="_blank">Screenshot</a>|<a href="/assets/images/screenshots/unwated space tested in dev tools.png" target="_blank">Screenshot</a>|<a href="/assets/images/screenshots/unwated space fixed.png" target="_blank">Screenshot</a>|There was unwanted space betweem the upper image and lower image for smaller screen size. This was tested using dev tools and then fixed on GitPod| 19/07/2024|
+| 19/07/2024|Unalligned Nav Items |<a href="/assets/images/screenshots/p2-identified.png" target="_blank">Screenshot</a>|<a href="/assets/images/screenshots/p2-tested.png" target="_blank">Screenshot</a>|<a href="/assets/images/screenshots/p2-fixed.png" target="_blank">Screenshot</a>|Nav Items were not alligning correctly. I was unable to fix the problem myself. Support from my mentor was sougth on this. He helped me identify the issue using DevTools and showed me how I could use Bootstrap to resolve this issue. | 19/07/2024|
 
 
 [BACK TO TOP](#table-of-contents)
