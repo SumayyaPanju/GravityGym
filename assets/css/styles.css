@@ -107,7 +107,7 @@ body{
 .textbox-cont {
     background-color: white;
     color: black;
-    height: 80vh;
+    height: auto;
     width: 100%;
     align-content: center;
     margin:0;
@@ -227,4 +227,5 @@ body{
         width: 100%;
         align-content: center;
         margin:0;
+    }
 }
