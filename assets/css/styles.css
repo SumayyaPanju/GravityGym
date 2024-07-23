@@ -242,6 +242,7 @@ body{
     transform: scaleY(0.8);
     padding-top: 20px;
     letter-spacing: 2px;
+
 }
 
 .footer-group p{
@@ -262,13 +263,14 @@ body{
     font-size: 200%;
     padding-right: 30px;
 }
+
 #copyright-section{
     text-align: center;
     padding: 10px;
 }
 #copyright-section{
     letter-spacing: 2px;
-    font-weight: 900;}
+    font-weight: 500;}
 
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
@@ -288,9 +290,13 @@ body{
     .nav a{
         font-size: 100%;
     }
+    
 }
 /* Medium devices (tablets, less than 992px)*/
-@media (max-width: 992px) { 
+@media (max-width: 992px) {
+    #social-icons a{
+        font-size: 150%;
+    } 
  }
 
 /* Small devices (landscape phones, less than 768px)*/
@@ -311,6 +317,7 @@ body{
         height:400px;
         width: 100%;
     }
+
  }
 
  /* X-Small devices (portrait phones, less than 576px)*/
@@ -344,5 +351,14 @@ body{
         display: none;
     }
 
-
+    #add-social{
+        display: flex;
+    }
+    #addr{
+        width: 50%;
+    }
+    #social-icons {
+        display: flex;
+        align-items: flex-end;
+    }
 }
