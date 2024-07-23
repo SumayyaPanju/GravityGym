@@ -113,7 +113,7 @@ body{
     margin:0;
 }
 
-.textbox-cont-text h2, #faci-heading{
+.textbox-cont-text h2, #faci-heading, #testimonial-heading{
     font-size: 200%;
     letter-spacing: 2px;
     font-weight: 900;
@@ -207,6 +207,30 @@ body{
     font-weight: 400;
     padding: 0;
 }
+/*----------------------------------------------------Facilities*/
+#testimonial-section{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-color: white;
+}
+
+#testimonial-heading{
+    padding-bottom: 50px;
+    color: black;
+}
+.testimonial-groups{
+    color: black;
+}
+
+.testimonial-groups h3{
+    font-family: "Fjalla One", 'Franklin Gothic Medium';
+    transform: scaleY(0.8);
+    padding-top: 20px;
+    letter-spacing: 2px;
+}
+.testimonial-groups p{
+    min-height: 200px;
+}
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1401px) { 
@@ -227,7 +251,8 @@ body{
     }
 }
 /* Medium devices (tablets, less than 992px)*/
-@media (max-width: 992px) { ... }
+@media (max-width: 992px) { 
+ }
 
 /* Small devices (landscape phones, less than 768px)*/
 @media (max-width: 768px) { 
@@ -279,5 +304,4 @@ body{
     .faci-p{
         display: none;
     }
-    
 }
