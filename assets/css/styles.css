@@ -178,20 +178,19 @@ body{
 }
 
 .group-cont{
-    width: 300px;
     padding: 0;
     margin: 0;
     
 }
 
 .group-cont img{
-    width: 140px;
+    width: 120px;
     height: auto;
     filter: brightness(0) invert(1);
 }
 
 .group-cont img:hover{
-    width: 145px;
+    width: 125px;
     filter: none;
 
 }
@@ -206,7 +205,7 @@ body{
 .faci-p{
     letter-spacing: 2px;
     font-weight: 400;
-    padding: 0 15px;
+    padding: 0;
 }
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
@@ -276,6 +275,9 @@ body{
         width: 100%;
         align-content: center;
         margin:0;
+    }
+    .faci-p{
+        display: none;
     }
     
 }
