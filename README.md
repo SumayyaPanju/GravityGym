@@ -184,7 +184,7 @@ FOR ALL PAGES
 * [**Font Awesome**](https://fontawesome.com/) - Font awesome was used for icons and better user experience. 
 * [**Google Fonts**](https://fonts.google.com/?preview.layout=grid) - Google fonts was used to import fonts on to the website. The font used for this website was 'Fjalla One' and 'Barlow'. 
 * [**Balsamiq**](https://balsamiq.com/) - Desktop version of Balsamiq was used to create [wireframes](#wireframes) for the website for mobile, tablet and laptop devices. 
-* **Git** - Git was used for version control. For this [GitPod]https://www.gitpod.io/) and [GitHub](https://github.com/) was also used.  
+* **Git** - Git was used for version control. For this [GitPod](https://www.gitpod.io/) and [GitHub](https://github.com/) was also used.  
 * [**GitHub**](https://github.com/) - Project code that was written up on [GitPod](https://www.gitpod.io/) was stored here. Codes were pushed onto the GitHub using add and commit commands. 
 * [**GitPod**](https://www.gitpod.io/) - This platform was used to writeup the code. Code from here was pushed onto the [GitHub](https://github.com/) using add and commit commands. 
 * [**DevTools**](https://developer.chrome.com/docs/devtools) - Dev tools was used to identify ways in which the bugs can be resolved
@@ -263,10 +263,15 @@ The following bugs were identified whilst creating the website. These bugs were 
 ### Content
 
 The following websites were used to gather ideas on how to design the website and what content to include. These websites was also used to decide what features I did not want to include on this project:
-* [**Village Gym**](https://www.villagegym.co.uk/)
-* [**Pure Gym**](https://www.puregym.com/)
-* [**JD Gyms**](https://www.jdgyms.co.uk/)
-* [**Places Leisure**](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/)
+* **Village Gym** - [Visit Content Here](https://www.villagegym.co.uk/)
+* **Pure Gym** - [Visit Content Here](https://www.puregym.com/)
+* **JD Gyms** - [Visit Content Here](https://www.jdgyms.co.uk/)
+* **Places Leisure** - [Visit Content Here](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/)
+* **Names for Testimonial section** - Fake names created using Name-Generator - [Visit Content Here](https://www.name-generator.org.uk/quick/)
+* **Testimoinal of Sara Thomas**- [Visit Content Here] [Date of experience: 02 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
+* **Testimoinal of Sam Oneal**- [Visit Content Here] [Date of experience: 08 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
+* **Testimoinal of Mark Duncan**- [Visit Content Here] [Date of experience: 05 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
+* **Testimoinal of Sara Thomas**- [Visit Content Here] [Date of experience: 03 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=6)
 
 [BACK TO TOP](#table-of-contents)
 
@@ -279,6 +284,10 @@ A range of images were used from various websites. The link from where the image
 * **Full width Image** - [Visit Original Source Here](https://topflexfitness.co.uk/cdn/shop/files/Untitled_design_-_2024-05-24T113406.722-min.jpg?v=1716546925&width=2000)
 * **Getting Started** - [Visit Original Source Here](https://stablediffusionweb.com/fr/image/6614364-hyper-realistic-gym-workout)
 * **Personal Trainer** - [Visit Original Source Here](https://www.revolution-pts.com/locations/personal-trainer-withdean-sports-complex)
+* **Mark Duncan** In testimonial section- [Visit Original Source Here](https://www.freepik.com/premium-ai-image/photo-young-adult-doing-indoor-sport-gym_121273542.htm)
+* **Sam Oneal** In testimonial section- [Visit Original Source Here](https://www.freepik.com/premium-ai-image/healthy-muscular-man-showing-thumbs-up-looking-into-lens-smiling-gym_138039830.htm)
+* **Sara Thomas** In testimonial section- [Visit Original Source Here](https://fr.freepik.com/photos-premium/belle-femme-athletique-souriante-entraineur-fitness-dans-salle-gym-musculation-sportive-s-entrainer_60873461.htm)
+* **India Nixon** In testimonial section- [Visit Original Source Here](https://img.freepik.com/photos-premium/femme-parle-au-telephone-dans-salle-sport_826801-2792.jpg)
 
 
 
