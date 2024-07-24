@@ -8,10 +8,27 @@ body{
     font-family: "Barlow", sans-serif;
     background-color: black;
     color: white;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-size: 100%;
 }
 
 #body-container{
     margin-top: 20px;
+}
+
+/*----------------------------------------------TYPOGRAPHY*/
+
+.textbox-cont-text h2, #faci-heading, #testimonial-heading{
+    font-size: 200%;
+    font-weight: 900;
+    padding-top:30px;
+}
+
+.group-cont h3, .testimonial-groups h3, .footer-group h3{
+    font-family: "Fjalla One", 'Franklin Gothic Medium';
+    transform: scaleY(0.8);
+    padding-top: 20px;
 }
 
 /*----------------------------------------------HEAD SECTION*/
@@ -22,9 +39,6 @@ body{
 }
 
 #org-logo{
-    margin: 0;
-    padding: 0;
-    padding-left:20px;
     height: 100px;
     width: auto;
     filter: invert(100%);
@@ -33,9 +47,10 @@ body{
 #org-name{
     font-family: "Fjalla One", 'Franklin Gothic Medium';
     margin: 0;
-    color: white;
-    vertical-align: bottom;
     padding: 0;
+    color: white;
+    display: inline-block;
+    vertical-align: text-top;
     letter-spacing: 3px;
     font-size: 60px;
 }
@@ -43,8 +58,6 @@ body{
 /*---------------------------------------NAVIGATION SECTION*/
 .nav{
     justify-content: center;
-    width: 100%;
-    
 }
 
 .nav a{
@@ -54,9 +67,7 @@ body{
 }
 
 .nav li{
-    border-style: solid;
-    border-color: white;
-    border-width: 3px;
+    border: solid white 3px; 
     height: auto;
     margin-bottom: 10px;
 }
@@ -65,7 +76,8 @@ body{
     display: block;
     padding-bottom: 5px;
 }
-.navtext {
+
+.navtext{
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;
@@ -92,17 +104,16 @@ body{
 #full-width-cont{
     height:500px;
     width: 100%;
-    overflow: hidden;
-    position: relative;
-;    margin-top: 20px;
+    margin-top: 20px;
 }
+
 #full-width-image{
     background: url("/assets/images/full-width.jpg") no-repeat center top;
     height:500px;
     width: 100%;
 }
 
-/*----------------------------------------------------GET STARTED SECTION*/
+/*----------------------------------------------------GET STARTED SECTION AND PERSONAL TRAINER*/
 
 .textbox-cont {
     background-color: white;
@@ -113,16 +124,7 @@ body{
     margin:0;
 }
 
-.textbox-cont-text h2, #faci-heading, #testimonial-heading{
-    font-size: 200%;
-    letter-spacing: 2px;
-    font-weight: 900;
-    padding-top:30px;
-}
-
 .textbox-cont-text p{
-    letter-spacing: 2px;
-    font-weight: 400;
     margin-left: auto;
     margin-right: auto;
     width: 40vw;
@@ -132,31 +134,28 @@ body{
     height: 80vh;
     padding: 0;
 }
+
 #images-cont-gs{
-    background: url("/assets/images/get-started.jpg");
+    background: url("/assets/images/get-started.jpg") no-repeat center;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
     height: 80vh;
     width: auto;
-
     animation-name: started-img-zoom;
     animation-duration: 3s;
     animation-fill-mode: forwards;
 }
 
 #images-cont-pt{
-    background: url("/assets/images/pt.jpeg");
+    background: url("/assets/images/pt.jpeg") no-repeat center;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
     height: 80vh;
     width: auto;
-
     animation-name: started-img-zoom;
     animation-duration: 3s;
     animation-fill-mode: forwards;
 }
+
+
 /*Zooms the image for getting started and personal trainer- gives it some transition*/
 @keyframes started-img-zoom {
     from{
@@ -165,8 +164,8 @@ body{
     to{
         transform: scale(1.0);
     }
-
 }
+
 /*----------------------------------------------------Facilities*/
 #faci-cont{
     padding-bottom: 50px;
@@ -177,77 +176,43 @@ body{
     padding-bottom: 50px;
 }
 
-.group-cont{
-    padding: 0;
-    margin: 0;
-    
-}
-
 .group-cont img{
-    width: 120px;
+    width: 80px;
     height: auto;
     filter: brightness(0) invert(1);
 }
 
 .group-cont img:hover{
-    width: 125px;
+    width: 85px;
     filter: none;
-
-}
-
-.group-cont h3{
-    font-family: "Fjalla One", 'Franklin Gothic Medium';
-    transform: scaleY(0.8);
-    padding-top: 20px;
-    letter-spacing: 2px;
 }
 
 .faci-p{
-    letter-spacing: 2px;
-    font-weight: 400;
     padding: 0;
 }
+
 /*----------------------------------------------------Testimonials*/
 #testimonial-section{
     padding-bottom: 50px;
     padding-top: 50px;
     background-color: white;
+    color: black;
 }
 
 #testimonial-heading{
-    padding-bottom: 50px;
-    color: black;
-}
-.testimonial-groups{
-    color: black;
+    padding-bottom: 30px;
 }
 
-.testimonial-groups h3{
-    font-family: "Fjalla One", 'Franklin Gothic Medium';
-    transform: scaleY(0.8);
-    padding-top: 20px;
-    letter-spacing: 2px;
-}
 .testimonial-groups p{
     min-height: 200px;
 }
 /*----------------------------------------------------Footer*/
 #footer-section{
-    padding-left: 20px;
-}
-
-.footer-group h3{
-    padding-top: 20px;
-    font-family: "Fjalla One", 'Franklin Gothic Medium';
-    transform: scaleY(0.8);
-    padding-top: 20px;
-    letter-spacing: 2px;
-
+    padding: 40px 20px 10px 20px;
 }
 
 .footer-group p{
     line-height: 1.2;
-    letter-spacing: 2px;
 }
 
 #social-icons p{
@@ -256,6 +221,8 @@ body{
 
 .footer-bold{
     font-weight: 700;
+    color: #e41023;
+    text-transform: uppercase;
 }
 #social-icons a{
     text-decoration: none;
@@ -274,33 +241,42 @@ body{
 
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
-@media (min-width: 1401px) { 
- }
+@media (min-width: 1401px) {... }
 
 /* X-Large devices (large desktops, less than 1400px)*/
 @media (max-width: 1400px) { 
+    /*Makes the div section large for get started and personal trainer*/
     .textbox-cont-text p{
         font-size: 125%;}
  }
 
 /* Large devices (desktops, less than 1200px)*/
-@media (max-width: 1200px) { 
-    .textbox-cont-text p{
-        font-size: 100%;}
-    .nav a{
-        font-size: 100%;
-    }
-    
-}
+@media (max-width: 1200px) {... }
+
 /* Medium devices (tablets, less than 992px)*/
 @media (max-width: 992px) {
-    #social-icons a{
+    /*Makes the menu text fit on the div nicely without overlapping*/
+    .nav a{
+        font-size: 90%;
+    }
+    /*Makes social icons responsive*/
+        #social-icons a{
         font-size: 150%;
     } 
  }
 
 /* Small devices (landscape phones, less than 768px)*/
 @media (max-width: 768px) { 
+    /*Resize the full width image container*/
+    #full-width-cont{
+        height:400px;
+        width: 100%;
+    }
+    #full-width-image{
+        height:400px;
+        width: 100%;
+    }
+    /*Makes menu responsive by resizing*/
       .navtext {
         font-weight:600;
         padding: 10px 10px 10px 10px;
@@ -308,64 +284,40 @@ body{
     .nav a{
         font-size: 75%;
     }
-    #full-width-cont{
-        height:400px;
-        width: 100%;
-    }
-    #full-width-image{
-        background: url("/assets/images/full-width.jpg") no-repeat top left;
-        height:400px;
-        width: 100%;
-    }
+    /*Makes social icons responsive*/
     #social-icons a{
         padding-right: 10px;
    }
-
  }
 
  /* X-Small devices (portrait phones, less than 576px)*/
 @media (max-width: 576px) { 
-    .navtext {
-        font-weight:600;
-        padding: 10px 10px 10px 10px;
-    }
-    .nav a{
-        font-size: 80%;
-    }
+    /*Resize the full width image container*/
     #full-width-cont{
         height:300px;
         width: 100%;
     }
     #full-width-image{
-        background: url("/assets/images/full-width.jpg") no-repeat top center;
         height:300px;
         width: 100%;
+    }
+    /*Makes Organisation name responsive*/
+    #org-name{
+        font-size: 300%;
     }
     .textbox-cont-text p{
         width: 80vw;
     }
-    .textbox-cont{
-        height: auto;
-        width: 100%;
-        align-content: center;
-        margin:0;
-    }
+    /*Hides facility description*/
     .faci-p{
         display: none;
     }
-
+    /*To position social icons*/
     #add-social{
-        display: flex;
-    }
-    #addr{
-        width: 50%;
-    }
-    #social-icons {
         display: flex;
         align-items: flex-end;
     }
-    #social-icons a{
-         padding-right: 10px;
-         margin-left: 50%;
+    #addr{
+        width: 50%;
     }
 }
