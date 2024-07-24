@@ -267,10 +267,10 @@ body{
 #copyright-section{
     text-align: center;
     padding: 10px;
-}
-#copyright-section{
     letter-spacing: 2px;
-    font-weight: 500;}
+    font-weight: 500;
+    font-size: 80%;
+}
 
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
@@ -317,6 +317,9 @@ body{
         height:400px;
         width: 100%;
     }
+    #social-icons a{
+        padding-right: 10px;
+   }
 
  }
 
@@ -363,5 +366,6 @@ body{
     }
     #social-icons a{
          padding-right: 10px;
+         margin-left: 50%;
     }
 }
