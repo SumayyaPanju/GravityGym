@@ -312,6 +312,10 @@ body{
     .faci-p{
         display: none;
     }
+    /*Resize text to make page responsive*/
+    .group-cont h3{
+        font-size: 100%;
+    }
     /*To position social icons*/
     #add-social{
         display: flex;
