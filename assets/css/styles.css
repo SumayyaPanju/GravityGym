@@ -6,8 +6,8 @@
 /*----------------------------------------------BODY STYLING*/
 body{
     font-family: "Barlow", sans-serif;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     letter-spacing: 2px;
     font-weight: 400;
     font-size: 100%;
@@ -33,6 +33,10 @@ body{
 
 /*----------------------------------------------HEAD SECTION*/
 
+#header-container{
+    background-color: black;
+    color: white;
+}
 #head-section{
     padding-bottom: 30px;
     text-align: center;
@@ -58,6 +62,7 @@ body{
 /*---------------------------------------NAVIGATION SECTION*/
 .nav{
     justify-content: center;
+    margin-bottom: 20px;
 }
 
 .nav a{
@@ -104,13 +109,14 @@ body{
 #full-width-cont{
     height:500px;
     width: 100%;
-    margin-top: 20px;
+    overflow: hidden;
 }
 
 #full-width-image{
     background: url("/assets/images/full-width.jpg") no-repeat center top;
     height:500px;
     width: 100%;
+    border-style: none;
 }
 
 /*----------------------------------------------------GET STARTED SECTION AND PERSONAL TRAINER*/
@@ -168,6 +174,8 @@ body{
 
 /*----------------------------------------------------Facilities*/
 #faci-cont{
+    background-color: black;
+    color: white;
     padding-bottom: 50px;
     padding-top: 50px;
 }
@@ -208,6 +216,8 @@ body{
 }
 /*----------------------------------------------------Footer*/
 #footer-section{
+    background-color: black;
+    color: white;
     padding: 40px 20px 10px 20px;
 }
 
@@ -251,13 +261,22 @@ body{
  }
 
 /* Large devices (desktops, less than 1200px)*/
-@media (max-width: 1200px) {... }
+@media (max-width: 1200px) {
+    /*Make paragraph responsive by resizing height*/
+    .testimonial-groups p{
+        min-height: 225px;
+}
+ }
 
 /* Medium devices (tablets, less than 992px)*/
 @media (max-width: 992px) {
     /*Makes the menu text fit on the div nicely without overlapping*/
     .nav a{
         font-size: 90%;
+    }
+    /*Make paragraph responsive by resizing height*/
+    .testimonial-groups p{
+        min-height: 310px;
     }
     /*Makes social icons responsive*/
         #social-icons a{
@@ -283,6 +302,10 @@ body{
     }
     .nav a{
         font-size: 75%;
+    }
+    /*Make paragraph responsive by resizing height*/
+    .testimonial-groups p{
+        min-height: 200px;
     }
     /*Makes social icons responsive*/
     #social-icons a{
@@ -315,6 +338,10 @@ body{
     /*Resize text to make page responsive*/
     .group-cont h3{
         font-size: 100%;
+    }
+    /*Make paragraph responsive by resizing height*/
+    .testimonial-groups p{
+        min-height: 100px;
     }
     /*To position social icons*/
     #add-social{
