@@ -36,6 +36,7 @@ body{
 #header-container{
     background-color: black;
     color: white;
+    padding-top: 20px;
 }
 #head-section{
     padding-bottom: 30px;
