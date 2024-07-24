@@ -61,47 +61,38 @@ body{
 }
 
 /*---------------------------------------NAVIGATION SECTION*/
-.nav{
-    justify-content: center;
+#gym-menu {
     margin-bottom: 20px;
 }
 
-.nav a{
+#gym-menu a{
     text-decoration: none;
     color: white;
     font-size: 115%;
-}
-
-.nav li{
     border: solid white 3px; 
     height: auto;
-    margin-bottom: 10px;
-}
-
-.navtext a i{
-    display: block;
-    padding-bottom: 5px;
-}
-
-.navtext{
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;
-    text-align: center;
-    padding: 10px 20px 10px 20px;
 }
 
-.navtext:hover{
+#gym-menu a i{
+    display: block;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#gym-menu a:hover{
     border-width: 3px;
     border-color: #e41023;
 }
 
-.nav li#active{
+#gym-menu #active{
     border-color: #e41023;
     border-width: 3px;
 }
 
-#active a span{
+#gym-menu #active span{
     color: #e41023;
 }
 
@@ -276,10 +267,10 @@ body{
 
 /* Medium devices (tablets, less than 992px)*/
 @media (max-width: 992px) {
-    /*Makes the menu text fit on the div nicely without overlapping*/
-    .nav a{
+    /*Makes the menu responsive*/
+    #gym-menu a{
         font-size: 90%;
-    }
+    } 
     /*Make paragraph responsive by resizing height*/
     .testimonial-groups p{
         min-height: 310px;
@@ -300,14 +291,6 @@ body{
     #full-width-image{
         height:400px;
         width: 100%;
-    }
-    /*Makes menu responsive by resizing*/
-      .navtext {
-        font-weight:600;
-        padding: 10px 10px 10px 10px;
-    }
-    .nav a{
-        font-size: 75%;
     }
     /*Make paragraph responsive by resizing height*/
     .testimonial-groups p{
@@ -334,6 +317,13 @@ body{
     #org-name{
         font-size: 300%;
     }
+    /*Makes the menu responsive*/
+    #gym-menu a{
+        font-size: 90%;
+    } 
+
+
+
     .textbox-cont-text p{
         width: 80vw;
     }
