@@ -113,7 +113,7 @@ body{
 }
 
 #full-width-image{
-    background: url("/assets/images/full-width.jpg") no-repeat center top;
+    background: url("../images/full-width.jpg") no-repeat center top;
     height:500px;
     width: 100%;
     border-style: none;
@@ -142,7 +142,7 @@ body{
 }
 
 #images-cont-gs{
-    background: url("/assets/images/get-started.jpg") no-repeat center;
+    background: url("../images/get-started.jpg") no-repeat center;
     background-size: cover;
     height: 80vh;
     width: auto;
@@ -152,7 +152,7 @@ body{
 }
 
 #images-cont-pt{
-    background: url("/assets/images/pt.jpeg") no-repeat center;
+    background: url("../images/pt.jpeg") no-repeat center;
     background-size: cover;
     height: 80vh;
     width: auto;
