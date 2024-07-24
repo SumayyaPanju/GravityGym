@@ -361,4 +361,7 @@ body{
         display: flex;
         align-items: flex-end;
     }
+    #social-icons a{
+         padding-right: 10px;
+    }
 }
