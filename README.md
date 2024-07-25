@@ -1,6 +1,6 @@
 # TABLE OF CONTENTS
 
-<p style="background-color:red;color:yellow;font-weight:700;"> Visit Live Project here --> Add link </p>
+Visit Live Project [here](https://sumayyapanju.github.io/GravityGym/)
 
 1. [Introduction to the Project](#introduction-to-the-project)
 2. [User Experience](#user-experience-ux)
@@ -42,7 +42,7 @@
 
 # Live Project
 
-Live project can be viewed <span style="background-color:red;color:yellow;font-weight:700;"> here - add link</span>
+Live project can be viewed [here](https://sumayyapanju.github.io/GravityGym/)
 
 [BACK TO TOP](#table-of-contents)
 
