@@ -296,7 +296,10 @@ A range of images were used from various websites. The link from where the image
 
 ### Code
 
-* **Invert logo** - https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/invert
+* **Invert logo** - Homepage uses a logo obtained from another source. However, the background colour was black. I could have edited the logo to make it white, however, this could be time consuming and may not give me the results I wanted. Hence after a bit of research, I came across this [code](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/invert) which allowed me to invert the logo colour using css. 
+* **Animation** - The homepage includes animation which works when content is on viewport. The animation plays everytime the content comes on viewport. The code has been obtained using AI method from a website called [Taskade](https://www.taskade.com/). However, the exact code can only be viewed once logged in. Hence, the code can be viewed through these images: [Image 1](/assets/images/screenshots/taskade-1.png.png), [Image 2](/assets/images/screenshots/taskade-2.png.png).
+
+
 
 * template for grid taken from Bootstrap and heavily modified 
 * Floating buttons from w3schools 
