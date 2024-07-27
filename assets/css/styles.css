@@ -22,17 +22,18 @@ body{
 
 /*----------------------------------------------TYPOGRAPHY*/
 
-.textbox-cont-text h2, #faci-heading, #testimonial-heading{
+h2{
     font-size: 200%;
     font-weight: 900;
     padding-top:30px;
     text-transform: uppercase;
 }
 
-.group-cont h3, .testimonial-groups h3, .footer-group h3{
+h3{
     font-family: "Fjalla One", 'Franklin Gothic Medium';
     transform: scaleY(0.8);
     padding-top: 20px;
+    text-transform: uppercase;
 }
 
 /*----------------------------------------------HEAD SECTION*/
@@ -334,9 +335,6 @@ footer{
     #gym-menu a{
         font-size: 90%;
     } 
-
-
-
     .textbox-cont-text p{
         width: 80vw;
     }
