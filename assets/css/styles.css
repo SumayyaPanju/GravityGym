@@ -216,6 +216,56 @@ h3{
 .testimonial-groups p{
     min-height: 200px;
 }
+
+/*----------------------------------------------------MEMBERSHIP PLANS*/
+#plans-containter-row{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.plans-containter{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+#membership-h2{
+    margin-bottom: 20px;
+}
+.pass{
+    font-size: 200%;
+}
+
+.plans-containter p{
+    text-transform: uppercase;
+}
+
+.plans-containter i{
+    font-size: larger;
+}
+
+.plans-containter p .green{
+    color: green;
+}
+
+.plans-containter p .red{
+    color: #e41023;
+}
+
+.plans-containter button{
+    margin: 20px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.plans-containter button:hover{
+    background-color: #e41023;
+    color: white;
+}
+
 /*----------------------------------------------------Footer*/
 footer{
     margin-top: auto;
@@ -357,5 +407,9 @@ footer{
     }
     #addr{
         width: 50%;
+    }
+    /*Reduces font size*/
+    #membership-h2{
+        font-size: 150%;
     }
 }
