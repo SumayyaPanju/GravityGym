@@ -288,6 +288,7 @@ A range of images were used from various websites. The link from where the image
 * **Sam Oneal** In testimonial section- [Visit Original Source Here](https://www.freepik.com/premium-ai-image/healthy-muscular-man-showing-thumbs-up-looking-into-lens-smiling-gym_138039830.htm)
 * **Sara Thomas** In testimonial section- [Visit Original Source Here](https://fr.freepik.com/photos-premium/belle-femme-athletique-souriante-entraineur-fitness-dans-salle-gym-musculation-sportive-s-entrainer_60873461.htm)
 * **India Nixon** In testimonial section- [Visit Original Source Here](https://img.freepik.com/photos-premium/femme-parle-au-telephone-dans-salle-sport_826801-2792.jpg)
+* **Question** In contact us section [Visit Original Source Here](https://www.vectorstock.com/royalty-free-vector/doodle-question-mark-vector-35835864)
 
 
 
@@ -299,6 +300,7 @@ A range of images were used from various websites. The link from where the image
 * **Invert logo** - Homepage uses a logo obtained from another source. However, the background colour was black. I could have edited the logo to make it white, however, this could be time consuming and may not give me the results I wanted. Hence after a bit of research, I came across this [code](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/invert) which allowed me to invert the logo colour using css. 
 * **Animation** - The homepage includes animation which works when content is on viewport. The animation plays everytime the content comes on viewport. The code has been obtained using AI method from a website called [Taskade](https://www.taskade.com/). However, the exact code can only be viewed once logged in. Hence, the code can be viewed through these images: [Image 1](/assets/images/screenshots/taskade-1.png), [Image 2](/assets/images/screenshots/taskade-2.png). The code was updated using the same source for it to be responsive for mobile devices. The code can be viewed through these images: [Image 3](/assets/images/screenshots/taskade-3.png), [Image 4](/assets/images/screenshots/taskade-4.png).
 * **Footer** - Footer was coded to be at the bottom of the page, however, the code was making it stick. I tried using other options such as making the body position relative and footer position absolute, however it did not give me the results I wanted. The footer would appear just below the content of the webpage. If the page has no content, the footer would appear below the nav, however, I wanted it to be at the bottom of the page even if there is no content. I used [DEV](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14) to help me sort this problem. 
+* **Centering image** - I was struggling to center the image in the contact us page which acts as a background for the form section. I used [this website](https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) to help me position the image in the center.
 
 
 
