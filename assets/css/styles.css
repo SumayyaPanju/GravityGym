@@ -284,6 +284,24 @@ h3{
 .group-2 h3{
     font-size: 150%;
 }
+
+/*----------------------------------------------------MEMBERSHIP QUERIES*/
+#membership-para{
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 600;
+}
+
+#membership-para a{
+    text-decoration: none;
+    color: #e41023;
+}
+
+#membership-para a:hover{
+    text-decoration: underline;
+    color: black;
+}
 /*----------------------------------------------------Footer*/
 footer{
     margin-top: auto;
