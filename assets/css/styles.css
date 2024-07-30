@@ -21,6 +21,8 @@ body{
 /*----------------------------------------------TYPOGRAPHY*/
 
 h2{
+    font-family: "Fjalla One", 'Franklin Gothic Medium';
+    letter-spacing: 3px;
     font-size: 200%;
     font-weight: 900;
     padding-top:30px;
