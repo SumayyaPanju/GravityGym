@@ -6,8 +6,6 @@
 /*----------------------------------------------BODY STYLING*/
 body{
     font-family: "Barlow", sans-serif;
-    background-color: white;
-    color: black;
     letter-spacing: 2px;
     font-weight: 400;
     font-size: 100%;
@@ -42,11 +40,18 @@ h3{
     padding-bottom: 50px;
 }
 
+.dark-container{
+    background-color: black;
+    color: white;
+}
+
+.light-container{
+    background-color: white;
+    color: black;
+}
 /*----------------------------------------------HEAD SECTION*/
 
 #header-container{
-    background-color: black;
-    color: white;
     padding-top: 20px;
 }
 #head-section{
@@ -64,7 +69,6 @@ h3{
     font-family: "Fjalla One", 'Franklin Gothic Medium';
     margin: 0;
     padding: 0;
-    color: white;
     display: inline-block;
     vertical-align: text-top;
     letter-spacing: 3px;
@@ -125,8 +129,6 @@ h3{
 /*----------------------------------------------------GET STARTED SECTION AND PERSONAL TRAINER*/
 
 .textbox-cont {
-    background-color: white;
-    color: black;
     height: auto;
     width: 100%;
     align-content: center;
@@ -181,10 +183,6 @@ h3{
   }
   
 /*----------------------------------------------------Facilities*/
-#faci-cont{
-    background-color: black;
-    color: white;
-}
 
 #faci-heading{
     padding-bottom: 50px;
@@ -206,10 +204,6 @@ h3{
 }
 
 /*----------------------------------------------------Testimonials*/
-#testimonial-section{
-    background-color: white;
-    color: black;
-}
 
 #testimonial-heading{
     padding-bottom: 30px;
@@ -221,8 +215,6 @@ h3{
 
 /*----------------------------------------------------MEMBERSHIP PLANS*/
 .plans-containter{
-    background-color: black;
-    color: white;
     border-radius: 5px;
 }
 #membership-h2{
