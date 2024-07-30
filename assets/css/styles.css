@@ -257,6 +257,35 @@ h3{
     color: white;
 }
 
+/*----------------------------------------------------GYM PERKS*/
+.sales-group{
+    margin-top: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.group-1{
+    background-color: #e41023;
+    padding: 10px 10px;
+    box-shadow: 5px 5px #f3c0c059;
+}
+
+.percentage-off{
+    font-size: 350%;
+    text-shadow: 10px 15px 20px #000000;
+}
+
+.group-name{
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 100%;
+    letter-spacing: 4px;
+    text-shadow: 10px 15px 20px #000000;
+}
+
+.group-2 h3{
+    font-size: 150%;
+}
 /*----------------------------------------------------Footer*/
 footer{
     margin-top: auto;
@@ -333,7 +362,7 @@ footer{
     /*Makes social icons responsive*/
         #social-icons a{
         font-size: 150%;
-    } 
+    }
  }
 
 /* Small devices (landscape phones, less than 768px)*/
