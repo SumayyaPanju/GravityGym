@@ -533,8 +533,10 @@ footer{
     #gym-menu a{
         font-size: 90%;
     } 
+    /*Resizes the description for get started and personal trainer*/
     .textbox-cont-text p{
-        width: 80vw;
+        width: 90vw;
+        font-size: 90%;
     }
     /*Hides facility description*/
     .faci-p{
@@ -555,6 +557,11 @@ footer{
     }
     #addr{
         width: 50%;
+    }
+    #social-icons a{
+        margin-left: 40%;
+        font-size: 125%;
+        display: flex;
     }
     /*Reduces font size*/
     #membership-h2{
