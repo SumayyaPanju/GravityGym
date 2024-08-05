@@ -302,6 +302,8 @@ A range of images were used from various websites. The link from where the image
 * **Footer** - Footer was coded to be at the bottom of the page, however, the code was making it stick. I tried using other options such as making the body position relative and footer position absolute, however it did not give me the results I wanted. The footer would appear just below the content of the webpage. If the page has no content, the footer would appear below the nav, however, I wanted it to be at the bottom of the page even if there is no content. I used [DEV](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14) to help me sort this problem. 
 * **Centering image** - I was struggling to center the image in the contact us page which acts as a background for the form section. I used [this website](https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) to help me position the image in the center.
 * **Styling input fields** - I wanted to style the input fields but I did not know how to target them. I used [this website](https://www.w3schools.com/css/css_form.asp) to help me target the input fields to achieve the look I want. 
+* **Tabs** - Tabs was used for adding classes schedules. Tabs was used instead of tables in order to prevent overload of information at viewport. [this website](https://www.w3schools.com/howto/howto_js_tabs.asp) was used to create tabs, its content and for its styling. 
+* **Table Row Hover** - To enable a more focused view for the row, the row is highlighted. [This website](https://www.textfixer.com/tutorials/highlight-table-row.php) is used to obtain the code for highlighting a row upon hovering the row. 
 
 
 
