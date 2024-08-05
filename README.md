@@ -268,10 +268,11 @@ The following websites were used to gather ideas on how to design the website an
 * **JD Gyms** - [Visit Content Here](https://www.jdgyms.co.uk/)
 * **Places Leisure** - [Visit Content Here](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/)
 * **Names for Testimonial section** - Fake names created using Name-Generator - [Visit Content Here](https://www.name-generator.org.uk/quick/)
-* **Testimoinal of Sara Thomas**- [Visit Content Here] [Date of experience: 02 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
-* **Testimoinal of Sam Oneal**- [Visit Content Here] [Date of experience: 08 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
-* **Testimoinal of Mark Duncan**- [Visit Content Here] [Date of experience: 05 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
-* **Testimoinal of Sara Thomas**- [Visit Content Here] [Date of experience: 03 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=6)
+* **Testimoinal of Sara Thomas**- Visit Content Here [Date of experience: 02 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
+* **Testimoinal of Sam Oneal**- Visit Content Here [Date of experience: 08 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
+* **Testimoinal of Mark Duncan**- Visit Content Here [Date of experience: 05 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
+* **Testimoinal of Sara Thomas**- Visit Content Here [Date of experience: 03 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=6)
+* **Classes Timetable** - [Visit content here](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/) - Schedule content was obtained from this website 
 
 [BACK TO TOP](#table-of-contents)
 
