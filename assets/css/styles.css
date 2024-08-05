@@ -392,6 +392,20 @@ textarea,
     color: white;
 }
 
+/*----------------------------------------------------Thank you*/
+#thank-you {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto 3%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#thank-you h2 {
+    padding-bottom: 20px;
+    font-size: 400%;
+}
+
 /*----------------------------------------------------Footer*/
 footer {
     margin-top: auto;
