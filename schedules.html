@@ -45,6 +45,41 @@
                 </nav>
             </div>
         </header>
+        <section class="light-container" id="classes">
+            <h2>classes</h2>
+            <!--Links to tab content-->
+            <div class="tab">
+                <button class="tablinks" onclick="openDay(event, 'Monday')">Monday</button>
+                <button class="tablinks" onclick="openDay(event, 'Tuesday')">Tuesday</button>
+                <button class="tablinks" onclick="openDay(event, 'Wednesday')">Wednesday</button>
+                <button class="tablinks" onclick="openDay(event, 'Thursday')">Thursday</button>
+                <button class="tablinks" onclick="openDay(event, 'Friday')">Friday</button>
+                <button class="tablinks" onclick="openDay(event, 'Saturday')">Saturday</button>
+                <button class="tablinks" onclick="openDay(event, 'Sunday')">Sunday</button>
+            </div>
+            <!--Tab content-->
+            <div id="Monday" class="tabcontent">
+            </div>
+            <!--Tab content-->
+            <div id="Tuesday" class="tabcontent">
+            </div>
+            <!--Tab content-->
+            <div id="Wednesday" class="tabcontent">
+            </div>
+            <!--Tab content-->
+            <div id="Thursday" class="tabcontent">
+            </div>
+            <!--Tab content-->
+            <div id="Friday" class="tabcontent">
+            </div>
+            <!--Tab content-->
+            <div id="Saturday" class="tabcontent">
+            </div>
+            <!--Tab content-->
+            <div id="Sunday" class="tabcontent">
+            </div>
+
+        </section>
     </section>
     <!--Footer-->
     <footer>
@@ -103,6 +138,22 @@
             </div>
         </section>
     </footer>
+    <script>
+        function openDay(evt, dayName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(dayName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+    </script>
+
 </body>
 
 </html>
