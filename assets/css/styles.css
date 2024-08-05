@@ -348,6 +348,36 @@ h3 {
     border-top: none;
 }
 
+.classes-schedule {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.classes-schedule th,
+.classes-schedule tr,
+.classes-schedule td {
+    text-align: center;
+}
+
+.classes-schedule th {
+    font-weight: 800;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.classes-schedule th,
+.classes-schedule tr td {
+    text-align: left;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.classes-schedule tr:hover {
+    background-color: #e41023;
+    color: white;
+}
+
 /*----------------------------------------------------Contact Us*/
 #form-background {
     position: relative;
