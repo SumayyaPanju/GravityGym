@@ -567,6 +567,45 @@ footer {
     font-size: 80%;
 }
 
+/*-----------------------------------------------------404*/
+#page-not-found {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#page-not-found h2 {
+    font-size: 400%;
+    letter-spacing: 20px;
+}
+
+#page-not-found h3 {
+    font-size: 300%;
+    letter-spacing: 5px;
+}
+
+#page-not-found p {
+    font-size: 150%;
+    letter-spacing: 5px;
+    margin: 20px;
+    font-weight: 900;
+}
+
+#page-not-found button {
+    background-color: #000000;
+    color: white;
+    border: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    letter-spacing: 2px;
+    font-weight: 800;
+
+}
+
+#page-not-found button:hover {
+    background-color: #e41023;
+}
+
 /*-----------------------------------------------------MEDIA QUERIES*/
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1401px) {
