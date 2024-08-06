@@ -289,6 +289,7 @@ A range of images were used from various websites. The link from where the image
 * **Sam Oneal** In testimonial section- [Visit Original Source Here](https://www.freepik.com/premium-ai-image/healthy-muscular-man-showing-thumbs-up-looking-into-lens-smiling-gym_138039830.htm)
 * **Sara Thomas** In testimonial section- [Visit Original Source Here](https://fr.freepik.com/photos-premium/belle-femme-athletique-souriante-entraineur-fitness-dans-salle-gym-musculation-sportive-s-entrainer_60873461.htm)
 * **India Nixon** In testimonial section- [Visit Original Source Here](https://img.freepik.com/photos-premium/femme-parle-au-telephone-dans-salle-sport_826801-2792.jpg)
+* **Gallery Media** - In gallery section, two websites were used. [Visit Original Source Here - Website 1](https://www.b3fitness.co.uk/) [Visit Original Source Here - Website 2](https://www.panthersgym.com/)
 * **Question** In contact us section [Visit Original Source Here](https://www.vectorstock.com/royalty-free-vector/doodle-question-mark-vector-35835864)
 
 
