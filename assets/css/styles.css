@@ -398,16 +398,42 @@ h3 {
     color: white;
 }
 
+.download {
+    background-color: white;
+    margin-top: 20px;
+    border: solid 2px black;
+}
+
+.download a {
+    padding: 10px 15px;
+    width: max-content;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: black;
+}
+
+.download:hover {
+    background-color: #e41023;
+    margin-top: 20px;
+}
+
+.download a:hover {
+    color: white;
+}
+
 /*----------------------------------------------------Gallery*/
-#gallery-container{
+#gallery-container {
     margin-top: 50px;
     margin-bottom: 50px;
 }
 
-#gallery div img{
+#gallery div img {
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
 /*----------------------------------------------------Contact Us*/
 #form-background {
     position: relative;
