@@ -334,6 +334,7 @@ h3 {
     font-weight: 600;
     margin-top: 1%;
     margin-bottom: 1%;
+    text-decoration: none;
 }
 
 #classes .tab button:hover,
@@ -358,23 +359,18 @@ h3 {
     border: none;
 }
 
-.classes-schedule,
-.swimmiing-schedule {
+.classes-schedule {
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
 .classes-schedule th,
 .classes-schedule tr,
-.classes-schedule td,
-.swimming-schedule th,
-.swimming-schedule tr,
-.swimming-schedule td {
+.classes-schedule td {
     text-align: center;
 }
 
-.classes-schedule th,
-.swimmin-schedule th {
+.classes-schedule th {
     font-weight: 800;
     text-transform: uppercase;
     padding-top: 10px;
@@ -382,16 +378,13 @@ h3 {
 }
 
 .classes-schedule th,
-.classes-schedule tr td,
-.swimming-schedule th,
-.swimming-schedule tr td {
+.classes-schedule tr td {
     text-align: left;
     padding-right: 20px;
     padding-left: 20px;
 }
 
-.classes-schedule tr td,
-.swimming-schedule tr td {
+.classes-schedule tr td {
     text-transform: capitalize;
 }
 
@@ -400,7 +393,6 @@ h3 {
     color: white;
 }
 
-/*----------------------------------------------------Schedule swimming*/
 #swimming .tab button {
     border: solid 1px white;
     color: white;
@@ -528,7 +520,7 @@ textarea,
     color: #e41023;
 }
 
-#back-to-top-btn{
+#back-to-top-btn {
     position: fixed;
     top: 90%;
     left: 90%;
