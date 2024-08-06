@@ -646,10 +646,91 @@ footer {
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1401px) {
 
-    /*Make paragraph responsive by resizing height*/
-    .testimonial-groups p {
-        min-height: 100px;
+    /*Typography*/
+    h2 {
+        letter-spacing: 5px;
+        font-size: 300%;
     }
+
+    h3 {
+        transform: scaleY(1);
+        padding-top: 20px;
+        font-size: 200%;
+    }
+
+    p,
+    th,
+    td,
+    a,
+    button {
+        font-size: 120%;
+        letter-spacing: 4px;
+    }
+
+    /*Get started and personal trainer*/
+    .textbox-cont-text p {
+        margin-left: 40px;
+        margin-right: 40px;
+        font-size: 140%;
+    }
+
+    .images-cont {
+        height: 70vh;
+    }
+
+    #images-cont-gs {
+        height: 70vh;
+    }
+
+    #images-cont-pt {
+        height: 70vh;
+    }
+
+    /*Facilities*/
+    .faci-p {
+        padding: 20px;
+    }
+
+    /*Testimonials*/
+    .testimonial-groups p {
+        min-height: 200px;
+    }
+
+    /*Membership plans*/
+    .plans-containter {
+        border-radius: 15px;
+    }
+
+    /*Gym Perks*/
+    .sales-group {
+        margin-right: 20px;
+    }
+
+    .group-name {
+        font-size: 140%;
+    }
+
+    /*Back to top*/
+    #back-to-top-btn a {
+        top: 95%;
+        left: 92%;
+    }
+
+    #back-to-top-btn {
+        top: 95%;
+        left: 92%;
+    }
+
+    #page-not-found p {
+        font-weight: 700;
+    }
+
+    #page-not-found button {
+        margin-top: 20px;
+        padding: 1%;
+        letter-spacing: 5px;
+    }
+
 }
 
 /* X-Large devices (large desktops, less than 1400px)*/
