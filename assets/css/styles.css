@@ -754,18 +754,20 @@ footer {
     }
 
     /*Facility*/
-    .faci-p{
+    .faci-p {
         font-size: 80%;
     }
+
     /*Testimonial*/
     .testimonial-groups p {
         min-height: 120px;
     }
 
     /*Gym Perks*/
-    .sales-group{
+    .sales-group {
         padding: 1%;
     }
+
     /*Footer*/
     #social-icons a {
         font-size: 150%;
@@ -787,7 +789,7 @@ footer {
         width: 100%;
     }
 
-    .faci-p{
+    .faci-p {
         display: none;
     }
 
@@ -802,10 +804,10 @@ footer {
         display: table-row;
         margin-bottom: 20px;
         padding-left: 4%;
-        
+
     }
 
-   .group-1 {
+    .group-1 {
         display: table-cell;
         width: 35%;
         margin-right: 20px;
@@ -816,7 +818,7 @@ footer {
         vertical-align: top;
         text-align: left;
         padding-left: 25px;
-    } 
+    }
 
     .percentage-off {
         font-size: 250%;
@@ -847,12 +849,10 @@ footer {
 
     /*Back to top*/
     #back-to-top-btn a {
-        top: 90%;
         left: 85%;
     }
 
     #back-to-top-btn {
-        top: 90%;
         left: 85%;
     }
 
@@ -865,48 +865,57 @@ footer {
 /* X-Small devices (portrait phones, less than 576px)*/
 @media (max-width: 576px) {
 
-    /*Resize the full width image container*/
+    /*Full Width*/
     #full-width-cont {
-        height: 300px;
+        height: 350px;
         width: 100%;
     }
 
     #full-width-image {
-        height: 300px;
+        height: 350px;
         width: 100%;
     }
 
-    /*Makes Organisation name responsive*/
+    /*Header*/
     #org-name {
         font-size: 300%;
     }
 
-    /*Makes the menu responsive*/
+    /*Menu*/
     #gym-menu a {
         font-size: 90%;
     }
 
-    /*Resizes the description for get started and personal trainer*/
-    .textbox-cont-text p {
-        font-size: 90%;
-    }
-
-    /*Hides facility description*/
-    .faci-p {
-        display: none;
-    }
-
-    /*Resize text to make page responsive*/
-    .group-cont h3 {
-        font-size: 100%;
-    }
-
-    /*Make paragraph responsive by resizing height*/
+    /*Testimonial*/
     .testimonial-groups p {
         min-height: 100px;
     }
 
-    /*To position social icons*/
+    /*Gym Perks*/
+    .group-name {
+        display: none;
+    }
+
+    .group-2 h3 {
+        font-size: 140%;
+    }
+
+    .percentage-off {
+        font-size: 300%;
+        padding-top: 50%;
+    }
+
+
+    /*Schedule*/
+
+    .classes-schedule th,
+    .classes-schedule tr td {
+        padding-right: 3px;
+        padding-left: 3px;
+        font-size: 90%;
+    }
+
+    /*Footer*/
     #add-social {
         display: flex;
         align-items: flex-end;
@@ -916,23 +925,12 @@ footer {
         width: 50%;
     }
 
-    /*Reduces font size*/
-    #membership-h2 {
-        font-size: 150%;
+    /*Back to top*/
+    #back-to-top-btn a {
+        left: 75%;
     }
 
-    /*Classes table made responsive*/
-    .tab button {
-        padding: 2%;
-        margin-top: 2%;
-        margin-bottom: 2%;
-        font-size: 90%;
-    }
-
-    .classes-schedule th,
-    .classes-schedule tr td {
-        padding-right: 5px;
-        padding-left: 5px;
-        font-size: 80%;
+    #back-to-top-btn {
+        left: 75%;
     }
 }
