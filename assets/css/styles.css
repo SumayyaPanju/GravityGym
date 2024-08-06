@@ -623,7 +623,7 @@ footer {
     font-size: 150%;
     letter-spacing: 5px;
     margin: 20px;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 #page-not-found button {
@@ -632,9 +632,10 @@ footer {
     border: none;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 10px 20px;
-    letter-spacing: 2px;
-    font-weight: 800;
+    margin-top: 20px;
+    padding: 1%;
+    letter-spacing: 5px;
+    font-weight: 600;
 
 }
 
@@ -724,14 +725,9 @@ footer {
     #page-not-found p {
         font-weight: 700;
     }
-
-    #page-not-found button {
-        margin-top: 20px;
-        padding: 1%;
-        letter-spacing: 5px;
-    }
-
 }
+
+
 
 /* X-Large devices (large desktops, less than 1400px)*/
 @media (max-width: 1400px) {
