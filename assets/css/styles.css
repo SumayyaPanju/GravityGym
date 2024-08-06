@@ -528,6 +528,13 @@ textarea,
     color: #e41023;
 }
 
+#back-to-top-btn{
+    position: fixed;
+    top: 90%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+}
+
 /*----------------------------------------------------Footer*/
 footer {
     margin-top: auto;
