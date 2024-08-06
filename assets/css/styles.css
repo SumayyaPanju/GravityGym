@@ -500,6 +500,28 @@ textarea,
     font-size: 400%;
 }
 
+/*----------------------------------------------------Back to top*/
+
+#back-to-top-btn a {
+    position: fixed;
+    top: 90%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    padding: 5px 10px;
+    width: max-content;
+    background-color: #e41023;
+    color: white;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+#back-to-top-btn a:hover {
+    background-color: white;
+    color: #e41023;
+}
+
 /*----------------------------------------------------Footer*/
 footer {
     margin-top: auto;
