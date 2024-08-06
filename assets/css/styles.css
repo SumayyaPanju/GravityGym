@@ -778,7 +778,7 @@ footer {
 /* Small devices (landscape phones, less than 769px)*/
 @media (max-width: 769px) {
 
-    /*Resize the full width image container*/
+    /*Full width*/
     #full-width-cont {
         height: 400px;
         width: 100%;
@@ -789,16 +789,22 @@ footer {
         width: 100%;
     }
 
-    /*Make paragraph responsive by resizing height*/
+    .faci-p{
+        display: none;
+    }
+
+    /*Testimonial*/
     .testimonial-groups p {
-        min-height: 100px;
+        min-height: 130px;
         font-size: 90%;
     }
 
-    /*Gym Perks styled*/
+    /*Gym Perks*/
     .sales-group {
         display: table-row;
         margin-bottom: 20px;
+        padding-left: 4%;
+        
     }
 
    .group-1 {
@@ -827,7 +833,7 @@ footer {
         font-size: 100%;
     }
 
-    /*Classes table made responsive*/
+    /*Schedules*/
     .tab button {
         padding: 2%;
         margin-top: 2%;
@@ -839,6 +845,17 @@ footer {
     .classes-schedule tr td {
         padding-right: 10px;
         padding-left: 10px;
+    }
+
+    /*Back to top*/
+    #back-to-top-btn a {
+        top: 90%;
+        left: 85%;
+    }
+
+    #back-to-top-btn {
+        top: 90%;
+        left: 85%;
     }
 
     /*general rule to hide elements on small devices*/
