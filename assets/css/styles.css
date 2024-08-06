@@ -413,10 +413,10 @@ h3 {
     background-color: white;
     margin-top: 20px;
     border: solid 2px black;
+    padding: 10px 15px;
 }
 
 .download a {
-    padding: 10px 15px;
     width: max-content;
     letter-spacing: 2px;
     text-decoration: none;
