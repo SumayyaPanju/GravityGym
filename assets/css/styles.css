@@ -750,19 +750,28 @@ footer {
 /* Medium devices (tablets, less than 992px)*/
 @media (max-width: 992px) {
 
-    /*Makes the menu responsive*/
+    /*Menu*/
     #gym-menu a {
         font-size: 90%;
     }
 
-    /*Make paragraph responsive by resizing height*/
+    /*Facility*/
+    .faci-p{
+        font-size: 80%;
+    }
+    /*Testimonial*/
     .testimonial-groups p {
         min-height: 120px;
     }
 
-    /*Makes social icons responsive*/
+    /*Gym Perks*/
+    .sales-group{
+        padding: 1%;
+    }
+    /*Footer*/
     #social-icons a {
         font-size: 150%;
+        display: contents;
     }
 }
 
@@ -786,18 +795,13 @@ footer {
         font-size: 90%;
     }
 
-    /*Makes social icons responsive*/
-    #social-icons a {
-        padding-right: 10px;
-    }
-
     /*Gym Perks styled*/
     .sales-group {
         display: table-row;
         margin-bottom: 20px;
     }
 
-    .group-1 {
+   .group-1 {
         display: table-cell;
         width: 35%;
         margin-right: 20px;
@@ -808,7 +812,7 @@ footer {
         vertical-align: top;
         text-align: left;
         padding-left: 25px;
-    }
+    } 
 
     .percentage-off {
         font-size: 250%;
@@ -895,12 +899,6 @@ footer {
 
     #addr {
         width: 50%;
-    }
-
-    #social-icons a {
-        margin-left: 40%;
-        font-size: 125%;
-        display: flex;
     }
 
     /*Reduces font size*/
