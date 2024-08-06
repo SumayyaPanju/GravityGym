@@ -398,6 +398,16 @@ h3 {
     color: white;
 }
 
+/*----------------------------------------------------Gallery*/
+#gallery-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#gallery div img{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 /*----------------------------------------------------Contact Us*/
 #form-background {
     position: relative;
