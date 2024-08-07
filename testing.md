@@ -89,6 +89,42 @@ Based on the informaiton obtained, these browsers are used to test website compa
 [BACK TO TOP](#table-of-contents)
 ## Responsiveness
 
+To test the responsiveness of GravityGym, DevTools is used. The Device is tested at different breakpoints based on Bootstrap:
+
+|Breakpoints                        | Notes                    | Home  | Plans  | Plans - Thank you    | Gallery   | Schedules | Contact Us    | Contact Us - Thank you   | 404|Notes |
+|-----------------------------------|--------------------------|-------|--------|----------------------|-----------|-----------|---------------|--------------------------|----|------|
+| **Smallest Devices**          |Portrait phones at 320px      |        |       |        |                      |           |           |               |   |    |       |
+| **Small Devices**             |Lanscape phones at 576px      |        |       |        |                      |           |           |               |   |    |       |
+| **Medium Devices**            |Tablets at 768px              |        |       |        |                      |           |           |               |   |    |       |
+| **Large Devices**             |Small desktops at 992px       |        |       |        |                      |           |           |               |   |    |       |
+| **Extra Large Devices**       |Large desktops at 1200px      |        |       |        |                      |           |           |               |   |    |       |
+
+Further tests were carried out for responsiveness. This was carried out using [Blisk](https://blisk.io/product). The following devices have been chosen to be tested: 
+
+|Device Group                   |Device type                                | Reason for choosing                                                                               |
+|-------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|
+|**Android - Google Pixel**     |Google Pixel 8, <br> Google Pixel 8 Pro    | Pixel 8 is the latest model released in 2023/2024. Previous model of Pixel 7 has identical size   |
+|**Android - Galaxy Series**    |S22, S22 plus, S22 Ultra, S21 Ultra        | Although S24 is the latest release, this is not available on the software to be tested. The previous version is S22. Previous models have similar sizes with the exception of S21 which is slightly larger in size.|
+|**iOS**                        |iPhone 15, 15 plus, 15 Pro                 | iPhone 15 is the latest model released in 2023. iPhone 15 Pro Max is not tested as it has an identical size to iPhone 15 Plus. Previous model varies in size. Hence, instead of testing all of them, the latest models are tested. |
+|**iPad OS**                     |iPad Pro 9, 11, 12                        | Different iPads are chosen based on the sizes. The other models available on Blisk have similar sizes, hence they are not chosen for test.|
+|**Windows**                     |Smallest desktop at 1280px                | This is the smallest desktop size available on Blisk|
+|**Windows**                     |Largest desktop at 3840px                 | This is the largest desktop size available on Blisk|
+|**macOS**                       |Smallest iMac at 1440px                   | This is the smallest iMac size available on Blisk|
+|**macOS**                       |Largest iMac at 3200px                    | This is the largest iMac size available on Blisk|
+
+The results from Blisk are shown here:
+
+| Notes                                     | Home  | Plans | Plans - Thank you     | Gallery   | Schedules | Contact Us    | Contact Us - Thank you    | 404   |Notes      |
+|-------------------------------------------|-------|-------|-----------------------|-----------|-----------|---------------|---------------------------|-------|-----------|
+|**Google Pixel 8, <br> Google Pixel 8 Pro**|       |       |                       |           |           |               |                           |       |           |
+|**S22, S22 plus, S22 Ultra, S21 Ultra**    |       |       |                       |           |           |               |                           |       |           |
+|**iPhone 15, 15 plus, 15 Pro**             |       |       |                       |           |           |               |                           |       |           |
+|**iPad Pro 9, 11, 12**                     |       |       |                       |           |           |               |                           |       |           |
+|**Windows Desktop - smallest**             |       |       |                       |           |           |               |                           |       |           |
+|**Windows Desktop - largest**              |       |       |                       |           |           |               |                           |       |           |
+|**iMac Desktop - smallest**                |       |       |                       |           |           |               |                           |       |           |
+|**iMac Desktop - largest**                 |       |       |                       |           |           |               |                           |       |           |
+
 [BACK TO TOP](#table-of-contents)
 ## Lighthouse Audit 
 
