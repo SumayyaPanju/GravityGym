@@ -59,6 +59,21 @@ Code is validated for each page to identify any major problems with the code. Fo
 
 ## Browser Compatibility 
 
+Bassed on research, the most commonly used browsers in 2024 are: 
+1. Google Chrome (65.41%)
+2. Safari (18.39%)
+3. Edge (5.24%)
+4. Firefox (2.74%)
+5. Samsung Internet (2.59%)
+6. Opera (2.06%)
+
+![Screenshot](/assets/images/testing/browser-stats.png)
+[View website here](https://gs.statcounter.com/browser-market-share)
+
+Based on the informaiton obtained, these browsers are used to test website compatibility for each page. 
+
+
+
 [BACK TO TOP](#table-of-contents)
 ## Responsiveness
 
