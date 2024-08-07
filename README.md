@@ -35,6 +35,7 @@ Visit Live Project [here](https://sumayyapanju.github.io/GravityGym/)
     * [Content](#content)
     * [Media](#media)
     * [Code](#code)
+    * [Other References](#other-references)
     * [Acknowledgements](#acknowledgments)
 
 ---
@@ -316,6 +317,11 @@ A range of images were used from various websites. The link from where the image
 * template for grid taken from Bootstrap and heavily modified 
 * Floating buttons from w3schools 
 * [example video](https://learn.codeinstitute.net/courses/course-v1:code_institute+DIWAD_MS1+1/courseware/5cc55f6df9fe41cc8dcb4d665a251ded/8341150079674a76b87da0143c45f6f9/)
+
+
+### Other References 
+* **Most commonly used browser Statistics** [View resource here](https://gs.statcounter.com/browser-market-share)
+
 <h3 id="acknowledgments"> Acknowledgements</h3>
 
 * Throughout the project, I had continuous support from:
