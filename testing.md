@@ -128,6 +128,35 @@ The results from Blisk are shown here:
 [BACK TO TOP](#table-of-contents)
 ## Lighthouse Audit 
 
+[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) is a chrome extension which is installed on the browser. It is used to audit quality of the website. The report indicates how the page can be improved. Lighthouse audit test is carried out for desktop and mobile. 
+
+### Desktop Audit 
+
+|                            | Screenshot               | Notes |
+|----------------------------|--------------------------|-------|
+| **Home**                   |                          |       |
+| **Plans**                  |                          |       |
+| **Plans - Thank you**      |                          |       |
+| **Gallery**                |                          |       |
+| **Scheudles**              |                          |       |
+| **Contact Us**             |                          |       |
+| **Contact Us - Thank you** |                          |       |
+| **404**                    |                          |       |
+
+### Mobile Audit 
+
+
+|                            | Screenshot               | Notes |
+|----------------------------|--------------------------|-------|
+| **Home**                   |                          |       |
+| **Plans**                  |                          |       |
+| **Plans - Thank you**      |                          |       |
+| **Gallery**                |                          |       |
+| **Scheudles**              |                          |       |
+| **Contact Us**             |                          |       |
+| **Contact Us - Thank you** |                          |       |
+| **404**                    |                          |       |
+
 [BACK TO TOP](#table-of-contents)
 ## Wave Web Accessibility Evaluation
 
