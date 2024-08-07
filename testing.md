@@ -38,6 +38,11 @@ Code is validated for each page to identify any major problems with the code. Fo
 [BACK TO TOP](#table-of-contents)
 ### CSS
 
+| File                  | Jigsaw URL         | Screenshot        | Notes          |
+|-----------------------|--------------------|-------------------|----------------|
+| style.css             |                    |                   |                |
+
+
 [BACK TO TOP](#table-of-contents)
 ## Browser Compatibility 
 
