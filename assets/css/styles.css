@@ -102,16 +102,16 @@ h3 {
 
 #gym-menu a:hover {
     border-width: 3px;
-    border-color: #e41023;
+    border-color: #b2f71d;
 }
 
 #gym-menu #active {
-    border-color: #e41023;
+    border-color: #b2f71d;
     border-width: 3px;
 }
 
 #gym-menu #active span {
-    color: #e41023;
+    color: #b2f71d;
 }
 
 /*--------------------------------------------FULL WIDTH IMAGE*/
@@ -238,11 +238,11 @@ h3 {
 }
 
 .plans-containter p .green {
-    color: green;
+    color: #b2f71d;;
 }
 
 .plans-containter p .red {
-    color: #e41023;
+    color: #b2f71d;;
 }
 
 .plans-containter button {
@@ -256,8 +256,8 @@ h3 {
 }
 
 .plans-containter button:hover {
-    background-color: #e41023;
-    color: white;
+    background-color: #b2f71d;
+    color: black;
 }
 
 /*----------------------------------------------------GYM PERKS*/
@@ -297,13 +297,11 @@ h3 {
 }
 
 #membership-para a {
-    text-decoration: none;
-    color: #e41023;
+    color: black;
 }
 
 #membership-para a:hover {
     text-decoration: underline;
-    color: black;
 }
 
 /*----------------------------------------------------Gallery*/
@@ -351,15 +349,15 @@ h3 {
 #classes .tab button:hover,
 #swimming .tab button:hover,
 #sauna .tab button:hover {
-    background-color: #e41023;
-    color: white;
+    background-color: #b2f71d;
+    color: black;
 }
 
 #classes .tab button.active,
 #swimming .tab button.active,
 #sauna .tab button.active {
-    background-color: #e41023;
-    color: white;
+    background-color: #b2f71d;
+    color: black;
 }
 
 #classes .tabcontent,
@@ -400,8 +398,8 @@ h3 {
 }
 
 .classes-schedule tr:hover {
-    background-color: #e41023;
-    color: white;
+    background-color: #b2f71d;
+    color: black;
 }
 
 #swimming .tab button {
@@ -426,7 +424,7 @@ h3 {
 }
 
 .download:hover {
-    background-color: #e41023;
+    background-color: #b2f71d;
     margin-top: 20px;
 }
 
@@ -516,8 +514,8 @@ textarea,
 }
 
 .button-gym:hover {
-    background-color: #e41023;
-    color: white;
+    background-color: #b2f71d;
+    color: black;
 }
 
 /*----------------------------------------------------Thank you*/
@@ -543,8 +541,8 @@ textarea,
     transform: translate(-50%, -50%);
     padding: 5px 10px;
     width: max-content;
-    background-color: #e41023;
-    color: white;
+    background-color: #b2f71d;
+    color: black;
     letter-spacing: 2px;
     text-decoration: none;
     text-transform: uppercase;
@@ -553,7 +551,7 @@ textarea,
 
 #back-to-top-btn a:hover {
     background-color: white;
-    color: #e41023;
+    color: #b2f71d;
 }
 
 #back-to-top-btn {
@@ -584,7 +582,7 @@ footer {
 
 .footer-bold {
     font-weight: 700;
-    color: #e41023;
+    color: #b2f71d;
     text-transform: uppercase;
 }
 
@@ -640,7 +638,8 @@ footer {
 }
 
 #page-not-found button:hover {
-    background-color: #e41023;
+    background-color: #b2f71d;
+    color:black;
 }
 
 /*-----------------------------------------------------MEDIA QUERIES*/
