@@ -322,7 +322,7 @@ A range of images were used from various websites. The link from where the image
 ### Other References 
 * **Most commonly used browser Statistics** [View resource here](https://gs.statcounter.com/browser-market-share)
 
-<h3 id="acknowledgments"> Acknowledgements</h3>
+### Acknowledgements
 
 * Throughout the project, I had continuous support from:
     * My tutor - Satish Boini 
