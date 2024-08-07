@@ -132,18 +132,31 @@ The results from Blisk are shown here:
 
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) is a chrome extension which is installed on the browser. It is used to audit quality of the website. The report indicates how the page can be improved. Lighthouse audit test is carried out for desktop and mobile. 
 
-### Desktop Audit 
+### Desktop Audit - Before making improvements
+
+|                            | Screenshot                                               | Notes |
+|----------------------------|----------------------------------------------------------|-------|
+| **Home**                   |![Screenshot](/assets/images/testing/la-home-before.png)  |To make this page better, evaluation suggests adding metadata, improving contrast, preload LCP(Largest Contentful Paint)|
+| **Plans**                  |                                                          |       |
+| **Plans - Thank you**      |                                                          |       |
+| **Gallery**                |                                                          |       |
+| **Scheudles**              |                                                          |       |
+| **Contact Us**             |                                                          |       |
+| **Contact Us - Thank you** |                                                          |       |
+| **404**                    |                                                          |       |
+
+### Desktop Audit - After making improvements
 
 |                            | Screenshot               | Notes |
 |----------------------------|--------------------------|-------|
-| **Home**                   |                          |       |
-| **Plans**                  |                          |       |
-| **Plans - Thank you**      |                          |       |
-| **Gallery**                |                          |       |
-| **Scheudles**              |                          |       |
-| **Contact Us**             |                          |       |
-| **Contact Us - Thank you** |                          |       |
-| **404**                    |                          |       |
+| **Home**                   |![Screenshot](/assets/images/testing/la-home-after.png)   |To make this page better, meta data was added, contrast was changed to reduce user from experiencing eye strain. I did not do anything about LCP due to lack of knowledge in this area.|
+| **Plans**                  |                                                          |       |
+| **Plans - Thank you**      |                                                          |       |
+| **Gallery**                |                                                          |       |
+| **Scheudles**              |                                                          |       |
+| **Contact Us**             |                                                          |       |
+| **Contact Us - Thank you** |                                                          |       |
+| **404**                    |                                                          |       |
 
 ### Mobile Audit 
 
@@ -164,9 +177,9 @@ The results from Blisk are shown here:
 
 [WAVE](https://wave.webaim.org/) is another evaluation tool which evaluates the webpage and it also helps developers make content more accessible to individuals with special needs. It can be used with or without the extension. 
 
-|                            | Screenshot               | Notes |
+|                            | Screenshot               | Message from wave |
 |----------------------------|--------------------------|-------|
-| **Home**                   |                          |       |
+| **Home**                   | ![Screenshot](/assets/images/testing/w-home.png)                         | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.     |
 | **Plans**                  |                          |       |
 | **Plans - Thank you**      |                          |       |
 | **Gallery**                |                          |       |
