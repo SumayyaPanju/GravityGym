@@ -17,6 +17,8 @@
 
 ## Code Validation
 
+Code is validated for each page to identify any major problems with the code. For HTML, the recommended [HTML W3C Validator](https://validator.w3.org/) is used. For CSS, the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) is used. 
+
 [BACK TO TOP](#table-of-contents)
 
 ### HTML
