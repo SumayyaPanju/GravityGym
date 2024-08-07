@@ -4,6 +4,7 @@
 1. [Code Validation](#code-validation)
     * [HTML](#html)
     * [CSS](#css)
+    * [JavaScript](#javascript)
 2. [Browser Compatibility](#browser-compatibility)
 3. [Responsiveness](#responsiveness)
 4. [Lighthouse Audit](#lighthouse-audit)
@@ -44,6 +45,11 @@ Code is validated for each page to identify any major problems with the code. Fo
 
 
 [BACK TO TOP](#table-of-contents)
+
+### JavaScript
+
+[BACK TO TOP](#table-of-contents)
+
 ## Browser Compatibility 
 
 [BACK TO TOP](#table-of-contents)
