@@ -137,7 +137,7 @@ The results from Blisk are shown here:
 |                            | Screenshot                                               | Notes |
 |----------------------------|----------------------------------------------------------|-------|
 | **Home**                   |![Screenshot](/assets/images/testing/la-home-before.png)  |To make this page better, evaluation suggests adding metadata, improving contrast, preload LCP(Largest Contentful Paint)|
-| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-before.png) |Meta description is missing,        |
+| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-before.png) |Meta description is missing.|
 | **Plans - Thank you**      |                                                          |       |
 | **Gallery**                |                                                          |       |
 | **Scheudles**              |                                                          |       |
