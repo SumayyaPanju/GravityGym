@@ -160,6 +160,20 @@ The results from Blisk are shown here:
 [BACK TO TOP](#table-of-contents)
 ## Wave Web Accessibility Evaluation
 
+[WAVE](https://wave.webaim.org/) is another evaluation tool which evaluates the webpage and it also helps developers make content more accessible to individuals with special needs. It can be used with or without the extension. 
+
+|                            | Screenshot               | Notes |
+|----------------------------|--------------------------|-------|
+| **Home**                   |                          |       |
+| **Plans**                  |                          |       |
+| **Plans - Thank you**      |                          |       |
+| **Gallery**                |                          |       |
+| **Scheudles**              |                          |       |
+| **Contact Us**             |                          |       |
+| **Contact Us - Thank you** |                          |       |
+| **404**                    |                          |       |
+
+
 [BACK TO TOP](#table-of-contents)
 ## User Story Testing 
 
