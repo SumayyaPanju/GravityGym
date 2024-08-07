@@ -18,7 +18,7 @@
 
 ## Code Validation
 
-Code is validated for each page to identify any major problems with the code. For HTML, the recommended [HTML W3C Validator](https://validator.w3.org/) is used. For CSS, the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) is used. 
+Code is validated for each page to identify any major problems with the code. For HTML, the recommended [HTML W3C Validator](https://validator.w3.org/) is used. For CSS, the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) is used. For JS, [JS Hint](https://jshint.com/) is used. 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -47,6 +47,13 @@ Code is validated for each page to identify any major problems with the code. Fo
 [BACK TO TOP](#table-of-contents)
 
 ### JavaScript
+
+
+| File                  | JS Hint URL         | Screenshot        | Notes          |
+|-----------------------|--------------------|-------------------|----------------|
+| script.js             |                    |                   |                |
+
+
 
 [BACK TO TOP](#table-of-contents)
 
