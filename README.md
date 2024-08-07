@@ -193,6 +193,8 @@ FOR ALL PAGES
 * [**HTML Validator**](https://validator.w3.org/) - This tool is used to identify any errors in the HTML code
 * [**Jigsaw CSS Validator**](https://jigsaw.w3.org/css-validator/) - This tool is used to identify any errors in the CSS code 
 * [**JS Hint**](https://jshint.com/) - This tool is used to identify any errors in the JS code 
+* [**Lighthouse Audit**](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - This tool is used to evaluate my page
+* [**Wave audit**](https://wave.webaim.org/) - This tool is used to evaluate my page
 
 ---
 
