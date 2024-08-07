@@ -72,6 +72,18 @@ Bassed on research, the most commonly used browsers in 2024 are:
 
 Based on the informaiton obtained, these browsers are used to test website compatibility for each page. 
 
+|                            | Google Chrome        | Safari            | Edge              | Firefox       | Samsung Internet      | Opera         |
+|----------------------------|----------------------|-------------------|-------------------|---------------|-----------------------|---------------|
+| **Home**                   |                      |                   |                   |               |                       |               |
+| **Plans**                  |                      |                   |                   |               |                       |               |
+| **Plans - Thank you**      |                      |                   |                   |               |                       |               |
+| **Gallery**                |                      |                   |                   |               |                       |               |
+| **Scheudles**              |                      |                   |                   |               |                       |               |
+| **Contact Us**             |                      |                   |                   |               |                       |               |
+| **Contact Us - Thank you** |                      |                   |                   |               |                       |               |
+| **404**                    |                      |                   |                   |               |                       |               |
+| **Notes**                  |                      |                   |                   |               |                       |               |
+
 
 
 [BACK TO TOP](#table-of-contents)
