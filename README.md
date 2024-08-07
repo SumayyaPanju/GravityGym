@@ -189,7 +189,6 @@ FOR ALL PAGES
 * [**GitHub**](https://github.com/) - Project code that was written up on [GitPod](https://www.gitpod.io/) was stored here. Codes were pushed onto the GitHub using add and commit commands. 
 * [**GitPod**](https://www.gitpod.io/) - This platform was used to writeup the code. Code from here was pushed onto the [GitHub](https://github.com/) using add and commit commands. 
 * [**DevTools**](https://developer.chrome.com/docs/devtools) - Dev tools was used to identify ways in which the bugs can be resolved
-[BACK TO TOP](#table-of-contents)
 * [**HTML Validator**](https://validator.w3.org/) - This tool is used to identify any errors in the HTML code
 * [**Jigsaw CSS Validator**](https://jigsaw.w3.org/css-validator/) - This tool is used to identify any errors in the CSS code 
 * [**JS Hint**](https://jshint.com/) - This tool is used to identify any errors in the JS code 
