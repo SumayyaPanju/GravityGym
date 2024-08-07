@@ -23,6 +23,18 @@ Code is validated for each page to identify any major problems with the code. Fo
 
 ### HTML
 
+| Page                   | W3C URL           | Screenshot        | Notes          |
+|------------------------|-------------------|-------------------|----------------|
+| Home                   |                   |                   |                |
+| Plans                  |                   |                   |                |
+| Plans - Thank you      |                   |                   |                |
+| Gallery                |                   |                   |                |
+| Scheudles              |                   |                   |                |
+| Contact Us             |                   |                   |                |
+| Contact Us - Thank you |                   |                   |                |
+| 404                    |                   |                   |                |
+
+
 [BACK TO TOP](#table-of-contents)
 ### CSS
 
