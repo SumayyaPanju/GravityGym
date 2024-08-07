@@ -137,7 +137,7 @@ The results from Blisk are shown here:
 |                            | Screenshot                                               | Notes |
 |----------------------------|----------------------------------------------------------|-------|
 | **Home**                   |![Screenshot](/assets/images/testing/la-home-before.png)  |To make this page better, evaluation suggests adding metadata, improving contrast, preload LCP(Largest Contentful Paint)|
-| **Plans**                  |                                                          |       |
+| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-before.png) |Meta description is missing,        |
 | **Plans - Thank you**      |                                                          |       |
 | **Gallery**                |                                                          |       |
 | **Scheudles**              |                                                          |       |
@@ -150,7 +150,7 @@ The results from Blisk are shown here:
 |                            | Screenshot               | Notes |
 |----------------------------|--------------------------|-------|
 | **Home**                   |![Screenshot](/assets/images/testing/la-home-after.png)   |To make this page better, meta data was added, contrast was changed to reduce user from experiencing eye strain. I did not do anything about LCP due to lack of knowledge in this area.|
-| **Plans**                  |                                                          |       |
+| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-after.png) |Meta description is added. |
 | **Plans - Thank you**      |                                                          |       |
 | **Gallery**                |                                                          |       |
 | **Scheudles**              |                                                          |       |
@@ -179,8 +179,8 @@ The results from Blisk are shown here:
 
 |                            | Screenshot               | Message from wave |
 |----------------------------|--------------------------|-------|
-| **Home**                   | ![Screenshot](/assets/images/testing/w-home.png)                         | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.     |
-| **Plans**                  |                          |       |
+| **Home**                   | ![Screenshot](/assets/images/testing/w-home.png)| Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.|
+| **Plans**                  | ![Screenshot](/assets/images/testing/w-plans.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
 | **Plans - Thank you**      |                          |       |
 | **Gallery**                |                          |       |
 | **Scheudles**              |                          |       |
