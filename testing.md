@@ -136,14 +136,20 @@ The results from Blisk are shown here:
 
 |                            | Screenshot                                                   | Evaluation tool suggests: |
 |----------------------------|--------------------------------------------------------------|-------|
-| **Home**                   |![Screenshot](/assets/images/testing/la-home-before.png)      |Add metadata, improve contrast, improve, preload|
-| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-before.png)     |Add metadata|
-| **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-plans-ty-before.png)  |Add metadata|
-| **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-before.png)   |Add metadata, reduce network payloads, reduce large layout shifts, have discernible name for links, images to webp or avif. |
-| **Scheudles**              |![Screenshot](/assets/images/testing/la-schedules-before.png) |Add metadata, increase space for touch targets|
-| **Contact Us**             |![Screenshot](/assets/images/testing/la-contact-us-before.png)|Add metadata, resize background image to match natural aspect ratio|
-| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-thankyou-before.png)  |Add metadata|
-| **404**                    |![Screenshot](/assets/images/testing/la-404-before.png)       |Add metadata|
+| **Home**                   |![Screenshot](/assets/images/testing/la-home-before.png)      |Add metadata, improve contrast, improve, preload, [and more](#further-information-on-lighthouse-audit-for-desktops)|
+| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-before.png)     |Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)|
+| **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-plans-ty-before.png)  |Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)|
+| **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-before.png)   |Add metadata, reduce network payloads, reduce large layout shifts, have discernible name for links, images to webp or avif, [and more](#further-information-on-lighthouse-audit-for-desktops) |
+| **Scheudles**              |![Screenshot](/assets/images/testing/la-schedules-before.png) |Add metadata, increase space for touch targets, [and more](#further-information-on-lighthouse-audit-for-desktops)|
+| **Contact Us**             |![Screenshot](/assets/images/testing/la-contact-us-before.png)|Add metadata, resize background image to match natural aspect ratio, [and more](#further-information-on-lighthouse-audit-for-desktops)|
+| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-thankyou-before.png)  |Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)|
+| **404**                    |![Screenshot](/assets/images/testing/la-404-before.png)       |Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)|
+
+#### Further information on lighthouse audit for desktops
+
+For all or almost all pages, there were common suggestions by lighthouse to improve performance of the website. These suggestions were not carried out due to lack of skills/knowledge in those areas. The screenshot below shows the suggestions given by lighthouse:
+
+![Screenshot](/assets/images/testing/diagnostic-results.png)
 
 ### Desktop Audit - After making improvements
 
@@ -157,6 +163,8 @@ The results from Blisk are shown here:
 | **Contact Us**             |![Screenshot](/assets/images/testing/la-contact-us-after.png) |Meta data was added and image was resized|
 | **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-thankyou-after.png)   |Meta data was added.|
 | **404**                    |![Screenshot](/assets/images/testing/la-404-after.png)        |Meta data was added.|
+
+
 ### Mobile Audit 
 
 
