@@ -134,29 +134,29 @@ The results from Blisk are shown here:
 
 ### Desktop Audit - Before making improvements
 
-|                            | Screenshot                                               | Notes |
-|----------------------------|----------------------------------------------------------|-------|
-| **Home**                   |![Screenshot](/assets/images/testing/la-home-before.png)  |To make this page better, evaluation suggests adding metadata, improving contrast, preload LCP(Largest Contentful Paint)|
-| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-before.png) |Meta description is missing.|
-| **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-plans-ty-before.png) |Meta description is missing and improve cumulative Layout Shift|
-| **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-before.png)|To make this page better, evaluation suggests adding meta data, working on the largest contentful element painted, avoid enormous network payloads, avoid large layout shifts, links to have discernible name and convert images to webp or avif. |
-| **Scheudles**              |![Screenshot](/assets/images/testing/la-schedules-before.png)|To make this page better, evaluation suggests adding meta data and increasing space for touch targets for the download button.|
-| **Contact Us**             |![Screenshot](/assets/images/testing/la-contact-us-before.png)|To make this page better, evaluation suggests to add meta data and to improve the background image size to match natural aspect ratio|
-| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-thankyou-before.png)|To make this page better, evaluation suggests to add meta data|
-| **404**                    |![Screenshot](/assets/images/testing/la-404-before.png)|To make this page better, evaluation suggests to add meta data|
+|                            | Screenshot                                                   | Evaluation tool suggests: |
+|----------------------------|--------------------------------------------------------------|-------|
+| **Home**                   |![Screenshot](/assets/images/testing/la-home-before.png)      |Add metadata, improve contrast, improve, preload|
+| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-before.png)     |Add metadata|
+| **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-plans-ty-before.png)  |Add metadata|
+| **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-before.png)   |Add metadata, reduce network payloads, reduce large layout shifts, have discernible name for links, images to webp or avif. |
+| **Scheudles**              |![Screenshot](/assets/images/testing/la-schedules-before.png) |Add metadata, increase space for touch targets|
+| **Contact Us**             |![Screenshot](/assets/images/testing/la-contact-us-before.png)|Add metadata, resize background image to match natural aspect ratio|
+| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-thankyou-before.png)  |Add metadata|
+| **404**                    |![Screenshot](/assets/images/testing/la-404-before.png)       |Add metadata|
 
 ### Desktop Audit - After making improvements
 
-|                            | Screenshot               | Notes |
-|----------------------------|--------------------------|-------|
-| **Home**                   |![Screenshot](/assets/images/testing/la-home-after.png)   |To make this page better, meta data was added, contrast was changed to reduce user from experiencing eye strain. I did not do anything about LCP due to lack of knowledge in this area.|
-| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-after.png) |Meta description is added. |
-| **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-plans-ty-after.png) |Meta description is added. Cumulative Layout Shift was not improved due to lack of knowledge in this field. |
-| **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-after.png)|To make this page better, meta data was added, links were given a discernible name, alt texts was assigned, and images were converted to webp. I did not do anything about LCP due to lack of knowledge in this area.|
-| **Scheudles**              |![Screenshot](/assets/images/testing/la-schedules-after.png)|To make this page better, meta data was added, and spacing was also added. However, it still does not meet the minimum threshold required for accessibility. Further spacing is not added, as spacing seems sufficient. There is no adjacent buttons. The next button is in the next section which acts as a tab.|
-| **Contact Us**             |![Screenshot](/assets/images/testing/la-contact-us-after.png)|To make this page better, meta data was added and improve size was changed to match natural aspect ratio|
-| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-thankyou-after.png)|To make this page better, meta data was added.|
-| **404**                    |![Screenshot](/assets/images/testing/la-404-after.png)|To make this page better, meta data was added.|
+|                            | Screenshot                                                   | Notes |
+|----------------------------|--------------------------------------------------------------|-------|
+| **Home**                   |![Screenshot](/assets/images/testing/la-home-after.png)       |Meta data was added, contrast was changed|
+| **Plans**                  |![Screenshot](/assets/images/testing/la-plans-after.png)      |Meta description is added|
+| **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-plans-ty-after.png)   |Meta description is added|
+| **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-after.png)    |Meta data was added, links were given a discernible name, alt texts was assigned, images were converted to webp|
+| **Scheudles**              |![Screenshot](/assets/images/testing/la-schedules-after.png)  |Meta data was added, and spacing was also added. However, it still does not meet the minimum threshold required for accessibility. Further spacing is not added, as spacing seems sufficient. There is no adjacent buttons. The next button is in the next section which acts as a tab.|
+| **Contact Us**             |![Screenshot](/assets/images/testing/la-contact-us-after.png) |Meta data was added and image was resized|
+| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-thankyou-after.png)   |Meta data was added.|
+| **404**                    |![Screenshot](/assets/images/testing/la-404-after.png)        |Meta data was added.|
 ### Mobile Audit 
 
 
@@ -176,17 +176,17 @@ The results from Blisk are shown here:
 
 [WAVE](https://wave.webaim.org/) is another evaluation tool which evaluates the webpage and it also helps developers make content more accessible to individuals with special needs. It can be used with or without the extension. 
 
-|                            | Screenshot               | Message from wave |
-|----------------------------|--------------------------|-------|
-| **Home**                   | ![Screenshot](/assets/images/testing/w-home.png)| Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.|
-| **Plans**                  | ![Screenshot](/assets/images/testing/w-plans.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
-| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/w-plans-ty.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
-| **Gallery**                | ![Screenshot](/assets/images/testing/w-gallery.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
-| **Scheudles**              | ![Screenshot](/assets/images/testing/w-schedules.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
+|                            | Screenshot                                                   | Message from wave |
+|----------------------------|--------------------------------------------------------------|-------|
+| **Home**                   | ![Screenshot](/assets/images/testing/w-home.png)             | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.|
+| **Plans**                  | ![Screenshot](/assets/images/testing/w-plans.png)            |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
+| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/w-plans-ty.png)         |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
+| **Gallery**                | ![Screenshot](/assets/images/testing/w-gallery.png)          |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
+| **Scheudles**              | ![Screenshot](/assets/images/testing/w-schedules.png)        |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
 | **Contact Us** - Before    |![Screenshot](/assets/images/testing/w-contact-us-before.png) |2 errors showed up. 1 missing label and 1 multiple label. This indicated an error with labels. Upon looking, there was a pasting/typing error. This was corrected.|
-| **Contact Us** - After     |![Screenshot](/assets/images/testing/w-contact-us-after.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
-| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/w-thankyou.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
-| **404**                    |![Screenshot](/assets/images/testing/w-404.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
+| **Contact Us** - After     |![Screenshot](/assets/images/testing/w-contact-us-after.png)  |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
+| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/w-thankyou.png)          |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
+| **404**                    |![Screenshot](/assets/images/testing/w-404.png)               |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
 
 
 [BACK TO TOP](#table-of-contents)
