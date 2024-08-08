@@ -152,7 +152,7 @@ The results from Blisk are shown here:
 | **Home**                   |![Screenshot](/assets/images/testing/la-home-after.png)   |To make this page better, meta data was added, contrast was changed to reduce user from experiencing eye strain. I did not do anything about LCP due to lack of knowledge in this area.|
 | **Plans**                  |![Screenshot](/assets/images/testing/la-plans-after.png) |Meta description is added. |
 | **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-plans-ty-after.png) |Meta description is added. Cumulative Layout Shift was not improved due to lack of knowledge in this field. |
-| **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-after.png)|To make this page better, meta data was added, links were given a discernible name, alt texts was assigned, and images were converted to webp.|
+| **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-after.png)|To make this page better, meta data was added, links were given a discernible name, alt texts was assigned, and images were converted to webp. I did not do anything about LCP due to lack of knowledge in this area.|
 | **Scheudles**              |                                                          |       |
 | **Contact Us**             |                                                          |       |
 | **Contact Us - Thank you** |                                                          |       |
