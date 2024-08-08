@@ -168,16 +168,22 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 ### Mobile Audit 
 
 
-|                            | Screenshot               | Notes |
-|----------------------------|--------------------------|-------|
-| **Home**                   |                          |       |
-| **Plans**                  |                          |       |
-| **Plans - Thank you**      |                          |       |
-| **Gallery**                |                          |       |
-| **Scheudles**              |                          |       |
-| **Contact Us**             |                          |       |
-| **Contact Us - Thank you** |                          |       |
-| **404**                    |                          |       |
+|                            | Screenshot                                               | Notes                                                             |
+|----------------------------|----------------------------------------------------------|-------------------------------------------------------------------|
+| **Home**                   |![Screenshot](/assets/images/testing/la-m-home.png)       |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
+| **Plans**                  |![Screenshot](/assets/images/testing/la-m-plans.png)      |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
+| **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-m-plans-ty.png)   |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
+| **Gallery**                |![Screenshot](/assets/images/testing/la-m-gallery.png)    |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
+| **Scheudles**              |![Screenshot](/assets/images/testing/la-m-schedules.png)  |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
+| **Contact Us**             |![Screenshot](/assets/images/testing/la-m-contactus.png)  |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
+| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-m-ty.png)         |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
+| **404**                    |![Screenshot](/assets/images/testing/la-m-404.png)        |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
+
+#### Further information on lighthouse audit for mobiles
+
+For all or almost all pages, there were common suggestions by lighthouse to improve performance of the website. These suggestions were not carried out due to lack of skills/knowledge in those areas. The screenshot below shows the suggestions given by lighthouse:
+
+![Screenshot](/assets/images/testing/m-diagnostic-results.png)
 
 [BACK TO TOP](#table-of-contents)
 ## Wave Web Accessibility Evaluation
