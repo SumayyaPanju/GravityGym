@@ -43,7 +43,7 @@ Code is validated for each page to identify any major problems with the code. Fo
 
 | File                  | Jigsaw URL         | Screenshot        | Notes          |
 |-----------------------|--------------------|-------------------|----------------|
-| **style.css**         |                    |                   |                |
+| **style.css**         |[Result page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)              |![Screenshot](/assets/images/testing/css-validator.png)|No error found.|
 
 
 [BACK TO TOP](#table-of-contents)
