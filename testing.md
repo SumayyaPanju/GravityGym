@@ -140,7 +140,7 @@ The results from Blisk are shown here:
 | **Plans**                  |![Screenshot](/assets/images/testing/la-plans-before.png) |Meta description is missing.|
 | **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-plans-ty-before.png) |Meta description is missing and improve cumulative Layout Shift|
 | **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-before.png)|To make this page better, evaluation suggests adding meta data, working on the largest contentful element painted, avoid enormous network payloads, avoid large layout shifts, links to have discernible name and convert images to webp or avif. |
-| **Scheudles**              |                                                          |       |
+| **Scheudles**              |![Screenshot](/assets/images/testing/la-schedules-before.png)|To make this page better, evaluation suggests adding meta data and increasing space for touch targets for the download button.|
 | **Contact Us**             |                                                          |       |
 | **Contact Us - Thank you** |                                                          |       |
 | **404**                    |                                                          |       |
@@ -153,7 +153,7 @@ The results from Blisk are shown here:
 | **Plans**                  |![Screenshot](/assets/images/testing/la-plans-after.png) |Meta description is added. |
 | **Plans - Thank you**      |![Screenshot](/assets/images/testing/la-plans-ty-after.png) |Meta description is added. Cumulative Layout Shift was not improved due to lack of knowledge in this field. |
 | **Gallery**                |![Screenshot](/assets/images/testing/la-gallery-after.png)|To make this page better, meta data was added, links were given a discernible name, alt texts was assigned, and images were converted to webp. I did not do anything about LCP due to lack of knowledge in this area.|
-| **Scheudles**              |                                                          |       |
+| **Scheudles**              |![Screenshot](/assets/images/testing/la-schedules-after.png)|To make this page better, meta data was added, and spacing was also added. However, it still does not meet the minimum threshold required for accessibility. Further spacing is not added, as spacing seems sufficient. There is no adjacent buttons. The next button is in the next section which acts as a tab.|
 | **Contact Us**             |                                                          |       |
 | **Contact Us - Thank you** |                                                          |       |
 | **404**                    |                                                          |       |
@@ -183,7 +183,7 @@ The results from Blisk are shown here:
 | **Plans**                  | ![Screenshot](/assets/images/testing/w-plans.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
 | **Plans - Thank you**      | ![Screenshot](/assets/images/testing/w-plans-ty.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
 | **Gallery**                | ![Screenshot](/assets/images/testing/w-gallery.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
-| **Scheudles**              |                          |       |
+| **Scheudles**              | ![Screenshot](/assets/images/testing/w-schedules.png) |Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility|
 | **Contact Us**             |                          |       |
 | **Contact Us - Thank you** |                          |       |
 | **404**                    |                          |       |
