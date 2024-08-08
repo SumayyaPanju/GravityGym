@@ -28,7 +28,8 @@ Code is validated for each page to identify any major problems with the code. Fo
 
 | Page                       | W3C URL           | Screenshot        | Notes          |
 |----------------------------|-------------------|-------------------|----------------|
-| **Home**                   |                   |                   |                |
+| **Home**                   |n.a                |![Screenshot](/assets/images/testing/html-validator-home-before.png)|**2 Errors:**<br> - Element a must not appear as descendent of button element <br> - Script element is stray <br><br> **2 Warnings:**<br> - Name attribute is obsolete for a element <br>- Section lacks heading|
+| **Home**                  |[Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Findex.html)|![Screenshot](/assets/images/testing/html-validator-home-after.png)|**No errors.** <br> <br> Previous erorr overcomed by changing the button element to div element and by repositioning the script element within the body element at the bottom of the footer. This change is applied to all of the pages. <br><br>Name attribute is changed to id attribute <br><br> **1 error:** <br> - Section lacks heading element.|
 | **Plans**                  |                   |                   |                |
 | **Plans - Thank you**      |                   |                   |                |
 | **Gallery**                |                   |                   |                |
