@@ -176,7 +176,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 | **Gallery**                |![Screenshot](/assets/images/testing/la-m-gallery.png)    |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
 | **Scheudles**              |![Screenshot](/assets/images/testing/la-m-schedules.png)  |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
 | **Contact Us**             |![Screenshot](/assets/images/testing/la-m-contactus.png)  |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
-| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-m-ty.png)         |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
+| **Contact Us - Thank you** |![Screenshot](/assets/images/testing/la-m-thankyou.png)         |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
 | **404**                    |![Screenshot](/assets/images/testing/la-m-404.png)        |[See below](#further-information-on-lighthouse-audit-for-mobiles)  |
 
 #### Further information on lighthouse audit for mobiles
