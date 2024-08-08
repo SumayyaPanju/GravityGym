@@ -37,7 +37,7 @@ The table below shows the screenshots of the error and warning messages from the
 | **Gallery**                |![Screenshot](/assets/images/testing/html-validator-gallery.png)|**No errors**<br><br>**1 warning**<br> - Section lacks heading|
 | **Scheudles**              |![Screenshots](/assets/images/testing/html-validator-schedules-before.png)|**3 Errors**<br><br> - a element cannot be descendent of button element|
 | **Contact Us**             |![Screenshots](/assets/images/testing/html-validator-contactus-before.png)|**1 Error:**<br><br> - Duplicate ID **1 Warning:** - First ID occurence|
-| **Contact Us - Thank you** |                   |                |
+| **Contact Us - Thank you** |![Screenshots](/assets/images/testing/html-validator-contactus-before.png)|**1 Error:**<br><br> - Duplicate title under head section|
 | **404**                    |                   |                |
 
 
@@ -53,7 +53,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 | **Gallery**                |[Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-sumayyapanju-gravitygym-p4ypir0l35l.ws.codeinstitute-ide.net%2Fgallery.html)|![Screenshot](/assets/images/testing/html-validator-gallery.png)|**No errors**<br><br>**1 warning**<br> - No changes made|
 | **Scheudles**              |[Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-sumayyapanju-gravitygym-p4ypir0l35l.ws.codeinstitute-ide.net%2Fschedules.html)|![Screenshot](/assets/images/testing/html-validator-schedules-after.png)|**No errors**<br><br>Button element was changed to div element and css page is styled accordingly|
 | **Contact Us**             |[Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fcontactus.html)|![Screenshot](/assets/images/testing/html-validator-contactus-after.png)  |**No errors** <br><br> Duplicate ID removed as not required |
-| **Contact Us - Thank you** |                   |                   |                |
+| **Contact Us - Thank you** |[Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fthank-you.html)|![Screenshot](/assets/images/testing/html-validator-thankyou-before.png)|**No error**<br><br> Duplicate title was removed|
 | **404**                    |                   |                   |                |
 
 
