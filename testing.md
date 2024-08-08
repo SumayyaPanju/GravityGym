@@ -51,9 +51,9 @@ Code is validated for each page to identify any major problems with the code. Fo
 ### JavaScript
 
 
-| File                  | JS Hint URL         | Screenshot        | Notes          |
-|-----------------------|--------------------|-------------------|----------------|
-| **script.js**         |                    |                   |                |
+| File                  | Screenshot        | Notes          |
+|-----------------------|-------------------|----------------|
+| **script.js**         |![Screenshot](/assets/images/testing/js-validator.png)|6 warnings found. However, unable to resolve it due to lack of knowledge in JavaScript.|
 
 
 
