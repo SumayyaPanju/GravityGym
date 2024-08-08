@@ -33,7 +33,7 @@ The table below shows the screenshots of the error and warning messages from the
 |----------------------------|-------------------|-------------------|
 | **Home**                   |![Screenshot](/assets/images/testing/html-validator-home-before.png)|**2 Errors:**<br> - Element a must not appear as descendent of button element <br> - Script element is stray <br><br> **2 Warnings:**<br> - Name attribute is obsolete for a element <br>- Section lacks heading|
 | **Plans**                  |![Screenshots](/assets/images/testing/html-validator-plans-before.png)|**8 Errors:**<br> - Button element cannot be descendent of a element <br> -  No space between attributes ""<br> - Possibly missing = before " <br> - " not allowed in div element <br><br>**2 Warnings:**<br>- Attribute " is not serializable|
-| **Plans - Thank you**      |                   |                |
+| **Plans - Thank you**      |![Screenshots](/assets/images/testing/html-validator-plans-thankyou.png)|**No errors**                |
 | **Gallery**                |                   |                |
 | **Scheudles**              |                   |                |
 | **Contact Us**             |                   |                |
@@ -49,7 +49,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 |----------------------------|-------------------|-------------------|----------------|
 | **Home**                   |[Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Findex.html)|![Screenshot](/assets/images/testing/html-validator-home-after.png)|**No errors.** <br> <br> Previous erorr overcomed by changing the button element to div element and by repositioning the script element within the body element at the bottom of the footer. This change is applied to all of the pages. <br><br>Name attribute is changed to id attribute <br><br> **1 warning:** <br> - Section lacks heading element.|
 | **Plans**                  |[Results page](https://validator.w3.org/nu/?useragent=Validator.nu%2FLV+https%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fplans.html)|![Screenshot](/assets/images/testing/html-validator-plans-after.png)|**No Errors**<br><br> - Typing error "". The extra " is removed <br> - Button element restyled to div element and CSS page changed accordingly|
-| **Plans - Thank you**      |                   |                   |                |
+| **Plans - Thank you**      |[Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-sumayyapanju-gravitygym-p4ypir0l35l.ws.codeinstitute-ide.net%2Fmembership-thankyou.html)|![Screenshots](/assets/images/testing/html-validator-plans-thankyou.png)|**No Errors**<br><br>No changes made|
 | **Gallery**                |                   |                   |                |
 | **Scheudles**              |                   |                   |                |
 | **Contact Us**             |                   |                   |                |
