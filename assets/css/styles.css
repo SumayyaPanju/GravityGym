@@ -435,8 +435,11 @@ h3 {
     background-color: white;
     margin-top: 20px;
     border: solid 2px black;
-    padding: 3%;
-    margin: 25px;
+    width: max-content;
+    margin-inline: auto;
+    padding: 1%;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .download a {
@@ -934,6 +937,9 @@ footer {
         padding-right: 3px;
         padding-left: 3px;
         font-size: 90%;
+    }
+    .download {
+        padding: 3%;
     }
 
     /*Footer*/
