@@ -114,6 +114,16 @@ For better reading and presentation, a table will be used for each browser. Clic
 </details>
 
 
+<details>
+
+<summary style="font-weight:700">Table 2: Safari</summary>
+
+Safari is no longer supported by windows. Attempts were made to download safari browser using [this website](https://safari.en.uptodown.com/windows/download). Although the download and installation was successful, the applications would not run smoothly as nothing would load. Hence, for this part of the testing, safari browser compatibility cannot be tested. 
+
+https://safari.en.uptodown.com/windows/download
+</details>
+
+
 [BACK TO TOP](#table-of-contents)
 ## Responsiveness
 
