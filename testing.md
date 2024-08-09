@@ -92,7 +92,7 @@ Bassed on research, the most commonly used browsers in 2024 are:
 >![Screenshot](/assets/images/testing/browser-stats.png)
 >[View website here](https://gs.statcounter.com/browser-market-share)
 
-Based on the informaiton obtained, these browsers are used to test website compatibility for each page. Samsung Internet is a mobile phone browser. Attempts were made to download [BlueStacks](https://www.bluestacks.com). Blue Stacks is a windows application where android applications can work. Although the download and installation was successful, the applications would not run smoothly. Hence, for this part of the testing, samsung internet browser compatibility cannot be tested. 
+Based on the informaiton obtained, these browsers are used to test website compatibility for each page.
 
 For better reading and presentation, a table will be used for each browser. Click on the relevant table to expand:
 
@@ -153,6 +153,16 @@ https://safari.en.uptodown.com/windows/download
 | **Contact Us -Thank you** | ![Screenshot](/assets/images/testing/browser-compatibility/firefox-contactus-ty.png)                                                                                                                                                                                                                                                                                                                                                                                                      | Works as expected |
 | **404**                   | ![Screenshot](/assets/images/testing/browser-compatibility/firefox-404.png)       
 
+
+</details>
+
+<details>
+
+
+<summary style="font-weight:700">Table 5: Samsung Internet</summary>
+
+
+Samsung Internet is a mobile phone browser. Attempts were made to download [BlueStacks](https://www.bluestacks.com). Blue Stacks is a windows application where android applications can work. Although the download and installation was successful, the applications would not run smoothly. Hence, for this part of the testing, samsung internet browser compatibility cannot be tested. 
 
 </details>
 
