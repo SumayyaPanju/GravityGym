@@ -198,16 +198,110 @@ Samsung Internet is a mobile phone browser. Attempts were made to download [Blue
 [BACK TO TOP](#table-of-contents)
 ## Responsiveness
 
-To test the responsiveness of GravityGym, DevTools is used. The Device is tested at different breakpoints based on Bootstrap:
+To test the responsiveness of GravityGym, DevTools is used. The Device is tested at different breakpoints based on Bootstrap.
 
-|Breakpoints                        | Notes                    | Home  | Plans  | Plans - Thank you    | Gallery   | Schedules | Contact Us    | Contact Us - Thank you   | 404|Notes |
-|-----------------------------------|--------------------------|-------|--------|----------------------|-----------|-----------|---------------|--------------------------|----|------|
-| **Smallest Devices**          |Portrait phones at 320px      |        |       |        |                      |           |           |               |   |    |       |
-| **Small Devices**             |Lanscape phones at 576px      |        |       |        |                      |           |           |               |   |    |       |
-| **Medium Devices**            |Tablets at 768px              |        |       |        |                      |           |           |               |   |    |       |
-| **Large Devices**             |Small desktops at 992px       |        |       |        |                      |           |           |               |   |    |       |
-| **Extra Large Devices**       |Large desktops at 1200px      |        |       |        |                      |           |           |               |   |    |       |
+<details>
 
+<summary>Smallest device</summary>
+The test is carried out for extra small devices such as portrait phones at 320px:
+
+|                           |Screenshots        |Notes      |
+|---------------------------|-------------------|-----------|
+|**Home**                   |                   |           |
+|**Plans**                  |                   |           |
+|**Plans - Thank you**      |                   |           |
+|**Gallery**                |                   |           |
+|**Schedules**              |                   |           |
+|**Contact Us**             |                   |           |
+|**Contact Us - Thank you** |                   |           |
+|**404**                    |                   |           |
+
+</details>
+
+<details>
+<summary>Small device</summary>
+The test is carried out for small devices such as landscape phones at 576px:
+
+|                           |Screenshots        |Notes      |
+|---------------------------|-------------------|-----------|
+|**Home**                   |                   |           |
+|**Plans**                  |                   |           |
+|**Plans - Thank you**      |                   |           |
+|**Gallery**                |                   |           |
+|**Schedules**              |                   |           |
+|**Contact Us**             |                   |           |
+|**Contact Us - Thank you** |                   |           |
+|**404**                    |                   |           |
+
+
+</details>
+<details>
+<summary>Medium device</summary>
+The test is carried out for medium devices such as tablets at 768px:
+
+|                           |Screenshots        |Notes      |
+|---------------------------|-------------------|-----------|
+|**Home**                   |                   |           |
+|**Plans**                  |                   |           |
+|**Plans - Thank you**      |                   |           |
+|**Gallery**                |                   |           |
+|**Schedules**              |                   |           |
+|**Contact Us**             |                   |           |
+|**Contact Us - Thank you** |                   |           |
+|**404**                    |                   |           |
+
+
+</details>
+<details>
+<summary>Large device</summary>
+The test is carried out for large devices such as large desktops at 992px:
+
+|                           |Screenshots        |Notes      |
+|---------------------------|-------------------|-----------|
+|**Home**                   |                   |           |
+|**Plans**                  |                   |           |
+|**Plans - Thank you**      |                   |           |
+|**Gallery**                |                   |           |
+|**Schedules**              |                   |           |
+|**Contact Us**             |                   |           |
+|**Contact Us - Thank you** |                   |           |
+|**404**                    |                   |           |
+
+</details>
+<details>
+<summary>Extra Large device</summary>
+The test is carried out for extra large devices such as large desktops at 1200px:
+
+|                           |Screenshots        |Notes      |
+|---------------------------|-------------------|-----------|
+|**Home**                   |                   |           |
+|**Plans**                  |                   |           |
+|**Plans - Thank you**      |                   |           |
+|**Gallery**                |                   |           |
+|**Schedules**              |                   |           |
+|**Contact Us**             |                   |           |
+|**Contact Us - Thank you** |                   |           |
+|**404**                    |                   |           |
+
+</details>
+
+<details>
+<summary>Extra Extra Large device</summary>
+The test is carried out for extra extra large devices such as extra extra large desktops at 1400px:
+
+|                           |Screenshots        |Notes      |
+|---------------------------|-------------------|-----------|
+|**Home**                   |                   |           |
+|**Plans**                  |                   |           |
+|**Plans - Thank you**      |                   |           |
+|**Gallery**                |                   |           |
+|**Schedules**              |                   |           |
+|**Contact Us**             |                   |           |
+|**Contact Us - Thank you** |                   |           |
+|**404**                    |                   |           |
+
+</details>
+<br>
 Further tests were carried out for responsiveness. This was carried out using [Blisk](https://blisk.io/product). The following devices have been chosen to be tested: 
 
 | Device Group                | Device type                             | Reason for choosing                                                                                                                                                                                                                |
