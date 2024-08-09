@@ -89,23 +89,29 @@ Bassed on research, the most commonly used browsers in 2024 are:
 5. Samsung Internet (2.59%)
 6. Opera (2.06%)
 
-![Screenshot](/assets/images/testing/browser-stats.png)
-[View website here](https://gs.statcounter.com/browser-market-share)
+>![Screenshot](/assets/images/testing/browser-stats.png)
+>[View website here](https://gs.statcounter.com/browser-market-share)
 
-Based on the informaiton obtained, these browsers are used to test website compatibility for each page. 
+Based on the informaiton obtained, these browsers are used to test website compatibility for each page. Samsung Internet is a mobile phone browser. Attempts were made to download [BlueStacks](https://www.bluestacks.com). Blue Stacks is a windows application where android applications can work. Although the download and installation was successful, the applications would not run smoothly. Hence, for this part of the testing, samsung internet browser compatibility cannot be tested. 
 
-|                            | Google Chrome | Safari | Edge | Firefox | Samsung Internet | Opera |
-|----------------------------|---------------|--------|------|---------|------------------|-------|
-| **Home**                   |               |        |      |         |                  |       |
-| **Plans**                  |               |        |      |         |                  |       |
-| **Plans - Thank you**      |               |        |      |         |                  |       |
-| **Gallery**                |               |        |      |         |                  |       |
-| **Scheudles**              |               |        |      |         |                  |       |
-| **Contact Us**             |               |        |      |         |                  |       |
-| **Contact Us - Thank you** |               |        |      |         |                  |       |
-| **404**                    |               |        |      |         |                  |       |
-| **Notes**                  |               |        |      |         |                  |       |
+For better reading and presentation, a table will be used for each browser. Click on the relevant table to expand:
 
+<details>
+
+<summary style="font-weight:700">Table 1: Google Chrome</summary>
+
+|                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Notes             |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| **Home**                  | ![Screenshot](/assets/images/testing/browser-compatibility/chrome-home-1.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-home-2.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-home-3.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-home-4.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-home-5.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-home-6.png) | Works as expected |
+| **Plans**                 | ![Screenshot](/assets/images/testing/browser-compatibility/chrome-plans-1.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-plans-2.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-plans-3.png)                                                                                                                                                                                                                                        | Works as expected |
+| **Plans - Thank you**     | ![Screenshot](/assets/images/testing/browser-compatibility/chrome-plans-ty.png)                                                                                                                                                                                                                                                                                                                                                                                                     | Works as expected |
+| **Gallery**               | ![Screenshot](/assets/images/testing/browser-compatibility/chrome-gallery-1.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-gallery-1.png)                                                                                                                                                                                                                                                                                                                   | Works as expected |
+| **Schedule**              | ![Screenshot](/assets/images/testing/browser-compatibility/chrome-schedules-1.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-schedules-2.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-schedules-3.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-schedules-4.png)                                                                                                                                         | Works as expected |
+| **Contact Us**            | ![Screenshot](/assets/images/testing/browser-compatibility/chrome-contactus-1.png) ![Screenshot](/assets/images/testing/browser-compatibility/chrome-contactus-2.png)                                                                                                                                                                                                                                                                                                               | Works as expected |
+| **Contact Us -Thank you** | ![Screenshot](/assets/images/testing/browser-compatibility/chrome-contactus-ty.png)                                                                                                                                                                                                                                                                                                                                                                                                 | Works as expected |
+| **404**                   | ![Screenshot](/assets/images/testing/browser-compatibility/chrome-404.png)                                                                                                                                                                                                                                                                                                                                                                                                          | Works as expected |
+
+</details>
 
 
 [BACK TO TOP](#table-of-contents)
