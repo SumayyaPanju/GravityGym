@@ -757,22 +757,32 @@ footer {
     }
 }
 
-/* Medium devices (tablets, less than 769-992px)*/
-@media (max-width: 992px) {
+/* Medium devices (tablets, less than 768-992px)*/
+@media (max-width: 991.98px) {
+
+    /*Full Width*/
+    #full-width-cont {
+        height: 350px;
+        width: 100%;
+    }
+
+    #full-width-image {
+        height: 350px;
+        width: 100%;
+    }
 
     /*Menu*/
     #gym-menu a {
         font-size: 90%;
     }
 
-    /*Facility*/
-    .faci-p {
-        font-size: 80%;
+    #social-icons {
+        display: inline;
     }
 
     /*Testimonial*/
     .testimonial-groups p {
-        min-height: 120px;
+        min-height: 150px;
     }
 
     /*Gym Perks*/
@@ -780,10 +790,8 @@ footer {
         padding: 1%;
     }
 
-    /*Footer*/
-    #social-icons a {
-        font-size: 150%;
-        display: contents;
+    .pass {
+        font-size: 245%;
     }
 }
 
