@@ -646,10 +646,11 @@ footer {
     margin: 20px;
     font-weight: 700;
 }
+
 /*Media Queries*/
 
-/* XX-Large devices (larger desktops, 1400px and up)*/
-@media (min-width: 1401px) {
+/* X-Large devices (larger desktops, 1200px and up)*/
+@media (min-width: 1200px) {
 
     /*Typography*/
     h2 {
