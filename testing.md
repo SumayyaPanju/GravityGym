@@ -3,6 +3,8 @@
 
 1. [Code Validation](#code-validation)
     * [HTML](#html)
+        * [HTML validator before changes made](#html-validator---before-changes-made)
+        * [HTML validator after changes made](#html-validator---after-changes-made)
     * [CSS](#css)
     * [JavaScript](#javascript)
 2. [Browser Compatibility](#browser-compatibility)
@@ -19,14 +21,13 @@
 8. [Unsolved Bugs](#unsolved-bugs)
 
 ## Code Validation
-
-Code is validated for each page to identify any major problems with the code. For HTML, the recommended [HTML W3C Validator](https://validator.w3.org/) is used. For CSS, the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) is used. For JS, [JS Hint](https://jshint.com/) is used. 
+Code is validated for each page to identify any major problems with the code. For HTML, the recommended [HTML W3C Validator](https://validator.w3.org/) is used. For CSS, the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) is used. For JS, [JS Hint](https://jshint.com/) is used.
 
 [BACK TO TOP](#table-of-contents)
 
 ### HTML
 
-#### HTML Validator - without changes made 
+#### HTML Validator - before changes made 
 The table below shows the screenshots of the error and warning messages from the HTML Validator before any changes are made
 
 | Page                       | Screenshot                                                                 | Notes                                                                                                                                                                                                                                          |
