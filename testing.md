@@ -15,8 +15,12 @@
     * [First Time Visitor](#first-time-visitors)
     * [Returning Visitor](#returning-visitors)
     * [Frequent User](#frequent-users)
-7. [Solved Bugs](#solved-bugs)
-8. [Unsolved Bugs](#unsolved-bugs)
+7. [Features](#features)
+    * [404 page](#404-page)
+    * [Links](#links)
+    * [Form validation](#form-validation)
+8. [Solved Bugs](#solved-bugs)
+9. [Unsolved Bugs](#unsolved-bugs)
 
 ## Code Validation
 Code is validated for each page to identify any major problems with the code. For HTML, the recommended [HTML W3C Validator](https://validator.w3.org/) is used. For CSS, the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) is used. For JS, [JS Hint](https://jshint.com/) is used.
@@ -429,6 +433,14 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 ### Frequent User
 
 [BACK TO TOP](#table-of-contents)
+
+## Features
+
+### 404 page
+
+### Links
+
+### Form validation
 
 ## Solved Bugs
 
