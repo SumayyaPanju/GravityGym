@@ -23,7 +23,7 @@ Code is validated for each page to identify any major problems with the code. Fo
 
 ### HTML
 
-HTML validator was used to test all HTML pages. Based on the results, ammendments were made to the code. The tables below shows the results of HTML validator before changes made and after the changes were made.  Click on the relevant tab to expand:
+HTML validator was used to test all HTML pages. Based on the results, ammendments were made to the code. The tables below shows the results of HTML validator before changes made and after the changes were made.
 
 <details>
 <summary>Before changes made</summary
@@ -104,7 +104,7 @@ Bassed on research, the most commonly used browsers in 2024 are:
 
 Based on the informaiton obtained, these browsers are used to test website compatibility for each page.
 
-For better reading and presentation, a table will be used for each browser. Click on the relevant tab to expand:
+For better reading and presentation, a table will be used for each browser.
 
 <details>
 
