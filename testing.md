@@ -94,11 +94,11 @@ Bassed on research, the most commonly used browsers in 2024 are:
 
 Based on the informaiton obtained, these browsers are used to test website compatibility for each page.
 
-For better reading and presentation, a table will be used for each browser. Click on the relevant table to expand:
+For better reading and presentation, a table will be used for each browser. Click on the relevant tab to expand:
 
 <details>
 
-<summary style="font-weight:700">Table 1: Google Chrome</summary>
+<summary style="font-weight:700">Google Chrome</summary>
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -116,14 +116,15 @@ For better reading and presentation, a table will be used for each browser. Clic
 
 <details>
 
-<summary style="font-weight:700">Table 2: Safari</summary>
+<summary style="font-weight:700">Safari</summary>
 
 Safari is no longer supported by windows. Attempts were made to download safari browser using [this website](https://safari.en.uptodown.com/windows/download). Although the download and installation was successful, the applications would not run smoothly as nothing would load. Hence, for this part of the testing, safari browser compatibility cannot be tested. 
 
 https://safari.en.uptodown.com/windows/download
 </details>
 
-<summary style="font-weight:700">Table 3: Microsoft Edge</summary>
+<details>
+<summary style="font-weight:700">Microsoft Edge</summary>
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -139,8 +140,10 @@ https://safari.en.uptodown.com/windows/download
 
 </details>
 
+<details>
 
-<summary style="font-weight:700">Table 4: Firefox</summary>
+
+<summary style="font-weight:700">Firefox</summary>
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -159,7 +162,7 @@ https://safari.en.uptodown.com/windows/download
 <details>
 
 
-<summary style="font-weight:700">Table 5: Samsung Internet</summary>
+<summary style="font-weight:700">Samsung Internet</summary>
 
 
 Samsung Internet is a mobile phone browser. Attempts were made to download [BlueStacks](https://www.bluestacks.com). Blue Stacks is a windows application where android applications can work. Although the download and installation was successful, the applications would not run smoothly. Hence, for this part of the testing, samsung internet browser compatibility cannot be tested. 
