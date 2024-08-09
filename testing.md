@@ -1,10 +1,8 @@
 #### [Previous page - README.md](/README.md)
-# Table of content 
+# Table of contents 
 
 1. [Code Validation](#code-validation)
     * [HTML](#html)
-        * [HTML validator before changes made](#html-validator---before-changes-made)
-        * [HTML validator after changes made](#html-validator---after-changes-made)
     * [CSS](#css)
     * [JavaScript](#javascript)
 2. [Browser Compatibility](#browser-compatibility)
