@@ -23,11 +23,13 @@
 ## Code Validation
 Code is validated for each page to identify any major problems with the code. For HTML, the recommended [HTML W3C Validator](https://validator.w3.org/) is used. For CSS, the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) is used. For JS, [JS Hint](https://jshint.com/) is used.
 
-[BACK TO TOP](#table-of-contents)
-
 ### HTML
 
-#### HTML Validator - before changes made 
+HTML validator was used to test all HTML pages. Based on the results, ammendments were made to the code. The tables below shows the results of HTML validator before changes made and after the changes were made.  Click on the relevant tab to expand:
+
+<details>
+<summary style="font-weight:700">Before changes made</summary>
+
 The table below shows the screenshots of the error and warning messages from the HTML Validator before any changes are made
 
 | Page                       | Screenshot                                                                 | Notes                                                                                                                                                                                                                                          |
@@ -41,8 +43,10 @@ The table below shows the screenshots of the error and warning messages from the
 | **Contact Us - Thank you** | ![Screenshots](/assets/images/testing/html-validator-contactus-before.png) | **1 Error:**<br><br> - Duplicate title under head section                                                                                                                                                                                      |
 | **404**                    | ![Screenshots](/assets/images/testing/html-validator-404-before.png)       | **1 Error:**<br><br> - Button element cannot be descendent of a element                                                                                                                                                                        |
 
+</details>
 
-#### HTML Validator - after changes made 
+<details>
+<summary style="font-weight:700">After changes made</summary>
 
 The Table below shows screenshots of the error and warning messages from the HTML Validator after changes have been made
 
@@ -56,26 +60,33 @@ The Table below shows screenshots of the error and warning messages from the HTM
 | **Contact Us**             | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fcontactus.html)                                                                                   | ![Screenshot](/assets/images/testing/html-validator-contactus-after.png) | **No error** <br><br> Duplicate ID removed as not required                                                                                                                                                                                                                                                                                             |
 | **Contact Us - Thank you** | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fthank-you.html)                                                                                   | ![Screenshot](/assets/images/testing/html-validator-thankyou-before.png) | **No error**<br><br> Duplicate title was removed                                                                                                                                                                                                                                                                                                       |
 | **404**                    | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2F404.html)                                                                                         | ![Screenshots](/assets/images/testing/html-validator-404-after.png)      | **No error**<br><br>Button element changed to div element                                                                                                                                                                                                                                                                                              |
-
+</details>
 
 [BACK TO TOP](#table-of-contents)
 ### CSS
+
+<details>
+<summary style="font-weight:700">CSS Table</summary>
 
 | File          | Jigsaw URL                                                                                                                                                                          | Screenshot                                              | Notes           |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------|
 | **style.css** | [Result page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![Screenshot](/assets/images/testing/css-validator.png) | No error found. |
 
+</details>
 
 [BACK TO TOP](#table-of-contents)
 
 ### JavaScript
 
+<details>
+
+<summary style="font-weight:700">JavaScript Table</summary>
 
 | File          | Screenshot                                             | Notes                                                                                   |
 |---------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | **script.js** | ![Screenshot](/assets/images/testing/js-validator.png) | 6 warnings found. However, unable to resolve it due to lack of knowledge in JavaScript. |
 
-
+</details>
 
 [BACK TO TOP](#table-of-contents)
 
