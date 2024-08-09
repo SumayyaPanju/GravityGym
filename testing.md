@@ -451,6 +451,30 @@ Based on the test, the user is directed to the correct 404 page. this is shown b
 
 ### Links
 
+There are various links throughout the webpage. All of them were tested to see if they do what they are supposed to do. The table below shows the test done and its results. 
+
+<details>
+<summary>Links test results</summary>
+
+|Tests done     |Expected results:      |Outcome:   |
+|---------------|-----------------------|-----------|
+|Nav Links      | - Home tab - Redirects to home. <br> - Plans tab - Redirects to Plans page <br> - Gallery tabs - Redirects to gallery page <br> - Schedules tab- Redirects to schedules page <br> - Contact us page - Redirects to contact us page <br><br> **All of these links should open on the same browser window** | All links worked as expected and they opened up on the same window |
+|Back to top button | Takes the user back to the top of the page | Back to top button worked as expected on all pages |
+|Social icons   | - Twitter icon - Redirects to twitter website <br> - Facebook icon - Redirects to facebook website <br> - Whatsapp icon - Redirects to Whatsapp website <br> - Instagram icon - Redirects to Instagram website <br><br> **All of these links should open on the new browser tab** | All links worked as expected and they opened up on another browser tab|
+|Select button on membership page|User should be redirected to a thank you page dedicated for membership plans in the same browser tab| Link worked as expected and it opened on the same windows tab|
+|Contact us link under membership queries|User should be redirected to a contact us page in the same browser tab| Link worked as expected and it opened on the same windows tab|
+|Gallery images link|Full size image should open in a new tab|Image links worked as expected|
+|Classes tabs|It should collapse and display classess relevant to that day|Tab button worked as expected|
+|Swimming tabs|It should collapse and display classess relevant to that day|Tab button worked as expected|
+|Sauna / Steam tabs|It should collapse and display classess relevant to that day|Tab button worked as expected|
+|Download pdf button|- Classes download button should open classes pdf <br> - Swimming download button should open swimming pdf <br>- Sauna / Steam download button should open sauna / steam pdf <br><br> **All of these links should open on the new browser tab** | The correct pdf files opened. However they did not open in a new tab <br><br> The code for schedule page was edited and an attribute was added target=_blank which fixed the problem. <br><br> The pdf files opens in a new tab |
+|Contact us submit button|Thank you page should load up on the same tab| Link works as expected |
+|Contact us reset button|The form to be reset| Link works as expected 
+|404 homepage button|User to be redirected to home page on the same tab| Links works as expected|
+
+
+</details>
+
 ### Form validation
 
 ## Solved Bugs
