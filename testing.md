@@ -63,6 +63,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 | **Contact Us - Thank you** | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fthank-you.html)                                                                                   | ![Screenshot](/assets/images/testing/validator/html-validator-thankyou-after.png) | **No error**<br><br> Duplicate title was removed                                                                                                                                                                                                                                                                                                       |
 | **404**                    | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2F404.html)                                                                                         | ![Screenshots](/assets/images/testing/validator/html-validator-404-after.png)      | **No error**<br><br>Button element changed to div element                                                                                                                                                                                                                                                                                              |
 </details>
+<br>
 
 [BACK TO TOP](#table-of-contents)
 ### CSS
@@ -76,6 +77,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 | **style.css** | [Result page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![Screenshot](/assets/images/testing/validator/css-validator.png) | No error found. |
 
 </details>
+<br>
 
 [BACK TO TOP](#table-of-contents)
 
@@ -90,6 +92,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 | **script.js** | ![Screenshot](/assets/images/testing/validator/js-validator.png) | 6 warnings found. However, unable to resolve it due to lack of knowledge in JavaScript. |
 
 </details>
+<br>
 
 [BACK TO TOP](#table-of-contents)
 
@@ -103,9 +106,13 @@ Bassed on research, the most commonly used browsers in 2024 are:
 5. Samsung Internet (2.59%)
 6. Opera (2.06%)
 
->![Screenshot](/assets/images/testing/browser-stats.png)
->[View website here](https://gs.statcounter.com/browser-market-share)
+<details>
+<summary>View Statistics</summary>
 
+![Screenshot](/assets/images/testing/browser-stats.png)
+[View website here](https://gs.statcounter.com/browser-market-share)
+</details>
+<br>
 Based on the informaiton obtained, these browsers are used to test website compatibility for each page.
 
 For better reading and presentation, a table will be used for each browser.
@@ -350,6 +357,7 @@ The results from Blisk are shown here:
 | **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-contact-us-before.png) | Add metadata, resize background image to match natural aspect ratio, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                        |
 | **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
 | **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-before.png)        | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
+
 #### Further information on lighthouse audit for desktops
 
 For all or almost all pages, there were common suggestions by lighthouse to improve performance of the website. These suggestions were not carried out due to lack of skills/knowledge in those areas. The screenshot below shows the suggestions given by lighthouse:
@@ -406,6 +414,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 <details>
 
 <summary>Wave Table for desktop, includes changes</summary>
+
 |                            | Screenshot                                                    | Message from wave                                                                                                                                                  |
 |----------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Home**                   | ![Screenshot](/assets/images/testing/w-home.png)              | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.                                        |
@@ -419,6 +428,8 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 | **404**                    | ![Screenshot](/assets/images/testing/w-404.png)               | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
 
 </details>
+
+<br>
 
 [BACK TO TOP](#table-of-contents)
 ## User Story Testing 
@@ -445,9 +456,14 @@ To do this the following steps were taken:
 2. At the end of the link, type in anything random
 3. This is what was typed during the test process: https://sumayyapanju.github.io/GravityGym/dfdddfdf.html
 
-Based on the test, the user is directed to the correct 404 page. this is shown below:
+Based on the test, the user is directed to the correct 404 page. this is shown in the following screenshot:
 
+<details>
+
+<summary>404 Screenshot</summary>
 ![Screenshot](/assets/images/testing/features/404-test.png)
+
+</details>
 
 ### Links
 
@@ -458,19 +474,19 @@ There are various links throughout the webpage. All of them were tested to see i
 
 |Tests done     |Expected results:      |Outcome:   |
 |---------------|-----------------------|-----------|
-|Nav Links      | - Home tab - Redirects to home. <br> - Plans tab - Redirects to Plans page <br> - Gallery tabs - Redirects to gallery page <br> - Schedules tab- Redirects to schedules page <br> - Contact us page - Redirects to contact us page <br><br> **All of these links should open on the same browser window** | All links worked as expected and they opened up on the same window |
-|Back to top button | Takes the user back to the top of the page | Back to top button worked as expected on all pages |
-|Social icons   | - Twitter icon - Redirects to twitter website <br> - Facebook icon - Redirects to facebook website <br> - Whatsapp icon - Redirects to Whatsapp website <br> - Instagram icon - Redirects to Instagram website <br><br> **All of these links should open on the new browser tab** | All links worked as expected and they opened up on another browser tab|
-|Select button on membership page|User should be redirected to a thank you page dedicated for membership plans in the same browser tab| Link worked as expected and it opened on the same windows tab|
-|Contact us link under membership queries|User should be redirected to a contact us page in the same browser tab| Link worked as expected and it opened on the same windows tab|
-|Gallery images link|Full size image should open in a new tab|Image links worked as expected|
-|Classes tabs|It should collapse and display classess relevant to that day|Tab button worked as expected|
-|Swimming tabs|It should collapse and display classess relevant to that day|Tab button worked as expected|
-|Sauna / Steam tabs|It should collapse and display classess relevant to that day|Tab button worked as expected|
-|Download pdf button|- Classes download button should open classes pdf <br> - Swimming download button should open swimming pdf <br>- Sauna / Steam download button should open sauna / steam pdf <br><br> **All of these links should open on the new browser tab** | The correct pdf files opened. However they did not open in a new tab <br><br> The code for schedule page was edited and an attribute was added target=_blank which fixed the problem. <br><br> The pdf files opens in a new tab |
-|Contact us submit button|Thank you page should load up on the same tab| Link works as expected |
-|Contact us reset button|The form to be reset| Link works as expected 
-|404 homepage button|User to be redirected to home page on the same tab| Links works as expected|
+|**Nav Links**      | - Home tab - Redirects to home. <br> - Plans tab - Redirects to Plans page <br> - Gallery tabs - Redirects to gallery page <br> - Schedules tab- Redirects to schedules page <br> - Contact us page - Redirects to contact us page <br><br> **All of these links should open on the same browser window** | All links worked as expected and they opened up on the same window |
+|**Back to top button** | Takes the user back to the top of the page | Back to top button worked as expected on all pages |
+|**Social icons**   | - Twitter icon - Redirects to twitter website <br> - Facebook icon - Redirects to facebook website <br> - Whatsapp icon - Redirects to Whatsapp website <br> - Instagram icon - Redirects to Instagram website <br><br> **All of these links should open on the new browser tab** | All links worked as expected and they opened up on another browser tab|
+|**Select button on membership page**|User should be redirected to a thank you page dedicated for membership plans in the same browser tab| Link worked as expected and it opened on the same windows tab|
+|**Contact us link under membership queries**|User should be redirected to a contact us page in the same browser tab| Link worked as expected and it opened on the same windows tab|
+|**Gallery images link**|Full size image should open in a new tab|Image links worked as expected|
+|**Classes tabs**|It should collapse and display classess relevant to that day|Tab button worked as expected|
+|**Swimming tabs**|It should collapse and display classess relevant to that day|Tab button worked as expected|
+|**Sauna / Steam tabs**|It should collapse and display classess relevant to that day|Tab button worked as expected|
+|**Download pdf button**|- Classes download button should open classes pdf <br> - Swimming download button should open swimming pdf <br>- Sauna / Steam download button should open sauna / steam pdf <br><br> **All of these links should open on the new browser tab** | The correct pdf files opened. However they did not open in a new tab <br><br> The code for schedule page was edited and an attribute was added target=_blank which fixed the problem. <br><br> The pdf files opens in a new tab |
+|**Contact us submit button**|Thank you page should load up on the same tab| Link works as expected |
+|**Contact us reset button**|The form to be reset| Link works as expected 
+|**404 homepage button**|User to be redirected to home page on the same tab| Links works as expected|
 
 
 </details>
