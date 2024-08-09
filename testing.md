@@ -241,7 +241,8 @@ The results from Blisk are shown here:
 
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) is a chrome extension which is installed on the browser. It is used to audit quality of the website. The report indicates how the page can be improved. Lighthouse audit test is carried out for desktop and mobile. 
 
-### Desktop Audit - Before making improvements
+<details>
+<summary style="font-weight:700"> Desktop Audit - Before making improvements </summary>
 
 |                            | Screenshot                                                     | Evaluation tool suggests:                                                                                                                                                                     |
 |----------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -253,14 +254,17 @@ The results from Blisk are shown here:
 | **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-contact-us-before.png) | Add metadata, resize background image to match natural aspect ratio, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                        |
 | **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
 | **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-before.png)        | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
-
 #### Further information on lighthouse audit for desktops
 
 For all or almost all pages, there were common suggestions by lighthouse to improve performance of the website. These suggestions were not carried out due to lack of skills/knowledge in those areas. The screenshot below shows the suggestions given by lighthouse:
 
-![Screenshot](/assets/images/testing/audits/diagnostic-results.png)
+>![Screenshot](/assets/images/testing/audits/diagnostic-results.png)
 
-### Desktop Audit - After making improvements
+</details>
+
+<details>
+
+<summary style="font-weight:700"> Desktop Audit - After making improvements </summary>
 
 |                            | Screenshot                                                    | Notes                                                                                                                                                                                                                                                                                   |
 |----------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -272,9 +276,11 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 | **Contact Us**             | ![Screenshot](/assets/images/testing/la-contact-us-after.png) | Meta data was added and image was resized                                                                                                                                                                                                                                               |
 | **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-after.png)   | Meta data was added.                                                                                                                                                                                                                                                                    |
 | **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-after.png)        | Meta data was added.                                                                                                                                                                                                                                                                    |
+</details>
 
+<details>
 
-### Mobile Audit 
+<summary style="font-weight:700"> Mobile Audit </summary>
 
 
 |                            | Screenshot                                               | Notes                                                             |
@@ -292,7 +298,9 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 For all or almost all pages, there were common suggestions by lighthouse to improve performance of the website. These suggestions were not carried out due to lack of skills/knowledge in those areas. The screenshot below shows the suggestions given by lighthouse:
 
-![Screenshot](/assets/images/testing/audits/m-diagnostic-results.png)
+>![Screenshot](/assets/images/testing/audits/m-diagnostic-results.png)
+
+</details>
 
 [BACK TO TOP](#table-of-contents)
 ## Wave Web Accessibility Evaluation
