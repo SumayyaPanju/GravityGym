@@ -26,7 +26,7 @@ Code is validated for each page to identify any major problems with the code. Fo
 HTML validator was used to test all HTML pages. Based on the results, ammendments were made to the code. The tables below shows the results of HTML validator before changes made and after the changes were made.  Click on the relevant tab to expand:
 
 <details>
-<summary style="font-weight:700">Before changes made</summary>
+<summary>Before changes made</summary
 
 The table below shows the screenshots of the error and warning messages from the HTML Validator before any changes are made
 
@@ -44,7 +44,7 @@ The table below shows the screenshots of the error and warning messages from the
 </details>
 
 <details>
-<summary style="font-weight:700">After changes made</summary>
+<summary>After changes made</summary>
 
 The Table below shows screenshots of the error and warning messages from the HTML Validator after changes have been made
 
@@ -65,7 +65,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 
 <details>
 
-<summary style="font-weight:700">CSS Table</summary>
+<summary>CSS Table</summary>
 
 | File          | Jigsaw URL                                                                                                                                                                          | Screenshot                                              | Notes           |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------|
@@ -79,7 +79,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 
 <details>
 
-<summary style="font-weight:700">JavaScript Table</summary>
+<summary>JavaScript Table</summary>
 
 | File          | Screenshot                                             | Notes                                                                                   |
 |---------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -108,7 +108,7 @@ For better reading and presentation, a table will be used for each browser. Clic
 
 <details>
 
-<summary style="font-weight:700">Google Chrome</summary>
+<summary>Google Chrome</summary>
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -126,14 +126,14 @@ For better reading and presentation, a table will be used for each browser. Clic
 
 <details>
 
-<summary style="font-weight:700">Safari</summary>
+<summary>Safari</summary>
 
 Safari is no longer supported by windows. Attempts were made to download safari browser using [this website](https://safari.en.uptodown.com/windows/download). Although the download and installation was successful, the applications would not run smoothly as nothing would load. Hence, for this part of the testing, safari browser compatibility cannot be tested. 
 
 </details>
 
 <details>
-<summary style="font-weight:700">Microsoft Edge</summary>
+<summary>Microsoft Edge</summary>
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -152,7 +152,7 @@ Safari is no longer supported by windows. Attempts were made to download safari 
 <details>
 
 
-<summary style="font-weight:700">Firefox</summary>
+<summary>Firefox</summary>
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -171,7 +171,7 @@ Safari is no longer supported by windows. Attempts were made to download safari 
 <details>
 
 
-<summary style="font-weight:700">Samsung Internet</summary>
+<summary>Samsung Internet</summary>
 
 
 Samsung Internet is a mobile phone browser. Attempts were made to download [BlueStacks](https://www.bluestacks.com). Blue Stacks is a windows application where android applications can work. Although the download and installation was successful, the applications would not run smoothly. Hence, for this part of the testing, samsung internet browser compatibility cannot be tested. 
@@ -180,7 +180,7 @@ Samsung Internet is a mobile phone browser. Attempts were made to download [Blue
 
 <details>
 
-<summary style="font-weight:700">Opera</summary>
+<summary>Opera</summary>
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -240,7 +240,7 @@ The results from Blisk are shown here:
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) is a chrome extension which is installed on the browser. It is used to audit quality of the website. The report indicates how the page can be improved. Lighthouse audit test is carried out for desktop and mobile. 
 
 <details>
-<summary style="font-weight:700"> Desktop Audit - Before making improvements </summary>
+<summary> Desktop Audit - Before making improvements </summary>
 
 |                            | Screenshot                                                     | Evaluation tool suggests:                                                                                                                                                                     |
 |----------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -262,7 +262,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 <details>
 
-<summary style="font-weight:700"> Desktop Audit - After making improvements </summary>
+<summary> Desktop Audit - After making improvements </summary>
 
 |                            | Screenshot                                                    | Notes                                                                                                                                                                                                                                                                                   |
 |----------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -278,7 +278,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 <details>
 
-<summary style="font-weight:700"> Mobile Audit </summary>
+<summary> Mobile Audit </summary>
 
 
 |                            | Screenshot                                               | Notes                                                             |
@@ -307,7 +307,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 <details>
 
-<summary style="font-weight:700">Wave Table for desktop, includes changes</summary>
+<summary>Wave Table for desktop, includes changes</summary>
 |                            | Screenshot                                                    | Message from wave                                                                                                                                                  |
 |----------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Home**                   | ![Screenshot](/assets/images/testing/w-home.png)              | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.                                        |
