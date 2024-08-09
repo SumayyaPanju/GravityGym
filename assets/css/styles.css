@@ -742,8 +742,14 @@ footer {
     }
 }
 
-/* Large devices (desktops, less than 992-1200px)*/
-@media (max-width: 1200px) {
+
+/* Large devices (desktops, less than 992-1119px)*/
+@media (max-width: 1199.98px) {
+    .textbox-cont-text p {
+        margin-left: 40px;
+        margin-right: 40px;
+        font-size: 140%;
+    }
 
     /*Testimonial*/
     .testimonial-groups p {
