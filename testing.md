@@ -245,33 +245,33 @@ The results from Blisk are shown here:
 
 |                            | Screenshot                                                     | Evaluation tool suggests:                                                                                                                                                                     |
 |----------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Home**                   | ![Screenshot](/assets/images/testing/la-home-before.png)       | Add metadata, improve contrast, improve, preload, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                           |
-| **Plans**                  | ![Screenshot](/assets/images/testing/la-plans-before.png)      | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
-| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/la-plans-ty-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
-| **Gallery**                | ![Screenshot](/assets/images/testing/la-gallery-before.png)    | Add metadata, reduce network payloads, reduce large layout shifts, have discernible name for links, images to webp or avif, [and more](#further-information-on-lighthouse-audit-for-desktops) |
-| **Scheudles**              | ![Screenshot](/assets/images/testing/la-schedules-before.png)  | Add metadata, increase space for touch targets, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                             |
-| **Contact Us**             | ![Screenshot](/assets/images/testing/la-contact-us-before.png) | Add metadata, resize background image to match natural aspect ratio, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                        |
-| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/la-thankyou-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
-| **404**                    | ![Screenshot](/assets/images/testing/la-404-before.png)        | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
+| **Home**                   | ![Screenshot](/assets/images/testing/audits/la-home-before.png)       | Add metadata, improve contrast, improve, preload, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                           |
+| **Plans**                  | ![Screenshot](/assets/images/testing/audits//la-plans-before.png)      | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
+| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-plans-ty-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
+| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-gallery-before.png)    | Add metadata, reduce network payloads, reduce large layout shifts, have discernible name for links, images to webp or avif, [and more](#further-information-on-lighthouse-audit-for-desktops) |
+| **Scheudles**              | ![Screenshot](/assets/images/testing/audits/la-schedules-before.png)  | Add metadata, increase space for touch targets, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                             |
+| **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-contact-us-before.png) | Add metadata, resize background image to match natural aspect ratio, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                        |
+| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
+| **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-before.png)        | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
 
 #### Further information on lighthouse audit for desktops
 
 For all or almost all pages, there were common suggestions by lighthouse to improve performance of the website. These suggestions were not carried out due to lack of skills/knowledge in those areas. The screenshot below shows the suggestions given by lighthouse:
 
-![Screenshot](/assets/images/testing/diagnostic-results.png)
+![Screenshot](/assets/images/testing/audits/diagnostic-results.png)
 
 ### Desktop Audit - After making improvements
 
 |                            | Screenshot                                                    | Notes                                                                                                                                                                                                                                                                                   |
 |----------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Home**                   | ![Screenshot](/assets/images/testing/la-home-after.png)       | Meta data was added, contrast was changed                                                                                                                                                                                                                                               |
-| **Plans**                  | ![Screenshot](/assets/images/testing/la-plans-after.png)      | Meta description is added                                                                                                                                                                                                                                                               |
-| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/la-plans-ty-after.png)   | Meta description is added                                                                                                                                                                                                                                                               |
-| **Gallery**                | ![Screenshot](/assets/images/testing/la-gallery-after.png)    | Meta data was added, links were given a discernible name, alt texts was assigned, images were converted to webp                                                                                                                                                                         |
-| **Scheudles**              | ![Screenshot](/assets/images/testing/la-schedules-after.png)  | Meta data was added, and spacing was also added. However, it still does not meet the minimum threshold required for accessibility. Further spacing is not added, as spacing seems sufficient. There is no adjacent buttons. The next button is in the next section which acts as a tab. |
+| **Home**                   | ![Screenshot](/assets/images/testing/audits/la-home-after.png)       | Meta data was added, contrast was changed                                                                                                                                                                                                                                               |
+| **Plans**                  | ![Screenshot](/assets/images/testing/audits/la-plans-after.png)      | Meta description is added                                                                                                                                                                                                                                                               |
+| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-plans-ty-after.png)   | Meta description is added                                                                                                                                                                                                                                                               |
+| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-gallery-after.png)    | Meta data was added, links were given a discernible name, alt texts was assigned, images were converted to webp                                                                                                                                                                         |
+| **Scheudles**              | ![Screenshot](/assets/images/testing/audits/la-schedules-after.png)  | Meta data was added, and spacing was also added. However, it still does not meet the minimum threshold required for accessibility. Further spacing is not added, as spacing seems sufficient. There is no adjacent buttons. The next button is in the next section which acts as a tab. |
 | **Contact Us**             | ![Screenshot](/assets/images/testing/la-contact-us-after.png) | Meta data was added and image was resized                                                                                                                                                                                                                                               |
-| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/la-thankyou-after.png)   | Meta data was added.                                                                                                                                                                                                                                                                    |
-| **404**                    | ![Screenshot](/assets/images/testing/la-404-after.png)        | Meta data was added.                                                                                                                                                                                                                                                                    |
+| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-after.png)   | Meta data was added.                                                                                                                                                                                                                                                                    |
+| **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-after.png)        | Meta data was added.                                                                                                                                                                                                                                                                    |
 
 
 ### Mobile Audit 
@@ -279,20 +279,20 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 |                            | Screenshot                                               | Notes                                                             |
 |----------------------------|----------------------------------------------------------|-------------------------------------------------------------------|
-| **Home**                   | ![Screenshot](/assets/images/testing/la-m-home.png)      | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Plans**                  | ![Screenshot](/assets/images/testing/la-m-plans.png)     | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/la-m-plans-ty.png)  | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Gallery**                | ![Screenshot](/assets/images/testing/la-m-gallery.png)   | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Scheudles**              | ![Screenshot](/assets/images/testing/la-m-schedules.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Contact Us**             | ![Screenshot](/assets/images/testing/la-m-contactus.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/la-m-thankyou.png)  | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **404**                    | ![Screenshot](/assets/images/testing/la-m-404.png)       | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+| **Home**                   | ![Screenshot](/assets/images/testing/audits/la-m-home.png)      | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+| **Plans**                  | ![Screenshot](/assets/images/testing/audits/la-m-plans.png)     | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-m-plans-ty.png)  | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-m-gallery.png)   | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+| **Scheudles**              | ![Screenshot](/assets/images/testing/audits/la-m-schedules.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+| **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-m-contactus.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-m-thankyou.png)  | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+| **404**                    | ![Screenshot](/assets/images/testing/audits/la-m-404.png)       | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
 
 #### Further information on lighthouse audit for mobiles
 
 For all or almost all pages, there were common suggestions by lighthouse to improve performance of the website. These suggestions were not carried out due to lack of skills/knowledge in those areas. The screenshot below shows the suggestions given by lighthouse:
 
-![Screenshot](/assets/images/testing/m-diagnostic-results.png)
+![Screenshot](/assets/images/testing/audits/m-diagnostic-results.png)
 
 [BACK TO TOP](#table-of-contents)
 ## Wave Web Accessibility Evaluation
