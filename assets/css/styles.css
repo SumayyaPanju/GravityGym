@@ -870,60 +870,12 @@ footer {
     }
 }
 
-/* X-Small devices (portrait phones, less than 576px)*/
-@media (max-width: 576px) {
-
-    /*Full Width*/
-    #full-width-cont {
-        height: 350px;
-        width: 100%;
-    }
-
-    #full-width-image {
-        height: 350px;
-        width: 100%;
-    }
-
-    /*Header*/
-    #org-name {
-        font-size: 300%;
-    }
-
-    /*Menu*/
-    #gym-menu a {
-        font-size: 90%;
-    }
+/*X-Small devices (portrait phones, screen size of 575px and less)*/
+@media (max-width: 575.99px) {
 
     /*Testimonial*/
     .testimonial-groups p {
-        min-height: 100px;
-    }
-
-    /*Gym Perks*/
-    .group-name {
-        display: none;
-    }
-
-    .group-2 h3 {
-        font-size: 140%;
-    }
-
-    .percentage-off {
-        font-size: 300%;
-        padding-top: 50%;
-    }
-
-
-    /*Schedule*/
-
-    .classes-schedule th,
-    .classes-schedule tr td {
-        padding-right: 3px;
-        padding-left: 3px;
-        font-size: 90%;
-    }
-    .download {
-        padding: 3%;
+        min-height: 150px;
     }
 
     /*Footer*/
@@ -936,12 +888,4 @@ footer {
         width: 50%;
     }
 
-    /*Back to top*/
-    #back-to-top-btn a {
-        left: 75%;
-    }
-
-    #back-to-top-btn {
-        left: 75%;
-    }
 }
