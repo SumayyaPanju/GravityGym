@@ -438,6 +438,17 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 ### 404 page
 
+A test was carried out to ensure that if a user types in the wrong link, they are redirected to correct 404 page. 
+
+To do this the following steps were taken:
+1. Go to the deployed page using this link: https://sumayyapanju.github.io/GravityGym
+2. At the end of the link, type in anything random
+3. This is what was typed during the test process: https://sumayyapanju.github.io/GravityGym/dfdddfdf.html
+
+Based on the test, the user is directed to the correct 404 page. this is shown below:
+
+![Screenshot](/assets/images/testing/features/404-test.png)
+
 ### Links
 
 ### Form validation
