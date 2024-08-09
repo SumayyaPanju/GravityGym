@@ -305,6 +305,9 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 [WAVE](https://wave.webaim.org/) is another evaluation tool which evaluates the webpage and it also helps developers make content more accessible to individuals with special needs. It can be used with or without the extension. 
 
+<details>
+
+<summary style="font-weight:700">Wave Table for desktop, includes changes</summary>
 |                            | Screenshot                                                    | Message from wave                                                                                                                                                  |
 |----------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Home**                   | ![Screenshot](/assets/images/testing/w-home.png)              | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.                                        |
@@ -317,6 +320,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 | **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/w-thankyou.png)          | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
 | **404**                    | ![Screenshot](/assets/images/testing/w-404.png)               | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
 
+</details>
 
 [BACK TO TOP](#table-of-contents)
 ## User Story Testing 
