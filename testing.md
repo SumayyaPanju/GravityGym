@@ -493,6 +493,39 @@ There are various links throughout the webpage. All of them were tested to see i
 
 ### Form validation
 
+All input fields on the contact us page is tested for validation.
+
+The table below shows what is tested and the screenshot of the results 
+
+<details>
+<summary>Form validation results</summary>
+
+|Testing:                                   | Screenshot                                                                        | Results explained                                                            |
+|-------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+|First Name - required                      |![Screenshot](/assets/images/testing/features/form-fname.png)                      |Form does not submit without this filled in.                                  |
+|Second Name - required                     |![Screenshot](/assets/images/testing/features/form-sname.png)                      |Form does not submit without this filled in.                                  |
+|Email addrerss - required                  |![Screenshot](/assets/images/testing/features/form-email.png)                      |Form does not submit without this filled in.                                  |
+|Email address - format                     |![Screenshot](/assets/images/testing/features/form-email-format.png)               |Form does not submit without this filled in with the right format using @.    |
+|Phone number - required                    |![Screenshot](/assets/images/testing/features/form-number.png)                     |Form does not submit without this filled in.                                  |
+|Phone number - format                      |![Screenshot](/assets/images/testing/features/form-number-digits-validation.png)   |Form does not accept letters, it will only accept numbers.                    |
+|Phone number - max characters              |![Screenshot](/assets/images/testing/features/form-number-maxchar-validation.png)  |Form does not accept anything less than or more than 11 characters.           |
+|Reason for contact - required              |![Screenshot](/assets/images/testing/features/form-title.png)                      |Form does not submit without this filled in.                                  |
+|Messages - required                        |![Screenshot](/assets/images/testing/features/form-message.png)                    |Form does not submit without this filled in.                                  |
+|Phone - checked                            |![Screenshot](/assets/images/testing/features/reset.png)                           |This is checked by default.                                                   |
+|Email - checked                            |![Screenshot](/assets/images/testing/features/reset.png)                           |This is checked by default.                                                   |
+|Phone - unchecked                          |![Screenshot](/assets/images/testing/features/phone-uncheck.png)                   |Can be unchecked and the form will still work.                                |
+|Email - unchecked                          |![Screenshot](/assets/images/testing/features/email-uncheck.png)                   |Can be unchecked and the form will still work.                                |
+|Submit button - sends to thank you page    |![Screenshot](/assets/images/testing/features/submit.png)                          |Submit buttons redirects to thank you page.                                   |
+|Reset button - clears the page             |![Screenshot](/assets/images/testing/features/reset.png)                           |Reset button clears the form, to its original state when initially loaded.    |
+
+
+</details>
+
+<br>
+
+[BACK TO TOP](#table-of-contents)
+
+
 ## Solved Bugs
 
 [BACK TO TOP](#table-of-contents)
