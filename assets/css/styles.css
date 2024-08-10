@@ -734,7 +734,7 @@ footer {
     }
 }
 
-/* Large devices (desktops, between 992-1119px)*/
+/* Large devices (desktops, between 992-1199px)*/
 @media (max-width: 1199.98px) {
     .textbox-cont-text p {
         margin-left: 40px;
@@ -831,6 +831,17 @@ footer {
         font-size: 90%;
     }
 
+    /*Gym Perks*/
+    .group-1 {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    .group-2 {
+        margin-left: 10%;
+        margin-right:10%;
+    }
+
     /*Schedules*/
     .tab button {
         padding: 2%;
@@ -867,6 +878,17 @@ footer {
     /*Testimonial*/
     .testimonial-groups p {
         min-height: 150px;
+    }
+
+    /*Gym Perks*/
+    .group-1 {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .group-2{
+        margin-left: 5%;
+        margin-right: 5%;
     }
 
     /*Footer*/
