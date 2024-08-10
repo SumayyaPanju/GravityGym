@@ -219,11 +219,26 @@ Samsung Internet is a mobile phone browser. Attempts were made to download [Blue
 | **404**                   | ![Screenshot](/assets/images/testing/browser-compatibility/opera-404.png)                                                                                                                                                                                                                                                                                                                                                                                                     | Works as expected |
 
 </details>
+<br>
 
 [BACK TO TOP](#table-of-contents)
 ## Responsiveness
 
-To test the responsiveness of GravityGym, DevTools is used. The Device is tested at different breakpoints based on Bootstrap.
+To test the responsiveness of GravityGym, DevTools is used. The Device is tested at different breakpoints based on Bootstrap that was used to design this project.
+
+The following breakpoints was used for this project:
+* Extra Small devices for portrait phones (less than 575px). 
+    * Max-width set at 575.98px
+* Small devices for landscape phones (576-767px). 
+    * Max-width set at 767.98px
+* Medium devices for tablets (between 768-991px). 
+    * Max-width set at 991.98px
+* Large devices for desktops (between 992-1119px). 
+    * Max-width set at 1199.98px
+* X-large devices for larger desktops (1200px upwards). 
+    * Min-width set at 1200px
+
+>Click below, on the relevant headings to expand
 
 <details>
 
