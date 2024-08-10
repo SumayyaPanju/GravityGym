@@ -29,8 +29,11 @@ Code is validated for each page to identify any major problems with the code. Fo
 
 HTML validator was used to test all HTML pages. Based on the results, ammendments were made to the code. The tables below shows the results of HTML validator before changes made and after the changes were made.
 
+>Click below, on the relevant headings to expand
+
 <details>
-<summary>Before changes made</summary
+
+**<summary>Before changes made...</summary>**
 
 The table below shows the screenshots of the error and warning messages from the HTML Validator before any changes are made
 
@@ -48,7 +51,8 @@ The table below shows the screenshots of the error and warning messages from the
 </details>
 
 <details>
-<summary>After changes made</summary>
+
+**<summary>After changes made...</summary>**
 
 The Table below shows screenshots of the error and warning messages from the HTML Validator after changes have been made
 
@@ -68,9 +72,11 @@ The Table below shows screenshots of the error and warning messages from the HTM
 [BACK TO TOP](#table-of-contents)
 ### CSS
 
+>Click below, on the relevant headings to expand
+
 <details>
 
-<summary>CSS Table</summary>
+**<summary>CSS Table...</summary>**
 
 | File          | Jigsaw URL                                                                                                                                                                          | Screenshot                                              | Notes           |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------|
@@ -83,9 +89,11 @@ The Table below shows screenshots of the error and warning messages from the HTM
 
 ### JavaScript
 
+>Click below, on the relevant headings to expand
+
 <details>
 
-<summary>JavaScript Table</summary>
+**<summary>JavaScript Table...</summary>**
 
 | File          | Screenshot                                             | Notes                                                                                   |
 |---------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -107,7 +115,10 @@ Bassed on research, the most commonly used browsers in 2024 are:
 6. Opera (2.06%)
 
 <details>
-<summary>View Statistics</summary>
+
+>Click below, on the relevant headings to expand
+
+**<summary>View Statistics...</summary>**
 
 ![Screenshot](/assets/images/testing/browser-stats.png)
 [View website here](https://gs.statcounter.com/browser-market-share)
@@ -117,9 +128,11 @@ Based on the informaiton obtained, these browsers are used to test website compa
 
 For better reading and presentation, a table will be used for each browser.
 
+>Click below, on the relevant headings to expand
+
 <details>
 
-<summary>Google Chrome</summary>
+**<summary>Google Chrome...</summary>**
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -137,14 +150,15 @@ For better reading and presentation, a table will be used for each browser.
 
 <details>
 
-<summary>Safari</summary>
+**<summary>Safari...</summary>**
 
 Safari is no longer supported by windows. Attempts were made to download safari browser using [this website](https://safari.en.uptodown.com/windows/download). Although the download and installation was successful, the applications would not run smoothly as nothing would load. Hence, for this part of the testing, safari browser compatibility cannot be tested. 
 
 </details>
 
 <details>
-<summary>Microsoft Edge</summary>
+
+**<summary>Microsoft Edge...</summary>**
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -163,7 +177,7 @@ Safari is no longer supported by windows. Attempts were made to download safari 
 <details>
 
 
-<summary>Firefox</summary>
+**<summary>Firefox...</summary>**
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -182,7 +196,7 @@ Safari is no longer supported by windows. Attempts were made to download safari 
 <details>
 
 
-<summary>Samsung Internet</summary>
+**<summary>Samsung Internet...</summary>**
 
 
 Samsung Internet is a mobile phone browser. Attempts were made to download [BlueStacks](https://www.bluestacks.com). Blue Stacks is a windows application where android applications can work. Although the download and installation was successful, the applications would not run smoothly. Hence, for this part of the testing, samsung internet browser compatibility cannot be tested. 
@@ -191,7 +205,7 @@ Samsung Internet is a mobile phone browser. Attempts were made to download [Blue
 
 <details>
 
-<summary>Opera</summary>
+**<summary>Opera...</summary>**
 
 |                           | Screenshots                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Notes             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -213,7 +227,8 @@ To test the responsiveness of GravityGym, DevTools is used. The Device is tested
 
 <details>
 
-<summary>Smallest device</summary>
+**<summary>Smallest device...</summary>**
+
 The test is carried out for extra small devices such as portrait phones at 320px:
 
 |                           |Screenshots        |Notes      |
@@ -230,7 +245,9 @@ The test is carried out for extra small devices such as portrait phones at 320px
 </details>
 
 <details>
-<summary>Small device</summary>
+
+**<summary>Small device...</summary>**
+
 The test is carried out for small devices such as landscape phones at 576px:
 
 |                           |Screenshots        |Notes      |
@@ -247,7 +264,9 @@ The test is carried out for small devices such as landscape phones at 576px:
 
 </details>
 <details>
-<summary>Medium device</summary>
+
+**<summary>Medium device...</summary>** 
+
 The test is carried out for medium devices such as tablets at 768px:
 
 |                           |Screenshots        |Notes      |
@@ -264,7 +283,9 @@ The test is carried out for medium devices such as tablets at 768px:
 
 </details>
 <details>
-<summary>Large device</summary>
+
+**<summary>Large device...</summary>**
+
 The test is carried out for large devices such as large desktops at 992px:
 
 |                           |Screenshots        |Notes      |
@@ -280,7 +301,9 @@ The test is carried out for large devices such as large desktops at 992px:
 
 </details>
 <details>
-<summary>Extra Large device</summary>
+
+**<summary>Extra Large device...</summary>**
+
 The test is carried out for extra large devices such as large desktops at 1200px:
 
 |                           |Screenshots        |Notes      |
@@ -297,7 +320,9 @@ The test is carried out for extra large devices such as large desktops at 1200px
 </details>
 
 <details>
-<summary>Extra Extra Large device</summary>
+
+**<summary>Extra Extra Large device...</summary>**
+
 The test is carried out for extra extra large devices such as extra extra large desktops at 1400px:
 
 |                           |Screenshots        |Notes      |
@@ -344,8 +369,11 @@ The results from Blisk are shown here:
 
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) is a chrome extension which is installed on the browser. It is used to audit quality of the website. The report indicates how the page can be improved. Lighthouse audit test is carried out for desktop and mobile. 
 
+>Click below, on the relevant headings to expand
+
 <details>
-<summary> Desktop Audit - Before making improvements </summary>
+
+**<summary> Desktop Audit - Before making improvements...</summary>**
 
 |                            | Screenshot                                                     | Evaluation tool suggests:                                                                                                                                                                     |
 |----------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -368,7 +396,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 <details>
 
-<summary> Desktop Audit - After making improvements </summary>
+**<summary> Desktop Audit - After making improvements...</summary>**
 
 |                            | Screenshot                                                    | Notes                                                                                                                                                                                                                                                                                   |
 |----------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -384,7 +412,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 <details>
 
-<summary> Mobile Audit </summary>
+**<summary> Mobile Audit...</summary>**
 
 
 |                            | Screenshot                                               | Notes                                                             |
@@ -405,15 +433,18 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 >![Screenshot](/assets/images/testing/audits/m-diagnostic-results.png)
 
 </details>
+<br>
 
 [BACK TO TOP](#table-of-contents)
 ## Wave Web Accessibility Evaluation
 
 [WAVE](https://wave.webaim.org/) is another evaluation tool which evaluates the webpage and it also helps developers make content more accessible to individuals with special needs. It can be used with or without the extension. 
 
+>Click below, on the relevant headings to expand
+
 <details>
 
-<summary>Wave Table for desktop, includes changes</summary>
+**<summary>Wave Table for desktop, includes changes...</summary>**
 
 |                            | Screenshot                                                    | Message from wave                                                                                                                                                  |
 |----------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -458,9 +489,12 @@ To do this the following steps were taken:
 
 Based on the test, the user is directed to the correct 404 page. this is shown in the following screenshot:
 
+>Click below, on the relevant headings to expand
+
 <details>
 
-<summary>404 Screenshot</summary>
+**<summary>404 Screenshot...</summary>**
+
 ![Screenshot](/assets/images/testing/features/404-test.png)
 
 </details>
@@ -469,8 +503,12 @@ Based on the test, the user is directed to the correct 404 page. this is shown i
 
 There are various links throughout the webpage. All of them were tested to see if they do what they are supposed to do. The table below shows the test done and its results. 
 
+>Click below, on the relevant headings to expand
+
 <details>
-<summary>Links test results</summary>
+
+**<summary>Links test results...</summary>**
+**<summary>Links test results...</summary>**
 
 |Tests done     |Expected results:      |Outcome:   |
 |---------------|-----------------------|-----------|
@@ -497,8 +535,11 @@ All input fields on the contact us page is tested for validation.
 
 The table below shows what is tested and the screenshot of the results 
 
+>Click below, on the relevant headings to expand
+
 <details>
-<summary>Form validation results</summary>
+
+**<summary>Form validation results...</summary>**
 
 |Testing:                                   | Screenshot                                                                        | Results explained                                                            |
 |-------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
