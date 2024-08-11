@@ -235,7 +235,7 @@ The following breakpoints was used for this project:
     * Max-width set at 991.98px
 * Large devices for desktops (between 992-1119px). 
     * Max-width set at 1199.98px
-* X-large devices for larger desktops (1200px upwards). 
+* X-large devices for larger desktsops (1200px upwards). 
     * Min-width set at 1200px
 
 >Click below, on the relevant headings to expand
@@ -261,8 +261,6 @@ The test is carried out for extra small devices such as portrait phones at 320px
 
 </details>
 
-<br>
-
 <details>
 
 **<summary>Smallest device at 575px...</summary>**
@@ -283,8 +281,6 @@ The test is carried out for extra small devices such as portrait phones at 575px
 |**Footer and back to top button**                 |![Screenshot](/assets/images/testing/responsiveness/xs-575-footer.png) |Works as expected. <br><br> The consistency of footer throughout all 8 pages was checked, it all has the same layout.|
 
 </details>
-
-<br>
 
 <details>
 
@@ -308,7 +304,27 @@ The test is carried out for small devices such as landscape phones at 576px:
 
 </details>
 
-<br>
+<details>
+
+**<summary>Small device at 767...</summary>** 
+
+The test is carried out for small devices such as landscape phones at 767px:
+
+|                           |Screenshots        |Notes      |
+|---------------------------|-------------------|-----------|
+|**Header and menu** |![Screenshot](/assets/images/testing/responsiveness/s-767-header.png)|Works as expected. <br><br> The consistency of header throughout all 8 pages was checked, it all has the same layout.|
+|**Home**                   |![Screenshot](/assets/images/testing/responsiveness/s-767-home-1.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-home-2.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-home-3.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-home-4.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-home-5.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-home-6.png) |Works as expected.|
+|**Plans**                  |![Screenshot](/assets/images/testing/responsiveness/s-767-plans-1.png)![Screenshot](/assets/images/testing/responsiveness/s-767-plans-2.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-plans-3.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-plans-4.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-plans-5.png) |Works as expected.|
+|**Plans - Thank you**      |![Screenshot](/assets/images/testing/responsiveness/s-767-plans-ty.png) |Works as expected.|
+|**Gallery**                |![Screenshot](/assets/images/testing/responsiveness/s-767-gallery-1.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-gallery-2.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-gallery-3.png) |Works as expected.|
+|**Schedules**              |![Screenshot](/assets/images/testing/responsiveness/s-767-schedules-1.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-schedules-2.png) ![Screenshot](/assets/images/testing/responsiveness/s-767-schedules-3.png) |Works as expected.|
+|**Contact Us**             |![Screenshot](/assets/images/testing/responsiveness/s-767-contactus.png) |Works as expected.|
+|**Contact Us - Thank you** |![Screenshot](/assets/images/testing/responsiveness/s-767-ty.png) |Works as expected.|
+|**404**                    |![Screenshot](/assets/images/testing/responsiveness/s-767-404.png) |Works as expected.|
+|**Footer and back to top button** |![Screenshot](/assets/images/testing/responsiveness/s-767-footer.png) |Works as expected. <br><br> The consistency of footer throughout all 8 pages was checked, it all has the same layout.|
+
+
+</details>
 
 <details>
 
