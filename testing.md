@@ -306,7 +306,7 @@ The test is carried out for small devices such as landscape phones at 576px:
 
 <details>
 
-**<summary>Small device at 767...</summary>** 
+**<summary>Small device at 767px...</summary>** 
 
 The test is carried out for small devices such as landscape phones at 767px:
 
