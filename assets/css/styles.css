@@ -575,8 +575,7 @@ textarea,
 }
 
 #back-to-top-btn a:hover {
-    background-color: white;
-    color: black;
+    border: solid 4px black;
 }
 
 #back-to-top-btn {
@@ -839,7 +838,7 @@ footer {
 
     .group-2 {
         margin-left: 10%;
-        margin-right:10%;
+        margin-right: 10%;
     }
 
     /*Schedules*/
@@ -859,10 +858,12 @@ footer {
 
     /*Back to top*/
     #back-to-top-btn a {
+        top: 95%;
         left: 85%;
     }
 
     #back-to-top-btn {
+        top: 95%;
         left: 85%;
     }
 
@@ -886,7 +887,7 @@ footer {
         margin-right: 10%;
     }
 
-    .group-2{
+    .group-2 {
         margin-left: 5%;
         margin-right: 5%;
     }
@@ -899,6 +900,15 @@ footer {
 
     #addr {
         width: 50%;
+    }
+
+    /*Back to top*/
+    #back-to-top-btn a {
+        left: 76%;
+    }
+
+    #back-to-top-btn {
+        left: 76%;
     }
 
 }
