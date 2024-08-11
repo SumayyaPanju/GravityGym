@@ -523,7 +523,6 @@ There are various links throughout the webpage. All of them were tested to see i
 <details>
 
 **<summary>Links test results...</summary>**
-**<summary>Links test results...</summary>**
 
 |Tests done     |Expected results:      |Outcome:   |
 |---------------|-----------------------|-----------|
