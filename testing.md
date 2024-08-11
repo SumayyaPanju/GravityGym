@@ -288,23 +288,28 @@ The test is carried out for extra small devices such as portrait phones at 575px
 
 <details>
 
-**<summary>Small device...</summary>**
+**<summary>Small device at 576px...</summary>**
 
 The test is carried out for small devices such as landscape phones at 576px:
 
 |                           |Screenshots        |Notes      |
 |---------------------------|-------------------|-----------|
-|**Home**                   |                   |           |
-|**Plans**                  |                   |           |
-|**Plans - Thank you**      |                   |           |
-|**Gallery**                |                   |           |
-|**Schedules**              |                   |           |
-|**Contact Us**             |                   |           |
-|**Contact Us - Thank you** |                   |           |
-|**404**                    |                   |           |
+|**Header and menu** |![Screenshot](/assets/images/testing/responsiveness/s-576-header.png) |Works as expected. <br><br> The consistency of header throughout all 8 pages was checked, it all has the same layout.|
+|**Home**                   |![Screenshot](/assets/images/testing/responsiveness/s-576-home-1.png)![Screenshot](/assets/images/testing/responsiveness/s-576-home-2.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-home-3.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-home-4.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-home-5.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-home-6.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-home-7.png) |Works as expected.|
+|**Plans**                  |![Screenshot](/assets/images/testing/responsiveness/s-576-plans-1.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-plans-2.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-plans-3.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-plans-4.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-plans-5.png) |Works as expected.|
+|**Plans - Thank you**      |![Screenshot](/assets/images/testing/responsiveness/s-576-plans-ty.png) |Works as expected.|
+|**Gallery**                |![Screenshot](/assets/images/testing/responsiveness/s-576-gallery-1.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-gallery-2.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-gallery-3.png) |Works as expected.|
+|**Schedules**              |![Screenshot](/assets/images/testing/responsiveness/s-576-schedules-1.png)![Screenshot](/assets/images/testing/responsiveness/s-576-schedules-2.png) ![Screenshot](/assets/images/testing/responsiveness/s-576-schedules-3.png) |Works as expected.|
+|**Contact Us**             |![Screenshot](/assets/images/testing/responsiveness/s-576-contactus.png) |Works as expected.|
+|**Contact Us - Thank you** |![Screenshot](/assets/images/testing/responsiveness/s-576-ty.png) |Works as expected.|
+|**404**                    |![Screenshot](/assets/images/testing/responsiveness/s-576-404.png) |Works as expected.|
+|**Footer and back to top button** |![Screenshot](/assets/images/testing/responsiveness/s-576-footer.png) |Works as expected. <br><br> The consistency of footer throughout all 8 pages was checked, it all has the same layout.|
 
 
 </details>
+
+<br>
+
 <details>
 
 **<summary>Medium device...</summary>** 
