@@ -261,6 +261,8 @@ The test is carried out for extra small devices such as portrait phones at 320px
 
 </details>
 
+<br>
+
 <details>
 
 **<summary>Smallest device at 575px...</summary>**
@@ -269,18 +271,21 @@ The test is carried out for extra small devices such as portrait phones at 575px
 
 |                           |Screenshots        |Notes      |
 |---------------------------|-------------------|-----------|
-|**Header**                 |                   |           |
-|**Home**                   |                   |           |
-|**Plans**                  |                   |           |
-|**Plans - Thank you**      |                   |           |
-|**Gallery**                |                   |           |
-|**Schedules**              |                   |           |
-|**Contact Us**             |                   |           |
-|**Contact Us - Thank you** |                   |           |
-|**404**                    |                   |           |
-|**Footer**                 |                   |           |
+|**Header**                 |![Screenshot](/assets/images/testing/responsiveness/xs-575-header.png) |Works as expected. <br><br> The consistency of header throughout all 8 pages was checked, it all has the same layout.|
+|**Home**                   |![Screenshot](/assets/images/testing/responsiveness/xs-575-home-1.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-home-2.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-home-3.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-home-4.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-home-5.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-home-6.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-home-7.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-home-8.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-home-9.png) |Works as expected.|
+|**Plans**                  |![Screenshot](/assets/images/testing/responsiveness/xs-575-plans-1.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-plans-2.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-plans-3.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-plans-4.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-plans-5.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-plans-6.png) |Works as expected.|
+|**Plans - Thank you**      |![Screenshot](/assets/images/testing/responsiveness/xs-575-plans-ty.png) |Works as expected.|
+|**Gallery**                |![Screenshot](/assets/images/testing/responsiveness/xs-575-gallery-1.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-gallery-2.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-gallery-3.png) |Works as expected.|
+|**Schedules**              |![Screenshot](/assets/images/testing/responsiveness/xs-575-schedules-1.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-schedules-2.png) ![Screenshot](/assets/images/testing/responsiveness/xs-575-schedules-3.png) |Works as expected.|
+|**Contact Us**             |![Screenshot](/assets/images/testing/responsiveness/xs-575-contactus.png) |Works as expected.|
+|**Contact Us - Thank you** |![Screenshot](/assets/images/testing/responsiveness/xs-575-ty.png) |Works as expected.|
+|**404**                    |![Screenshot](/assets/images/testing/responsiveness/xs-575-404.png) |Works as expected.|
+|**Footer**                 |![Screenshot](/assets/images/testing/responsiveness/xs-575-footer.png) |Works as expected. <br><br> The consistency of footer throughout all 8 pages was checked, it all has the same layout.|
 
 </details>
+
+<br>
+
 <details>
 
 **<summary>Small device...</summary>**
