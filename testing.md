@@ -242,12 +242,34 @@ The following breakpoints was used for this project:
 
 <details>
 
-**<summary>Smallest device...</summary>**
+**<summary>Smallest device at 320px...</summary>**
 
 The test is carried out for extra small devices such as portrait phones at 320px:
 
 |                           |Screenshots        |Notes      |
 |---------------------------|-------------------|-----------|
+|**Header and menu**|![Screenshot](/assets/images/testing/responsiveness/xs-320-header.png)|Works as expected. <br><br> The consistency of header throughout all 8 pages was checked, it all has the same layout.|
+|**Home**                   |![Screenshot](/assets/images/testing/responsiveness/xs-320-home-1.png)![Screenshot](/assets/images/testing/responsiveness/xs-320-home-2.png) ![Screenshot](/assets/images/testing/responsiveness/xs-320-home-3.png) ![Screenshot](/assets/images/testing/responsiveness/xs-320-home-4.png) ![Screenshot](/assets/images/testing/responsiveness/xs-320-home-5.png) ![Screenshot](/assets/images/testing/responsiveness/xs-320-home-6.png) ![Screenshot](/assets/images/testing/responsiveness/xs-320-home-7.png) ![Screenshot](/assets/images/testing/responsiveness/xs-320-home-8.png) ![Screenshot](/assets/images/testing/responsiveness/xs-320-home-9.png) |Works as expected. |
+|**Plans**                  |![Screenshot](/assets/images/testing/responsiveness/xs-320-plans-1.png)![Screenshot](/assets/images/testing/responsiveness/xs-320-plans-2.png)![Screenshot](/assets/images/testing/responsiveness/xs-320-plans-3.png)![Screenshot](/assets/images/testing/responsiveness/xs-320-plans-4.png)![Screenshot](/assets/images/testing/responsiveness/xs-320-plans-5.png)![Screenshot](/assets/images/testing/responsiveness/xs-320-plans-6.png)|Works as expected. |
+|**Plans - Thank you**      |![Screenshot](/assets/images/testing/responsiveness/xs-320-plans-ty.png) |Works as expected. |
+|**Gallery**                |![Screenshot](/assets/images/testing/responsiveness/xs-320-gallery-1.png)![Screenshot](/assets/images/testing/responsiveness/xs-320-gallery-2.png) |Works as expected.|
+|**Schedules**              |![Screenshot](/assets/images/testing/responsiveness/xs-320-schedules-1.png)![Screenshot](/assets/images/testing/responsiveness/xs-320-schedules-2.png)![Screenshot](/assets/images/testing/responsiveness/xs-320-schedules-3.png)|Works as expected.|
+|**Contact Us**             |![Screenshot](/assets/images/testing/responsiveness/xs-320-contactus.png)|Works as expected.|
+|**Contact Us - Thank you** |![Screenshot](/assets/images/testing/responsiveness/xs-320-ty.png) |Works as expected. |
+|**404**                    |![Screenshot](/assets/images/testing/responsiveness/xs-320-404.png) |Works as expected.|
+|**Footer and back to top button**|![Screenshot](/assets/images/testing/responsiveness/xs-320-footer.png) |Works as expected. <br><br> The consistency of footer throughout all 8 pages was checked, it all has the same layout.|
+
+</details>
+
+<details>
+
+**<summary>Smallest device at 575px...</summary>**
+
+The test is carried out for extra small devices such as portrait phones at 575px:
+
+|                           |Screenshots        |Notes      |
+|---------------------------|-------------------|-----------|
+|**Header**                 |                   |           |
 |**Home**                   |                   |           |
 |**Plans**                  |                   |           |
 |**Plans - Thank you**      |                   |           |
@@ -256,9 +278,9 @@ The test is carried out for extra small devices such as portrait phones at 320px
 |**Contact Us**             |                   |           |
 |**Contact Us - Thank you** |                   |           |
 |**404**                    |                   |           |
+|**Footer**                 |                   |           |
 
 </details>
-
 <details>
 
 **<summary>Small device...</summary>**
