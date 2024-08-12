@@ -450,31 +450,27 @@ The test is carried out for extra extra large devices such as extra extra large 
 
 </details>
 <br>
-Further tests were carried out for responsiveness. This was carried out using [Blisk](https://blisk.io/product). The following devices have been chosen to be tested: 
 
-| Device Group                | Device type                             | Reason for choosing                                                                                                                                                                                                                |
-|-----------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Android - Google Pixel**  | Google Pixel 8, <br> Google Pixel 8 Pro | Pixel 8 is the latest model released in 2023/2024. Previous model of Pixel 7 has identical size                                                                                                                                    |
-| **Android - Galaxy Series** | S22, S22 plus, S22 Ultra, S21 Ultra     | Although S24 is the latest release, this is not available on the software to be tested. The previous version is S22. Previous models have similar sizes with the exception of S21 which is slightly larger in size.                |
-| **iOS**                     | iPhone 15, 15 plus, 15 Pro              | iPhone 15 is the latest model released in 2023. iPhone 15 Pro Max is not tested as it has an identical size to iPhone 15 Plus. Previous model varies in size. Hence, instead of testing all of them, the latest models are tested. |
-| **iPad OS**                 | iPad Pro 9, 11, 12                      | Different iPads are chosen based on the sizes. The other models available on Blisk have similar sizes, hence they are not chosen for test.                                                                                         |
-| **Windows**                 | Smallest desktop at 1280px              | This is the smallest desktop size available on Blisk                                                                                                                                                                               |
-| **Windows**                 | Largest desktop at 3840px               | This is the largest desktop size available on Blisk                                                                                                                                                                                |
-| **macOS**                   | Smallest iMac at 1440px                 | This is the smallest iMac size available on Blisk                                                                                                                                                                                  |
-| **macOS**                   | Largest iMac at 3200px                  | This is the largest iMac size available on Blisk                                                                                                                                                                                   |
+Further tests were carried out for responsiveness. This was carried out using [Blisk](https://blisk.io/product). For each device group, a screen recording is taken instead of screenshots.  
 
-The results from Blisk are shown here:
+<details>
 
-| Notes                                       | Home | Plans | Plans - Thank you | Gallery | Schedules | Contact Us | Contact Us - Thank you | 404 | Notes |
-|---------------------------------------------|------|-------|-------------------|---------|-----------|------------|------------------------|-----|-------|
-| **Google Pixel 8, <br> Google Pixel 8 Pro** |      |       |                   |         |           |            |                        |     |       |
-| **S22, S22 plus, S22 Ultra, S21 Ultra**     |      |       |                   |         |           |            |                        |     |       |
-| **iPhone 15, 15 plus, 15 Pro**              |      |       |                   |         |           |            |                        |     |       |
-| **iPad Pro 9, 11, 12**                      |      |       |                   |         |           |            |                        |     |       |
-| **Windows Desktop - smallest**              |      |       |                   |         |           |            |                        |     |       |
-| **Windows Desktop - largest**               |      |       |                   |         |           |            |                        |     |       |
-| **iMac Desktop - smallest**                 |      |       |                   |         |           |            |                        |     |       |
-| **iMac Desktop - largest**                  |      |       |                   |         |           |            |                        |     |       |
+**<summary>Blisk results</summary>**
+
+The following devices have been chosen to be tested: 
+
+| Device Group                | Device type                             | Reason for choosing                        |Link to screen recording| Results |
+|-----------------------------|-----------------------------------------|--------------------------------------------|-----------------------|----------|
+| **Android - Google Pixel**  | Google Pixel 8, <br> Google Pixel 8 Pro | Pixel 8 is the latest model released in 2023/2024. Previous model of Pixel 7 has identical size| [![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/android-google-pixel.mp4) | All pages are responsive, however, when clicking on the back to button causes the landscape tab bar to appear. Hence, CSS was edited to shift the button slightly upwards. This page was then tested on blisk once more, however it does not fix the issue. When back to button is click, the landscape bar appears on the bottom of the page instead of scrolling upwards. The change made on CSS is carried forward, as the back to bottom button is very low on the page. | 
+| **Android - Galaxy Series** | S22, S22 plus, S22 Ultra, S21 Ultra     | Although S24 is the latest release, this is not available on the software to be tested. The previous version is S22. Previous models have similar sizes with the exception of S21 which is slightly larger in size.| **Before changes:** <br> [![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/galaxy-series.mp4) <br> <br> **After changes:** <br> [![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/galaxy-series-after.mp4)| All pages are responsive except for schedule page. When testing with blisk, it was noticed that the table for certain days under classes is not responsive. This can be seen on the first video. CSS changes were made to ensure that the page remains responsive on extra small devices. Furthermore, when clicking on the back to button causes the landscape tab bar to appear. Hence, CSS was edited to shift the button slightly upwards. This page was then tested on blisk once more, however it does not fix the issue. When back to button is click, the landscape bar appears on the bottom of the page instead of scrolling upwards. The change made on CSS is carried forward, as the back to bottom button is very low on the page. | 
+| **iOS**                     | iPhone 15, 15 plus, 15 Pro              | iPhone 15 is the latest model released in 2023. iPhone 15 Pro Max is not tested as it has an identical size to iPhone 15 Plus. Previous model varies in size. Hence, instead of testing all of them, the latest models are tested.|[![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/iOS.mp4) |All pages are responsive.|
+| **iPad OS**                 | iPad Pro 9, 11, 12                      | Different iPads are chosen based on the sizes. The other models available on Blisk have similar sizes, hence they are not chosen for test.|[![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/ipad-os.mp4) |All pages are responsive.|
+| **Windows - Small**                 | Smallest desktop at 1280px              | This is the smallest desktop size available on Blisk| [![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/windows-s.mp4) |All pages are responsive.|
+| **Windows - Large**                 | Largest desktop at 3840px               | This is the largest desktop size available on Blisk| **Before changes:** <br> [![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/windows-l.mp4) <br><br> **After changes:** [![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/windows-l-after.mp4) | None of the pages are responsive. CSS is styled for devices larger than 2500px.|
+| **macOS - Small**                   | Smallest iMac at 1440px                 | This is the smallest iMac size available on Blisk| [![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/macOS-small.mp4) |All pages are responsive. |
+| **macOS-= - Large**                   | Largest iMac at 3200px                  | This is the largest iMac size available on Blisk| [![Watch the video](/assets/images/testing/responsiveness/play-video.webp)](/assets/images/testing/responsiveness/macOS-l.mp4) |All pages are responsive. |
+
+</details>
 
 [BACK TO TOP](#table-of-contents)
 ## Lighthouse Audit 
