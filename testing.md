@@ -349,6 +349,26 @@ The test is carried out for medium devices such as tablets at 768px:
 </details>
 <details>
 
+**<summary>Medium device at 991px...</summary>**
+
+The test is carried out for medium devices such as tablets at 991px:
+
+|                           |Screenshots        |Notes      |
+|---------------------------|-------------------|-----------|
+|**Header and menu** |![Screenshot](/assets/images/testing/responsiveness/md-991-header.png) |Works as expected. <br><br> The consistency of header throughout all 8 pages was checked, it all has the same layout.|
+|**Home**                   |![Screenshot](/assets/images/testing/responsiveness/md-991-home-1.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-home-2.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-home-3.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-home-4.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-home-5.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-home-6.png) |Works as expected.|
+|**Plans**                  |![Screenshot](/assets/images/testing/responsiveness/md-991-plans-1.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-plans-2.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-plans-3.png) |Works as expected. However, buttons could be styled so that the position of it is consistent. 'Select' button for day pass and yearly pass is slightly higher than the other 'Select' buttons. |
+|**Plans - Thank you**      |![Screenshot](/assets/images/testing/responsiveness/md-991-plans-ty.png) |Works as expected.|
+|**Gallery**                |![Screenshot](/assets/images/testing/responsiveness/md-991-gallery-1.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-gallery-2.png) |Works as expected.|
+|**Schedules**              |![Screenshot](/assets/images/testing/responsiveness/md-991-schedules-1.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-schedules-2.png) ![Screenshot](/assets/images/testing/responsiveness/md-991-schedules-3.png) |Works as expected.|
+|**Contact Us**|![Screenshot](/assets/images/testing/responsiveness/md-991-contactus.png) |Works as expected.|
+|**Contact Us - Thank you** |![Screenshot](/assets/images/testing/responsiveness/md-991-ty.png) |Works as expected.|
+|**404**|![Screenshot](/assets/images/testing/responsiveness/md-991-404.png) |Works as expected.|
+|**Footer and back to top button** |![Screenshot](/assets/images/testing/responsiveness/md-991-footer.png) |Works as expected. <br><br> The consistency of footer throughout all 8 pages was checked, it all has the same layout.|
+
+</details>
+<details>
+
 **<summary>Large device...</summary>**
 
 The test is carried out for large devices such as large desktops at 992px:
