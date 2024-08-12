@@ -430,20 +430,23 @@ The test is carried out for extra large devices such as large desktops at 1200px
 
 <details>
 
-**<summary>Extra Extra Large device...</summary>**
+**<summary>Extra Extra Large device at 1600px...</summary>**
 
-The test is carried out for extra extra large devices such as extra extra large desktops at 1400px:
+The test is carried out for extra extra large devices such as extra extra large desktops at 1600px:
 
 |                           |Screenshots        |Notes      |
 |---------------------------|-------------------|-----------|
-|**Home**                   |                   |           |
-|**Plans**                  |                   |           |
-|**Plans - Thank you**      |                   |           |
-|**Gallery**                |                   |           |
-|**Schedules**              |                   |           |
-|**Contact Us**             |                   |           |
-|**Contact Us - Thank you** |                   |           |
-|**404**                    |                   |           |
+|**Header and menu**|![Screenshot](/assets/images/testing/responsiveness/xxl-1600-header.png) |Works as expected. <br><br> The consistency of header throughout all 8 pages was checked, it all has the same layout.|
+|**Home**                   |![Screenshot](/assets/images/testing/responsiveness/xxl-1600-home-1.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-home-2.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-home-3.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-home-4.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-home-5.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-home-6.png) |Works as expected.|
+|**Plans**                  |![Screenshot](/assets/images/testing/responsiveness/xxl-1600-plans-1.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-plans-2.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-plans-3.png) |Works as expected.|
+|**Plans - Thank you**      |![Screenshot](/assets/images/testing/responsiveness/xxl-1600-plans-ty.png) |Works as expected.|
+|**Gallery**                |![Screenshot](/assets/images/testing/responsiveness/xxl-1600-gallery-1.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-gallery-2.png) |Works as expected.|
+|**Schedules**              |![Screenshot](/assets/images/testing/responsiveness/xxl-1600-schedules-1.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-schedules-2.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-schedules-3.png) |Works as expected.|
+|**Contact Us**             |![Screenshot](/assets/images/testing/responsiveness/xxl-1600-ty.png) |Works as expected.|
+|**Contact Us - Thank you** |![Screenshot](/assets/images/testing/responsiveness/xxl-1600-contactus-1.png) ![Screenshot](/assets/images/testing/responsiveness/xxl-1600-contactus-2.png) |Works as expected.|
+|**404**                    |![Screenshot](/assets/images/testing/responsiveness/xxl-1600-404.png) |Works as expected.|
+|**Footer and back to top button**|![Screenshot](/assets/images/testing/responsiveness/xxl-1600-footer.png) |Works as expected. <br><br> The consistency of footer throughout all 8 pages was checked, it all has the same layout.|
+
 
 </details>
 <br>
