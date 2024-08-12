@@ -415,15 +415,16 @@ The test is carried out for extra large devices such as large desktops at 1200px
 
 |                           |Screenshots        |Notes      |
 |---------------------------|-------------------|-----------|
-|**Home**                   |                   |           |
-|**Home**                   |                   |           |
-|**Plans**                  |                   |           |
-|**Plans - Thank you**      |                   |           |
-|**Gallery**                |                   |           |
-|**Schedules**              |                   |           |
-|**Contact Us**             |                   |           |
-|**Contact Us - Thank you** |                   |           |
-|**404**                    |                   |           |
+|**Header and menu**                   |![Screenshot](/assets/images/testing/responsiveness/xl-1200-header.png) |Works as expected. <br><br> The consistency of header throughout all 8 pages was checked, it all has the same layout.|
+|**Home**                   |![Screenshot](/assets/images/testing/responsiveness/xl-1200-home-1.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-home-2.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-home-3.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-home-4.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-home-5.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-home-6.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-home-7.png) |Works as expected. |
+|**Plans**                  |![Screenshot](/assets/images/testing/responsiveness/xl-1200-plans-1.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-plans-2.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-plans-3.png)|Works as expected. |
+|**Plans - Thank you**      |![Screenshot](/assets/images/testing/responsiveness/xl-1200-plans-ty.png) |Works as expected. |
+|**Gallery**                |![Screenshot](/assets/images/testing/responsiveness/xl-1200-gallery-1.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-gallery-2.png) |Works as expected. |
+|**Schedules**              |![Screenshot](/assets/images/testing/responsiveness/xl-1200-schedules-1.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-schedules-2.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-schedules-3.png) |Works as expected. |
+|**Contact Us**             |![Screenshot](/assets/images/testing/responsiveness/xl-1200-contactus-1.png) ![Screenshot](/assets/images/testing/responsiveness/xl-1200-contactus-2.png) |Works as expected. |
+|**Contact Us - Thank you** |![Screenshot](/assets/images/testing/responsiveness/xl-1200-ty.png) |Works as expected. |
+|**404**                    |![Screenshot](/assets/images/testing/responsiveness/xl-1200-404.png) |Works as expected. |
+|**Footer and back to top button**|![Screenshot](/assets/images/testing/responsiveness/xl-1200-footer.png) |Works as expected. <br><br> The consistency of footer throughout all 8 pages was checked, it all has the same layout.|
 
 </details>
 
