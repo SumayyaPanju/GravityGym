@@ -124,6 +124,7 @@ h3 {
 
 #full-width-image {
     background: url("../images/full-width.jpg") no-repeat center top;
+    background-size: cover;
     height: 500px;
     width: 100%;
     border-style: none;
@@ -733,6 +734,214 @@ footer {
     }
 }
 
+/* X-Large devices (larger desktops, 2500px and up)*/
+@media (min-width: 2500px) {
+
+    /*Typography*/
+    h2 {
+        letter-spacing: 5px;
+        font-size: 800%;
+    }
+
+    h3 {
+        transform: scaleY(1);
+        padding-top: 20px;
+        font-size: 600%;
+    }
+
+    p,
+    th,
+    td,
+    button {
+        font-size: 340%;
+        letter-spacing: 4px;
+    }
+
+    /*Head Section*/
+    #header-container {
+        padding-top: 50px;
+    }
+
+    #head-section {
+        padding-bottom: 50px;
+    }
+
+    #org-logo {
+        height: 250px;
+    }
+
+    #org-name {
+        letter-spacing: 4px;
+        font-size: 120px;
+    }
+
+    /*Navigation Section*/
+    #gym-menu {
+        margin-bottom: 50px;
+    }
+
+    #gym-menu a {
+        font-size: 415%;
+        border: solid white 10px;
+        font-weight: 700;
+    }
+
+    #gym-menu a i {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    #gym-menu a:hover {
+        border-width: 10px;
+    }
+
+    #gym-menu #active {
+        border-width: 10px;
+    }
+
+    /*Full Width Image*/
+
+    #full-width-cont {
+        height: 800px;
+    }
+
+    #full-width-image {
+        background: url("../images/full-width.jpg") no-repeat center top;
+        background-size: cover;
+        height: 800px;
+    }
+
+    /*Get started and personal trainer*/
+    .textbox-cont-text p {
+        margin-left: 40px;
+        margin-right: 40px;
+        font-size: 340%;
+    }
+
+    /*Facilities*/
+
+    .group-cont img {
+        width: 180px;
+    }
+
+    .group-cont img:hover {
+        width: 185px;
+    }
+
+    /*Testimonials*/
+    .testimonial-groups p {
+        min-height: 800px;
+    }
+
+    .testimonial-groups img {
+        height: 600px;
+
+    }
+
+    .membership-para a {
+        font-size: 100%;
+    }
+
+    /*Membership Plans*/
+    .pass {
+        font-size: 500%;
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    .plans-containter h4 {
+        font-size: 400%;
+        padding-bottom: 30px;
+    }
+
+    .plans-containter p {
+        padding-bottom: 20px;
+    }
+
+    .button {
+        font-size: 300%;
+        margin-bottom: 50px;
+    }
+
+    /*Gym Perks*/
+    .percentage-off {
+        font-size: 550%;
+    }
+
+    .group-name {
+        font-size: 300%;
+    }
+
+    .group-2 h3 {
+        font-size: 350%;
+    }
+
+    /*Gallery*/
+    #gallery-container {
+        max-width: none;
+    }
+
+    /*Schedules*/
+    #classes .tab button,
+    #swimming .tab button,
+    #sauna .tab button {
+        font-size: 360%;
+
+    }
+
+    .download a {
+        font-size: 340%;
+    }
+
+    /*Contact us*/
+    .form-100-per {
+        font-size: 100%;
+    }
+
+    input[type="checkbox"] {
+        zoom: 3.5;
+    }
+
+    #thank-you h2 {
+        padding-bottom: 20px;
+        font-size: 700%;
+    }
+
+    /*Back to top button*/
+    #back-to-top-btn a {
+        font-size: 340%;
+        top: 85%;
+        left: 90%;
+    }
+
+    #back-to-top-btn {
+        top: 85%;
+        left: 90%;
+    }
+
+    #back-to-top-btn a:hover {
+        border: solid 10px black;
+    }
+
+    /*404*/
+    #page-not-found {
+        margin-top: 50px;
+    }
+
+    #page-not-found h2 {
+        font-size: 700%;
+    }
+
+    #page-not-found h3 {
+        font-size: 500%;
+    }
+
+    #page-not-found p {
+        font-size: 350%;
+    }
+
+}
+
 /* Large devices (desktops, between 992-1199px)*/
 @media (max-width: 1199.98px) {
     .textbox-cont-text p {
@@ -893,9 +1102,10 @@ footer {
     }
 
     /*Schedules*/
-    .classes-schedule th{
-        padding-right:5px;
+    .classes-schedule th {
+        padding-right: 5px;
     }
+
     .classes-schedule tr td {
         font-size: 80%;
         padding-left: 0;
