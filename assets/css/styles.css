@@ -919,10 +919,12 @@ footer {
     /*Back to top*/
     #back-to-top-btn a {
         left: 76%;
+        top: 90%;
     }
 
     #back-to-top-btn {
         left: 76%;
+        top: 90%;
     }
 
 }
