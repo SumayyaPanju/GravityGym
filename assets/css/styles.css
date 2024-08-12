@@ -892,11 +892,22 @@ footer {
         margin-right: 5%;
     }
 
+    /*Schedules*/
+    .classes-schedule th{
+        padding-right:5px;
+    }
+    .classes-schedule tr td {
+        font-size: 80%;
+        padding-left: 0;
+        padding-right: 1px;
+    }
+
     /*Footer*/
     #add-social {
         display: flex;
         align-items: flex-end;
     }
+
     #social-icons {
         display: inherit;
     }
