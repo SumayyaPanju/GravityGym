@@ -233,7 +233,7 @@ The following breakpoints was used for this project:
     * Max-width set at 767.98px
 * Medium devices for tablets (between 768-991px). 
     * Max-width set at 991.98px
-* Large devices for desktops (between 992-1119px). 
+* Large devices for desktops (between 992-1199px). 
     * Max-width set at 1199.98px
 * X-large devices for larger desktsops (1200px upwards). 
     * Min-width set at 1200px
@@ -389,30 +389,33 @@ The test is carried out for large devices such as large desktops at 992px:
 </details>
 <details>
 
-**<summary>Large device...</summary>**
+**<summary>Large device at 1199px...</summary>**
 
-The test is carried out for large devices such as large desktops at 992px:
+The test is carried out for large devices such as large desktops at 1199px:
 
 |                           |Screenshots        |Notes      |
 |---------------------------|-------------------|-----------|
-|**Home**                   |                   |           |
-|**Plans**                  |                   |           |
-|**Plans - Thank you**      |                   |           |
-|**Gallery**                |                   |           |
-|**Schedules**              |                   |           |
-|**Contact Us**             |                   |           |
-|**Contact Us - Thank you** |                   |           |
-|**404**                    |                   |           |
+|**Header and menu** |![Screenshot](/assets/images/testing/responsiveness/lg-1199-header.png) |Works as expected. <br><br> The consistency of header throughout all 8 pages was checked, it all has the same layout.|
+|**Home** |![Screenshot](/assets/images/testing/responsiveness/lg-1199-home-1.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-home-2.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-home-3.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-home-4.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-home-5.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-home-6.png) |Works as expected.|
+|**Plans**                  |![Screenshot](/assets/images/testing/responsiveness/lg-1199-plans-1.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-plans-2.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-plans-3.png)|Works as expected.|
+|**Plans - Thank you**      |![Screenshot](/assets/images/testing/responsiveness/lg-1199-plans-ty.png) |Works as expected.|
+|**Gallery**                |![Screenshot](/assets/images/testing/responsiveness/lg-1199-gallery-1.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-gallery-2.png) |Works as expected.|
+|**Schedules**              |![Screenshot](/assets/images/testing/responsiveness/lg-1199-schedules-1.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-schedules-2.png) ![Screenshot](/assets/images/testing/responsiveness/lg-1199-schedules-3.png) |Works as expected.|
+|**Contact Us**             |![Screenshot](/assets/images/testing/responsiveness/lg-1199-contactus.png) |Works as expected.|
+|**Contact Us - Thank you** |![Screenshot](/assets/images/testing/responsiveness/lg-1199-ty.png) |Works as expected.|
+|**404**                    |![Screenshot](/assets/images/testing/responsiveness/lg-1199-404.png) |Works as expected.|
+|**Footer and back to top button** |![Screenshot](/assets/images/testing/responsiveness/lg-1199-footer.png) |Works as expected. <br><br> The consistency of footer throughout all 8 pages was checked, it all has the same layout.|
 
 </details>
 <details>
 
-**<summary>Extra Large device...</summary>**
+**<summary>Extra Large device at 1200...</summary>**
 
 The test is carried out for extra large devices such as large desktops at 1200px:
 
 |                           |Screenshots        |Notes      |
 |---------------------------|-------------------|-----------|
+|**Home**                   |                   |           |
 |**Home**                   |                   |           |
 |**Plans**                  |                   |           |
 |**Plans - Thank you**      |                   |           |
