@@ -304,7 +304,7 @@ A range of images were used from various websites. The link from where the image
 ### Acknowledgements
 
 * Throughout the project, I had continuous support from:
-    * My tutor - Satish Boini 
+    * My tutor - Satish Boini and Komal Karir 
     * My mentor - Rory Patrick 
     * Tutor support - which was available to us from code Institute 
     * W3 Schools - Support from there was obtained for various values and ideas 
