@@ -24,7 +24,7 @@ Code is validated for each page to identify any major problems with the code. Fo
 
 ### HTML
 
-HTML validator was used to test all HTML pages. Based on the results, ammendments were made to the code. The tables below shows the results of HTML validator before changes made and after the changes were made.
+HTML validator was used to test all HTML pages. Based on the results, amendments  were made to the code. The tables below shows the results of HTML validator before changes made and after the changes were made.
 
 >Click below, on the relevant headings to expand
 
@@ -36,14 +36,14 @@ The table below shows the screenshots of the error and warning messages from the
 
 | Page                       | Screenshot                                                                 | Notes                                                                                                                                                                                                                                          |
 |----------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Home**                   | ![Screenshot](/assets/images/testing/validator/html-validator-home-before.png)       | **2 Errors:**<br> - Element a must not appear as descendent of button element <br> - Script element is stray <br><br> **2 Warnings:**<br> - Name attribute is obsolete for a element <br>- Section lacks heading                               |
-| **Plans**                  | ![Screenshots](/assets/images/testing/validator/html-validator-plans-before.png)     | **8 Errors:**<br> - Button element cannot be descendent of a element <br> -  No space between attributes ""<br> - Possibly missing = before " <br> - " not allowed in div element <br><br>**2 Warnings:**<br>- Attribute " is not serializable |
+| **Home**                   | ![Screenshot](/assets/images/testing/validator/html-validator-home-before.png)       | **2 Errors:**<br> - Element a must not appear as descendant of button element <br> - Script element is stray <br><br> **2 Warnings:**<br> - Name attribute is obsolete for a element <br>- Section lacks heading                               |
+| **Plans**                  | ![Screenshots](/assets/images/testing/validator/html-validator-plans-before.png)     | **8 Errors:**<br> - Button element cannot be descendant of a element <br> -  No space between attributes ""<br> - Possibly missing = before " <br> - " not allowed in div element <br><br>**2 Warnings:**<br>- Attribute " is not serializable |
 | **Plans - Thank you**      | ![Screenshots](/assets/images/testing/validator/html-validator-plans-thankyou.png)   | **No error**                                                                                                                                                                                                                                   |
 | **Gallery**                | ![Screenshot](/assets/images/testing/validator/html-validator-gallery.png)           | **No error**<br><br>**1 warning**<br> - Section lacks heading                                                                                                                                                                                  |
-| **Scheudles**              | ![Screenshots](/assets/images/testing/validator/html-validator-schedules-before.png) | **3 Errors**<br><br> - a element cannot be descendent of button element                                                                                                                                                                        |
-| **Contact Us**             | ![Screenshots](/assets/images/testing/validator/html-validator-contactus-before.png) | **1 Error:**<br><br> - Duplicate ID **1 Warning:** - First ID occurence                                                                                                                                                                        |
+| **Schedules**              | ![Screenshots](/assets/images/testing/validator/html-validator-schedules-before.png) | **3 Errors**<br><br> - a element cannot be descendant of button element                                                                                                                                                                        |
+| **Contact Us**             | ![Screenshots](/assets/images/testing/validator/html-validator-contactus-before.png) | **1 Error:**<br><br> - Duplicate ID **1 Warning:** - First ID occurrence                                                                                                                                                                        |
 | **Contact Us - Thank you** | ![Screenshots](/assets/images/testing/validator/html-validator-contactus-before.png) | **1 Error:**<br><br> - Duplicate title under head section                                                                                                                                                                                      |
-| **404**                    | ![Screenshots](/assets/images/testing/validator/html-validator-404-before.png)       | **1 Error:**<br><br> - Button element cannot be descendent of a element                                                                                                                                                                        |
+| **404**                    | ![Screenshots](/assets/images/testing/validator/html-validator-404-before.png)       | **1 Error:**<br><br> - Button element cannot be descendant of a element                                                                                                                                                                        |
 
 </details>
 
@@ -55,11 +55,11 @@ The Table below shows screenshots of the error and warning messages from the HTM
 
 | Page                       | W3C URL                                                                                                                                                                                               | Screenshot                                                               | Notes                                                                                                                                                                                                                                                                                                                                                  |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Home**                   | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Findex.html)                                                                                       | ![Screenshot](/assets/images/testing/validator/html-validator-home-after.png)      | **No error** <br> <br> Previous erorr overcomed by changing the button element to div element and by repositioning the script element within the body element at the bottom of the footer. This change is applied to all of the pages. <br><br>Name attribute is changed to id attribute <br><br> **1 warning:** <br> - Section lacks heading element. |
+| **Home**                   | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Findex.html)                                                                                       | ![Screenshot](/assets/images/testing/validator/html-validator-home-after.png)      | **No error** <br> <br> Previous erorr overcame by changing the button element to div element and by repositioning the script element within the body element at the bottom of the footer. This change is applied to all of the pages. <br><br>Name attribute is changed to id attribute <br><br> **1 warning:** <br> - Section lacks heading element. |
 | **Plans**                  | [Results page](https://validator.w3.org/nu/?useragent=Validator.nu%2FLV+https%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fplans.html) | ![Screenshot](/assets/images/testing/validator/html-validator-plans-after.png)     | **No Error**<br><br> Typing error "". The extra " is removed <br> Button element restyled to div element and CSS page changed accordingly                                                                                                                                                                                                              |
 | **Plans - Thank you**      | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fmembership-thankyou.html)                                                                         | ![Screenshots](/assets/images/testing/validator/html-validator-plans-thankyou.png) | **No Error**<br><br>No changes made                                                                                                                                                                                                                                                                                                                    |
 | **Gallery**                | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fgallery.html)                                                                                     | ![Screenshot](/assets/images/testing/validator/html-validator-gallery.png)         | **No error**<br><br>**1 warning**<br> No changes made                                                                                                                                                                                                                                                                                                  |
-| **Scheudles**              | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fschedules.html)                                                                                   | ![Screenshot](/assets/images/testing/validator/html-validator-schedules-after.png) | **No error**<br><br>Button element was changed to div element and css page is styled accordingly                                                                                                                                                                                                                                                       |
+| **Schedules**              | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fschedules.html)                                                                                   | ![Screenshot](/assets/images/testing/validator/html-validator-schedules-after.png) | **No error**<br><br>Button element was changed to div element and css page is styled accordingly                                                                                                                                                                                                                                                       |
 | **Contact Us**             | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fcontactus.html)                                                                                   | ![Screenshot](/assets/images/testing/validator/html-validator-contactus-after.png) | **No error** <br><br> Duplicate ID removed as not required                                                                                                                                                                                                                                                                                             |
 | **Contact Us - Thank you** | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fthank-you.html)                                                                                   | ![Screenshot](/assets/images/testing/validator/html-validator-thankyou-after.png) | **No error**<br><br> Duplicate title was removed                                                                                                                                                                                                                                                                                                       |
 | **404**                    | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2F404.html)                                                                                         | ![Screenshots](/assets/images/testing/validator/html-validator-404-after.png)      | **No error**<br><br>Button element changed to div element                                                                                                                                                                                                                                                                                              |
@@ -103,7 +103,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 
 ## Browser Compatibility 
 
-Bassed on research, the most commonly used browsers in 2024 are: 
+Based on research, the most commonly used browsers in 2024 are: 
 1. Google Chrome (65.41%)
 2. Safari (18.39%)
 3. Edge (5.24%)
@@ -121,7 +121,7 @@ Bassed on research, the most commonly used browsers in 2024 are:
 [View website here](https://gs.statcounter.com/browser-market-share)
 </details>
 <br>
-Based on the informaiton obtained, these browsers are used to test website compatibility for each page.
+Based on the information  obtained, these browsers are used to test website compatibility for each page.
 
 For better reading and presentation, a table will be used for each browser.
 
@@ -196,7 +196,7 @@ Safari is no longer supported by windows. Attempts were made to download safari 
 **<summary>Samsung Internet...</summary>**
 
 
-Samsung Internet is a mobile phone browser. Attempts were made to download [BlueStacks](https://www.bluestacks.com). Blue Stacks is a windows application where android applications can work. Although the download and installation was successful, the applications would not run smoothly. Hence, for this part of the testing, samsung internet browser compatibility cannot be tested. 
+Samsung Internet is a mobile phone browser. Attempts were made to download [BlueStacks](https://www.bluestacks.com). Blue Stacks is a windows application where android applications can work. Although the download and installation was successful, the applications would not run smoothly. Hence, for this part of the testing, Samsung internet browser compatibility cannot be tested. 
 
 </details>
 
@@ -225,7 +225,7 @@ To test the responsiveness of GravityGym, DevTools is used. The Device is tested
 
 The following breakpoints was used for this project:
 
-|Breakpoint             |Type of devices            |Max/Min width          |Screen size range      |
+|Breakpoints             |Type of devices            |Max/Min width          |Screen size range      |
 |-----------------------|---------------------------|-----------------------|-----------------------|
 |**Extra Small**        |Portrait phones            |max-width: 575.98px    |less than 575px        |
 |**Small**              |Landscape phones           |max-width:767.98px     |576-767px              |
@@ -487,7 +487,7 @@ The following devices have been chosen to be tested:
 | **Plans**                  | ![Screenshot](/assets/images/testing/audits//la-plans-before.png)      | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
 | **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-plans-ty-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
 | **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-gallery-before.png)    | Add metadata, reduce network payloads, reduce large layout shifts, have discernible name for links, images to webp or avif, [and more](#further-information-on-lighthouse-audit-for-desktops) |
-| **Scheudles**              | ![Screenshot](/assets/images/testing/audits/la-schedules-before.png)  | Add metadata, increase space for touch targets, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                             |
+| **Schedules**              | ![Screenshot](/assets/images/testing/audits/la-schedules-before.png)  | Add metadata, increase space for touch targets, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                             |
 | **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-contact-us-before.png) | Add metadata, resize background image to match natural aspect ratio, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                        |
 | **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
 | **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-before.png)        | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
@@ -506,14 +506,14 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 
 |                            | Screenshot                                                    | Notes                                                                                                                                                                                                                                                                                   |
 |----------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Home**                   | ![Screenshot](/assets/images/testing/audits/la-home-after.png)       | Meta data was added, contrast was changed                                                                                                                                                                                                                                               |
+| **Home**                   | ![Screenshot](/assets/images/testing/audits/la-home-after.png)       | Metadata was added, contrast was changed                                                                                                                                                                                                                                               |
 | **Plans**                  | ![Screenshot](/assets/images/testing/audits/la-plans-after.png)      | Meta description is added                                                                                                                                                                                                                                                               |
 | **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-plans-ty-after.png)   | Meta description is added                                                                                                                                                                                                                                                               |
-| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-gallery-after.png)    | Meta data was added, links were given a discernible name, alt texts was assigned, images were converted to webp                                                                                                                                                                         |
-| **Scheudles**              | ![Screenshot](/assets/images/testing/audits/la-schedules-after.png)  | Meta data was added, and spacing was also added. However, it still does not meet the minimum threshold required for accessibility. Further spacing is not added, as spacing seems sufficient. There is no adjacent buttons. The next button is in the next section which acts as a tab. |
-| **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-contact-us-after.png) | Meta data was added and image was resized                                                                                                                                                                                                                                               |
-| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-after.png)   | Meta data was added.                                                                                                                                                                                                                                                                    |
-| **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-after.png)        | Meta data was added.                                                                                                                                                                                                                                                                    |
+| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-gallery-after.png)    | Metadata was added, links were given a discernible name, alt texts was assigned, images were converted to webp                                                                                                                                                                         |
+| **Schedules**              | ![Screenshot](/assets/images/testing/audits/la-schedules-after.png)  | Metadata was added, and spacing was also added. However, it still does not meet the minimum threshold required for accessibility. Further spacing is not added, as spacing seems sufficient. There is no adjacent buttons. The next button is in the next section which acts as a tab. |
+| **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-contact-us-after.png) | Metadata was added and image was resized                                                                                                                                                                                                                                               |
+| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-after.png)   | Metadata was added.                                                                                                                                                                                                                                                                    |
+| **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-after.png)        | Metadata was added.                                                                                                                                                                                                                                                                    |
 </details>
 
 <details>
@@ -527,7 +527,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 | **Plans**                  | ![Screenshot](/assets/images/testing/audits/la-m-plans.png)     | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
 | **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-m-plans-ty.png)  | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
 | **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-m-gallery.png)   | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Scheudles**              | ![Screenshot](/assets/images/testing/audits/la-m-schedules.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+| **Schedules**              | ![Screenshot](/assets/images/testing/audits/la-m-schedules.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
 | **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-m-contactus.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
 | **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-m-thankyou.png)  | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
 | **404**                    | ![Screenshot](/assets/images/testing/audits/la-m-404.png)       | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
@@ -544,7 +544,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 [BACK TO TOP](#table-of-contents)
 ## Wave Web Accessibility Evaluation
 
-[WAVE](https://wave.webaim.org/) is another evaluation tool which evaluates the webpage and it also helps developers make content more accessible to individuals with special needs. It can be used with or without the extension. 
+[WAVE](https://wave.webaim.org/) is another evaluation tool which evaluates the web page and it also helps developers make content more accessible to individuals with special needs. It can be used with or without the extension. 
 
 >Click below, on the relevant headings to expand
 
@@ -558,7 +558,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 | **Plans**                  | ![Screenshot](/assets/images/testing/audits/w-plans.png)             | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
 | **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/w-plans-ty.png)          | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
 | **Gallery**                | ![Screenshot](/assets/images/testing/audits/w-gallery.png)           | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
-| **Scheudles**              | ![Screenshot](/assets/images/testing/audits/w-schedules.png)         | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
+| **Schedules**              | ![Screenshot](/assets/images/testing/audits/w-schedules.png)         | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
 | **Contact Us** - Before    | ![Screenshot](/assets/images/testing/audits/w-contact-us-before.png) | 2 errors showed up. 1 missing label and 1 multiple label. This indicated an error with labels. Upon looking, there was a pasting/typing error. This was corrected. |
 | **Contact Us** - After     | ![Screenshot](/assets/images/testing/audits/w-contact-us-after.png)  | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
 | **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/w-thankyou.png)          | Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility                                         |
@@ -577,11 +577,11 @@ Tests are carried out to ensure that the website designed serves it purposes for
 
 **<summary>First time visitors</summary>**
 
-The following table shows user goals and screenshot as supporting evidence as to whether the goal has been achieved or not. 
+The following table shows user goals and screenshot as supporting evidence wheter the goal has been achieved or not. 
 
 |Goals      |Screenshots        |Comments       |
 |-----------|-------------------|---------------|
-|**I want to learn more about Gravity Gym.** | ![Screenshot](/assets/images/testing/user-testing/first-g1a.png) ![Screenshot](/assets/images/testing/user-testing/first-g1b.png) | s soon as the user enters the home page, there is informaiton of what the gym has to offer|
+|**I want to learn more about Gravity Gym.** | ![Screenshot](/assets/images/testing/user-testing/first-g1a.png) ![Screenshot](/assets/images/testing/user-testing/first-g1b.png) | s soon as the user enters the home page, there is information  of what the gym has to offer|
 |**The website should be simple to use and intuitive to browse.** | ![Screenshot](/assets/images/testing/user-testing/first-g2.png)  | The page has a menu bar at the top of the page, where they can easily navigate to other pages with one click. Back to button is also available for users to scroll to the top of the page regardless of whether they are in the top, middle, or bottom of the page.|
 |**I want to know where the gym is location and what are their opening times. I want to know if it is local to me and if they are open at the hours I can go to the gym.**| ![Screenshot](/assets/images/testing/user-testing/first-g3.png) | At every page of the website, there is a footer with the gyms location and opening times. |
 |**I want to know what the experience previous and current users have had with the gym**|![Screenshot](/assets/images/testing/user-testing/first-g4.png) |There is a testimonial section at the bottom of home page, that shows other users experience with the gym |
@@ -611,12 +611,12 @@ The following table shows user goals and screenshot as supporting evidence as to
 
 |Goals      |Screenshots        |Comments       |
 |-----------|-------------------|---------------|
-|**I want to have easy access to the class information and their schedule.** |![Screenshot](/assets/images/testing/user-testing/frequent-1.png) | A page is dedicated for schedules whihc includes a timteable for classes. |
-|**I want to have easy access to swimming schedule**|![Screenshot](/assets/images/testing/user-testing/frequent-2.png) |A page is dedicated for schedules whihc includes a timteable for swimming. |
-|**I want to have easy access to sauna & steam schedule**|![Screenshot](/assets/images/testing/user-testing/frequent-3.png) | A page is dedicated for schedules whihc includes a timteable for sauna and steam. |
-|**I want to be able to download the schedule as pdf for offline use.** |![Screenshot](/assets/images/testing/user-testing/frequent-4.png) |A page is dedicated for schedules whihc includes pdf versions of timetables so that users can download it for offline access. |
-|**I want to be able to source membership information for renewal**|![Screenshot](/assets/images/testing/user-testing/frequent-5.png) | A page is dedicated for membership plans whihc includes all plans available. |
-|**I would like to know what offers they have currently for current and previous gym members**|![Screenshot](/assets/images/testing/user-testing/frequent-6.png)  | A page is dedicated for membership plans whihc includes all plans available. |
+|**I want to have easy access to the class information and their schedule.** |![Screenshot](/assets/images/testing/user-testing/frequent-1.png) | A page is dedicated for schedules which includes a timetable for classes. |
+|**I want to have easy access to swimming schedule**|![Screenshot](/assets/images/testing/user-testing/frequent-2.png) |A page is dedicated for schedules which includes a timetable for swimming. |
+|**I want to have easy access to sauna & steam schedule**|![Screenshot](/assets/images/testing/user-testing/frequent-3.png) | A page is dedicated for schedules which includes a timetable for sauna and steam. |
+|**I want to be able to download the schedule as pdf for offline use.** |![Screenshot](/assets/images/testing/user-testing/frequent-4.png) |A page is dedicated for schedules which includes pdf versions of timetables so that users can download it for offline access. |
+|**I want to be able to source membership information for renewal**|![Screenshot](/assets/images/testing/user-testing/frequent-5.png) | A page is dedicated for membership plans which includes all plans available. |
+|**I would like to know what offers they have currently for current and previous gym members**|![Screenshot](/assets/images/testing/user-testing/frequent-6.png)  | A page is dedicated for membership plans which includes all plans available. |
 
 
 </details>
@@ -650,7 +650,7 @@ Based on the test, the user is directed to the correct 404 page. this is shown i
 
 ### Links
 
-There are various links throughout the webpage. All of them were tested to see if they do what they are supposed to do. The table below shows the test done and its results. 
+There are various links throughout the web page. All of them were tested to see if they do what they are supposed to do. The table below shows the test done and its results. 
 
 >Click below, on the relevant headings to expand
 
@@ -660,15 +660,15 @@ There are various links throughout the webpage. All of them were tested to see i
 
 |Tests done     |Expected results:      |Outcome:   |
 |---------------|-----------------------|-----------|
-|**Nav Links**      | - Home tab - Redirects to home. <br> - Plans tab - Redirects to Plans page <br> - Gallery tabs - Redirects to gallery page <br> - Schedules tab- Redirects to schedules page <br> - Contact us page - Redirects to contact us page <br><br> **All of these links should open on the same browser window** | All links worked as expected and they opened up on the same window |
+|**Nav Links**      | - Home tab - Redirects to home. <br> - Plans tab - Redirects to Plans page <br> - Gallery tabs - Redirects to gallery page <br> - Schedules tab- Redirects to schedules page <br> - Contact us page - Redirects to contact us page <br><br> **All of these links should open on the same browser window** | All links worked as expected, and they opened up on the same window |
 |**Back to top button** | Takes the user back to the top of the page | Back to top button worked as expected on all pages |
-|**Social icons**   | - Twitter icon - Redirects to twitter website <br> - Facebook icon - Redirects to facebook website <br> - Whatsapp icon - Redirects to Whatsapp website <br> - Instagram icon - Redirects to Instagram website <br><br> **All of these links should open on the new browser tab** | All links worked as expected and they opened up on another browser tab|
-|**Select button on membership page**|User should be redirected to a thank you page dedicated for membership plans in the same browser tab| Link worked as expected and it opened on the same windows tab|
-|**Contact us link under membership queries**|User should be redirected to a contact us page in the same browser tab| Link worked as expected and it opened on the same windows tab|
+|**Social icons**   | - Twitter icon - Redirects to twitter website <br> - Facebook icon - Redirects to facebook website <br> - Whatsapp icon - Redirects to Whatsapp website <br> - Instagram icon - Redirects to Instagram website <br><br> **All of these links should open on the new browser tab** | All links worked as expected, and they opened up on another browser tab|
+|**Select button on membership page**|User should be redirected to a 'thank you' page dedicated for membership plans in the same browser tab| Link worked as expected, and it opened on the same windows tab|
+|**Contact us link under membership queries**|User should be redirected to a contact us page in the same browser tab| Link worked as expected, and it opened on the same windows tab|
 |**Gallery images link**|Full size image should open in a new tab|Image links worked as expected|
-|**Classes tabs**|It should collapse and display classess relevant to that day|Tab button worked as expected|
-|**Swimming tabs**|It should collapse and display classess relevant to that day|Tab button worked as expected|
-|**Sauna / Steam tabs**|It should collapse and display classess relevant to that day|Tab button worked as expected|
+|**Classes tabs**|It should collapse and display classes relevant to that day|Tab button worked as expected|
+|**Swimming tabs**|It should collapse and display classes relevant to that day|Tab button worked as expected|
+|**Sauna / Steam tabs**|It should collapse and display classes relevant to that day|Tab button worked as expected|
 |**Download pdf button**|- Classes download button should open classes pdf <br> - Swimming download button should open swimming pdf <br>- Sauna / Steam download button should open sauna / steam pdf <br><br> **All of these links should open on the new browser tab** | The correct pdf files opened. However they did not open in a new tab <br><br> The code for schedule page was edited and an attribute was added target=_blank which fixed the problem. <br><br> The pdf files opens in a new tab |
 |**Contact us submit button**|Thank you page should load up on the same tab| Link works as expected |
 |**Contact us reset button**|The form to be reset| Link works as expected 
@@ -693,7 +693,7 @@ The table below shows what is tested and the screenshot of the results
 |-------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 |First Name - required                      |![Screenshot](/assets/images/testing/features/form-fname.png)                      |Form does not submit without this filled in.                                  |
 |Second Name - required                     |![Screenshot](/assets/images/testing/features/form-sname.png)                      |Form does not submit without this filled in.                                  |
-|Email addrerss - required                  |![Screenshot](/assets/images/testing/features/form-email.png)                      |Form does not submit without this filled in.                                  |
+|Email address - required                  |![Screenshot](/assets/images/testing/features/form-email.png)                      |Form does not submit without this filled in.                                  |
 |Email address - format                     |![Screenshot](/assets/images/testing/features/form-email-format.png)               |Form does not submit without this filled in with the right format using @.    |
 |Phone number - required                    |![Screenshot](/assets/images/testing/features/form-number.png)                     |Form does not submit without this filled in.                                  |
 |Phone number - format                      |![Screenshot](/assets/images/testing/features/form-number-digits-validation.png)   |Form does not accept letters, it will only accept numbers.                    |
@@ -741,8 +741,8 @@ The following bugs were identified whilst creating the website. These bugs were 
 **<summary>Unaligned Nav Items</summary>**
 
 **Information**
-* Nav Items were not alligning correctly. 
-* When looked at it closely, it can be seen that the 'Schedule' tab item under the 'Home' tab is not alligned. The 'Schedule' tab is slightly towards the right in comparisons to the 'Home' tab.  The same is for the 'Contact Us' under the 'Plans' tab which is slightly towards the right.
+* Nav Items were not aligning correctly. 
+* When looked at it closely, it can be seen that the 'Schedule' tab item under the 'Home' tab is not aligned. The 'Schedule' tab is slightly towards the right in comparisons to the 'Home' tab.  The same is for the 'Contact Us' under the 'Plans' tab which is slightly towards the right.
 * I was unable to fix the problem myself. Support from my mentor was sougth on this
 * My mentor helped me identify the issue using DevTools and showed me how I could use Bootstrap to resolve this issue.
 
@@ -806,10 +806,10 @@ The following bugs were identified whilst creating the website. These bugs were 
 **<summary>Containers are not responsive</summary>**
 
 **Information**
-* There was an unwated gap on the right side of the page which was caused by bootstrap default margin. 
-* The default margin is overridded using CSS stylings 
+* There was an unwanted gap on the right side of the page which was caused by bootstrap default margin. 
+* The default margin is overridden using CSS stylings 
 * Upon retesting, the problem was still there. 
-* Upon further checking using DevTools, I realised that I needed to apply this solution for all of the rows. 
+* Upon further checking using DevTools, I realised that I needed to apply this solution for all the rows. 
 * Once completed, this was rechecked. It worked as expected.
 
 **Screenshots:**
@@ -876,7 +876,7 @@ The following bugs were identified whilst creating the website. These bugs were 
 * Page was entirely messed up
 * To fix the issue, multiple solutions were tried. 
 * Tried to clear browser cache, tried to load the page using a different browser, carried out CSS validation to ensure there was no error within the CSS causing the issue. 
-* Eventually realised that the link to the stylesheet was accidently deleted within the HTML file. 
+* Eventually realised that the link to the style sheet was accidentally deleted within the HTML file. 
 * The link has been added again which resolved the issue. 
 
 **Screenshots:**
@@ -927,7 +927,7 @@ The following bugs were identified whilst creating the website. These bugs were 
 **Information**
 * Text overlaps images for personal trainer and get started section
 * Issue was identified using DevTools. 
-* A set width was cauasing an issue. 
+* A set width was causing an issue. 
 * The fix was tested using on DevTool and then implemented on GitPod 
 
 **Screenshots:**
@@ -945,7 +945,7 @@ The following bugs were identified whilst creating the website. These bugs were 
 * Button border / shadow appears in its original place instead of its re-positioned place. 
 * Couple of attempts were made to resolve this issue:
     * Using DevTool, the button is hidden, however this hid the anchor too. 
-    * The button border was set to none, howver there was still a line below it. 
+    * The button border was set to none, however there was still a line below it. 
     * The same position setting used for anchor is then used for the button. 
 * The final solution resolved the issue
 
@@ -963,7 +963,7 @@ The following bugs were identified whilst creating the website. These bugs were 
 **Information**
 * White space next to the full width image
 * DevTools was used to identify the reason for the white space. 
-* 12px padding was causing this issuse. Padding is set to 0.
+* 12px padding was causing this issues. Padding is set to 0.
 
 **Screenshots:**
 |Identified                                                         |Fixed                                                      |
@@ -1023,9 +1023,9 @@ The following bugs were identified whilst creating the website. These bugs were 
 **Solutions attempted:**
 * I thought this was caused because I moved the font awesome link icon to the bottom of the page
 * I moved it back to the top, however the problem is not resolved
-* I also cleared the cache and refreshed the browser, te problem did not resolve
+* I also cleared the cache and refreshed the browser, the problem did not resolve
 * I changed the order of internal style links and the external links of JS, Bootstrap and Fontawesome, one at a time 
-* Afer each changes, the cache was cleared and browser was refreshed. Problem was not resolved
+* After each changes, the cache was cleared and browser was refreshed. Problem was not resolved
 
 |Screenshot of page when it first loads      |
 |-----------------------------------|
