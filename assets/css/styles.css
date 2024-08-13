@@ -527,6 +527,14 @@ textarea,
     opacity: 0.7;
 }
 
+input[type=text]:focus,
+input[type=email]:focus,
+textarea:focus,
+.input #title:focus {
+    background-color: #b2f71d;
+    font-weight: 700;
+}
+
 #cells-left {
     text-align-last: left;
 }
