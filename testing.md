@@ -934,7 +934,7 @@ The following bugs were identified whilst creating the website. These bugs were 
 
 <details>
 
-**<summary>Full width is not a full containe</summary>**
+**<summary>Full width is not a full container</summary>**
 
 **Information**
 * The full width image was not a full container causing responsive issues at different screen sizes. 
@@ -948,6 +948,8 @@ The following bugs were identified whilst creating the website. These bugs were 
 ![Identified](/assets/images/testing/solved-bugs/p16-identified.png)<br>**Date Identified:** 12/08/2024 | ![Fixed](/assets/images/testing/solved-bugs/p16-fixed.png) <br> **Date Fixed:** 12/08/2024     |
 
 </details>
+
+<details>
 
 **<summary>Text overlaps Back to top button</summary>**
 
