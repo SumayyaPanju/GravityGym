@@ -8,23 +8,23 @@ Visit Live Project [here](https://sumayyapanju.github.io/GravityGym/)
     * [Client's Goals](#clients-goals)
     * [Business Goals](#business-goals)
     * [User Stories](#user-stories)
-	    * [First Time Visitor Goals](#first-time-visitors-goals)
-	    * [Returning Visitor Goals](#returning-visitors-goals)
-    	* [Frequent User Goals](#frequent-users-goals)
-    * [Design choices](#design-choices)
-        * [Color Scheme](#color-scheme)
-        * [Typography](#typography)
-        * [Imagery](#imagery)
-    * [Wireframes](#wireframes)
-3. [Features](#features)
+	    * [First Time Visitor Goals](#first-time-visitor-goals)
+	    * [Returning Visitor Goals](#returning-visitor-goals)
+    	* [Frequent User Goals](#frequent-user-goals)
+3. [Design choices](#design-choices)
+    * [Color Scheme](#color-scheme)
+    * [Typography](#typography)
+    * [Imagery](#imagery)
+4. [Wireframes](#wireframes)
+5. [Features](#features)
     * [Existing Features](#existing-features)
     * [Features Left to Implement](#features-left-to-implement)
-4. [Technologies used](#technologies-used)
-5. [Deployment](#deployment)
+6. [Technologies used](#technologies-used)
+7. [Deployment](#deployment)
     * [GitHub Pages](#github-pages)
     * [Forking the GitHub Repository](#forking-the-github-repository)
     * [Making a Local Clone](#making-a-local-clone)
-6. [Credits](#credits)
+8. [Credits](#credits)
     * [Content](#content)
     * [Media](#media)
     * [Code](#code)
@@ -134,7 +134,7 @@ As a frequent user:
 [BACK TO TOP](#table-of-contents)
 
 
-### Design choices
+# Design choices
 
 
 
@@ -150,7 +150,7 @@ As a frequent user:
 
 [BACK TO TOP](#table-of-contents)
 
-### Wireframes
+# Wireframes
 
 * Mobile Wireframes - <a href="/assets/documents/mobile-wireframe.pdf" target="_blank">Click Here</a>
 * Tablet  Wireframes - <a href="/assets/documents/tablet-wireframe.pdf" target="_blank">Click Here</a>
