@@ -162,6 +162,14 @@ Hence, my final color scheme for this project is:
 |-----------|---------------|---------------|
 |![Screenshot](/assets/images/screenshots/color-theme-green.png)|![Screenshot](/assets/images/screenshots/color-theme-black.png)|![Screenshot](/assets/images/screenshots/color-theme-white.png)
 
+
+A three color rule is used for this website:
+* One main color
+* One complementary color
+* One accent color
+
+Where main color is black, the complementary color is white. Where main color is white, the complementary color is black. Accent color is green. 
+
 Instead of having a single background color, the pages are designed that black and white colors are used in turns. For instance, if one part of the page is black, then the next part of the webpage is white. This is done to prevent the website from being boring and the keep the user interested in scrolling further down. It also helps break down sections within a page. When the background color changes, it means its a different section. 
 
 For those sections where the background color is white, the font color is black. For those sections where the background color is black, the font color is white. These colors are used as it helps with contrast, and does not strain the eye whilst giving it a neat look.
