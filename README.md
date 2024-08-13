@@ -266,13 +266,16 @@ FOR ALL PAGES
 ---
 
 # Credits
-### Content
 
 The following websites were used to gather ideas on how to design the website and what content to include. These websites was also used to decide what features I did not want to include on this project:
 * **Village Gym** - [Visit Content Here](https://www.villagegym.co.uk/)
 * **Pure Gym** - [Visit Content Here](https://www.puregym.com/)
 * **JD Gyms** - [Visit Content Here](https://www.jdgyms.co.uk/)
 * **Places Leisure** - [Visit Content Here](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/)
+* **Color schemes** - [This website](https://visme.co/blog/website-color-schemes/) was used to help me guide on color schemes
+
+### Content
+
 * **Names for Testimonial section** - Fake names created using Name-Generator - [Visit Content Here](https://www.name-generator.org.uk/quick/)
 * **Testimoinal of Sara Thomas**- Visit Content Here [Date of experience: 02 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
 * **Testimoinal of Sam Oneal**- Visit Content Here [Date of experience: 08 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
