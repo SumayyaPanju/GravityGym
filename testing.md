@@ -971,4 +971,92 @@ The following bugs were identified whilst creating the website. These bugs were 
 
 ## Unsolved Bugs 
 
+<details>
+
+**<summary>Menu not loading correctly</summary>**
+
+**Problem:**
+* The menu does not load properly
+* It initially loads the box and the text
+* It then loads the icon 
+
+**Solutions attempted:**
+* I thought this was caused because I moved the font awesome link icon to the bottom of the page
+* I moved it back to the top, however the problem is not resolved
+* I also cleared the cache and refreshed the browser, te problem did not resolve
+* I changed the order of internal style links and the external links of JS, Bootstrap and Fontawesome, one at a time 
+* Afer each changes, the cache was cleared and browser was refreshed. Problem was not resolved
+
+|Screenshot of page when it first loads      |
+|-----------------------------------|
+|![Screenshot](/assets/images/testing/unsolved-bug/unsolved-bug-1a.png) |
+
+
+|Screenshot of page when it has finished loading     |
+|-----------------------------------|
+|![Screenshot](/assets/images/testing/unsolved-bug/unsolved-bug-1b.png) |
+
+</details>
+
+<details>
+
+**<summary>White Line above full width image</summary>**
+
+**Problem:**
+* Above the full width image, in home page, there is a white line
+* The white line is visible intermittently when using DevTools
+* However, it is consistently visible when using Blisk 
+* The problem occurs for all device sizes 
+
+**Solutions attempted:**
+
+The following solutions have been attempted, however they have not worked:
+* Setting margin to 0
+* Setting padding to 0
+* Changing background size to cover, contain etc 
+* Changing background colour to black
+
+|Screenshot for mobile devices      |
+|-----------------------------------|
+|![Screenshot](/assets/images/testing/unsolved-bug/unsolved-bug-2a.png) |
+
+|Screenshot for tablet devices      |
+|-----------------------------------|
+|![Screenshot](/assets/images/testing/unsolved-bug/unsolved-bug-2b.png) |
+
+
+|Screenshot for desktop devices     |
+|-----------------------------------|
+|![Screenshot](/assets/images/testing/unsolved-bug/unsolved-bug-2c.png) |
+
+</details>
+
+<details>
+
+<summary>Back to top button on small devices</summary>
+
+**Problem:**
+* Back to top button on small devices does not work as expected
+* When clicked on it, it should take the user to the top of the page
+* However, when it is clicked, the landscape bar at the bottom of the page
+* In order for the user to go to the top of the page, the user needs to click on the button again 
+* This problem only occurs for extra small devices, portrait phones
+
+**Solutions attempted:**
+* Attempt was made to reposition the button slightly above the landscape bar 
+* Cache was cleared and browser was refreshed 
+* This did not resolve the issue
+
+|Before selecting the Back to top button     |
+|-----------------------------------|
+|![Screenshot](/assets/images/testing/unsolved-bug/unsolved-bug-3a.png) |
+
+|After selecting the Back to top button     |
+|-----------------------------------|
+|![Screenshot](/assets/images/testing/unsolved-bug/unsolved-bug-3b.png) |
+
+</details>
+
+<br>
+
 [BACK TO TOP](#table-of-contents)
