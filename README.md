@@ -140,6 +140,36 @@ As a frequent user:
 
 #### Color Scheme
 
+**INITIAL COLOR SCHEME**
+
+For the colors, I decided to choose a color that symbolizes strength, passion and confidence. For this reason I chose a red color. I also chose black and white color for a neat and modern appearance. 
+
+The following color theme was used:
+
+|Red        |Black          |White          |
+|-----------|---------------|---------------|
+|![Screenshot](/assets/images/screenshots/color-theme-red.png)|![Screenshot](/assets/images/screenshots/color-theme-black.png)|![Screenshot](/assets/images/screenshots/color-theme-white.png)
+
+**FINAL COLOR SCHEME**
+
+Whilst testing the website pages using Lighthouse and Wave, a common problem encountered was contrast issues. The colors chosen were not compliant with Web Content Accessibility Guidelines (WCAG). Hence different color scheme was chosen.
+
+This time I chose to go for a green color that is pleasing to the eye. I chose green because it symbolizes balance, harmony and nature. It is a color that aims to energize and relax the body. 
+
+Hence, my final color scheme for this project is: 
+
+|Green        |Black          |White          |
+|-----------|---------------|---------------|
+|![Screenshot](/assets/images/screenshots/color-theme-green.png)|![Screenshot](/assets/images/screenshots/color-theme-black.png)|![Screenshot](/assets/images/screenshots/color-theme-white.png)
+
+Instead of having a single background color, the pages are designed that black and white colors are used in turns. For instance, if one part of the page is black, then the next part of the webpage is white. This is done to prevent the website from being boring and the keep the user interested in scrolling further down. It also helps break down sections within a page. When the background color changes, it means its a different section. 
+
+For those sections where the background color is white, the font color is black. For those sections where the background color is black, the font color is white. These colors are used as it helps with contrast, and does not strain the eye whilst giving it a neat look.
+
+Green color is used to make certain sections standout, or to highlight a specific element. For example, links upon hover will change its color to green. This is to inform user, that this is what they are hovering on. It is also used to highlight active sections, informing users thats this is the page they are currently on. It is also used at the footer of the page, to highlight the different section of the footer. Furthermore it is used for icons on the plans page to make the comparisons table more interesting.
+
+<br>
+
 [BACK TO TOP](#table-of-contents)
 
 #### Typography
