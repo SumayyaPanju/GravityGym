@@ -677,6 +677,294 @@ The table below shows what is tested and the screenshot of the results
 
 ## Solved Bugs
 
+The following bugs were identified whilst creating the website. These bugs were tested and fixed. 
+
+>Click below, on the relevant headings to expand
+
+<details>
+
+**<summary>Unwanted space</summary>**
+
+**Information**
+* There was unwanted space betweem the upper image and lower image for smaller screen size. 
+* A solution for this problem was tested using dev tools and then fixed on GitPod
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p1-identified.png)<br>**Date Identified:** 19/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p1-fixed.png) <br> **Date Fixed:** 19/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Unaligned Nav Items</summary>**
+
+**Information**
+* Nav Items were not alligning correctly. 
+* When looked at it closely, it can be seen that the 'Schedule' tab item under the 'Home' tab is not alligned. The 'Schedule' tab is slightly towards the right in comparisons to the 'Home' tab.  The same is for the 'Contact Us' under the 'Plans' tab which is slightly towards the right.
+* I was unable to fix the problem myself. Support from my mentor was sougth on this
+* My mentor helped me identify the issue using DevTools and showed me how I could use Bootstrap to resolve this issue.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p2-identified.png)<br>**Date Identified:** 19/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p2-fixed.png) <br> **Date Fixed:** 19/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Navigation menu is not responsive</summary>**
+
+**Information**
+* Page was not responsive due to the navigation menu. 
+* The two columns would not move to the next line as designed using bootstrap. 
+* This was due to the set width which was identified using DevTools.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p3-identified.png)<br>**Date Identified:** 19/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p3-fixed.png) <br> **Date Fixed:** 19/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Text Overflow</summary>**
+
+**Information**
+* Text overflows from the textbox container and is hidden under the image for smaller devices. 
+* Problem has been identified and the fix was tested using DevTool. 
+* This was then implemented on GitPod
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p4-identified.png)<br>**Date Identified:** 20/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p4-fixed.png) <br> **Date Fixed:** 20/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Text overlaps the images</summary>**
+
+**Information**
+* Text and images overlaps one another smaller devices. 
+* Problem has been identified and the fix was tested using DevTool. The problem was caused due to a set height. 
+* This was then implemented on GitPod
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p5-identified.png)<br>**Date Identified:** 20/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p5-fixed.png) <br> **Date Fixed:** 20/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Containers are not responsive</summary>**
+
+**Information**
+* There was an unwated gap on the right side of the page which was caused by bootstrap default margin. 
+* The default margin is overridded using CSS stylings 
+* Upon retesting, the problem was still there. 
+* Upon further checking using DevTools, I realised that I needed to apply this solution for all of the rows. 
+* Once completed, this was rechecked. It worked as expected.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p6-identified.png)<br>**Date Identified:** 20/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p6-fixed.png) <br> **Date Fixed:** 20/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Facility paragraph is not responsive</summary>**
+
+**Information**
+* The paragraphs would not resize itself. 
+* The icons would not be stacked properly as expected. 
+* Multiple changes were required for this fix. 
+* DevTools was used to explore what changes could be made and then this was implemented on GitPod.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p7-identified.png)<br>**Date Identified:** 23/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p7-fixed.png) <br> **Date Fixed:** 23/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Social Icons is not responsive</summary>**
+
+**Information**
+* Social icon is not responsive for smaller devices which results in some unwanted space on the right side of the page. 
+* The fix was tested using DevTools and then applied on GitPod.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p8-identified.png)<br>**Date Identified:** 24/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p8-fixed.png) <br> **Date Fixed:** 24/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Images one after the other</summary>**
+
+**Information**
+* Images appeared one after the other on smaller devices which was not presentable.
+* I wanted the text to appear first and then images on the smaller device and retain the current order for medium devices and upwards. 
+* Bootstrap was used to fix this. 
+* This was tested on DevTools and and then the fix was implemented on GitPod.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p9-identified.png)<br>**Date Identified:** 24/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p9-fixed.png) <br> **Date Fixed:** 24/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Issue with CSS link</summary>**
+
+**Information**
+* Page was entirely messed up
+* To fix the issue, multiple solutions were tried. 
+* Tried to clear browser cache, tried to load the page using a different browser, carried out CSS validation to ensure there was no error within the CSS causing the issue. 
+* Eventually realised that the link to the stylesheet was accidently deleted within the HTML file. 
+* The link has been added again which resolved the issue. 
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p10-identified.png)<br>**Date Identified:** 25/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p10-fixed.png) <br> **Date Fixed:** 25/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Footer obstructs view</summary>**
+
+**Information**
+* Footer was sticky which caused obstruction. 
+* I could not fix this on my own and sought help from online. 
+* I found a code from [DEV](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14) which fixed the problem. 
+* The code was first tested using DevTools and then implemented on GitPod. 
+* The footer is now at the bottom of the page, regardless of the content in the body section.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p11-identified.png)<br>**Date Identified:** 25/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p11-fixed1.png) <br>![Fixed](/assets/images/testing/solved-bugs/p11-fixed2.png) <br> **Date Fixed:** 25/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Input cannot be selected</summary>**
+
+**Information**
+* Textbox on contact us page could not be selected. 
+* Problem could not be figured out. Mentor helped me identify the issue using DevTool. 
+* It was easily sorted using z-index:-1
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p12-identified.png)<br>**Date Identified:** 30/07/2024 | ![Fixed](/assets/images/testing/solved-bugs/p12-fixed.png) <br> **Date Fixed:** 30/07/2024     |
+
+</details>
+
+<details>
+
+**<summary>Text is not responsive</summary>**
+
+**Information**
+* Text overlaps images for personal trainer and get started section
+* Issue was identified using DevTools. 
+* A set width was cauasing an issue. 
+* The fix was tested using on DevTool and then implemented on GitPod 
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p13-identified.png)<br>**Date Identified:** 02/08/2024 | ![Fixed](/assets/images/testing/solved-bugs/p13-fixed.png) <br> **Date Fixed:** 02/08/2024     |
+
+</details>
+
+<details>
+
+**<summary>Button border appears in the wrong place</summary>**
+
+**Information**
+* Button border / shadow appears in its original place instead of its re-positioned place. 
+* Couple of attempts were made to resolve this issue:
+    * Using DevTool, the button is hidden, however this hid the anchor too. 
+    * The button border was set to none, howver there was still a line below it. 
+    * The same position setting used for anchor is then used for the button. 
+* The final solution resolved the issue
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p14-identified.png)<br>**Date Identified:** 06/08/2024 | ![Fixed](/assets/images/testing/solved-bugs/p14-fixed.png) <br> **Date Fixed:** 06/08/2024     |
+
+</details>
+
+<details>
+
+**<summary>Unwanted white space</summary>**
+
+**Information**
+* White space next to the full width image
+* DevTools was used to identify the reason for the white space. 
+* 12px padding was causing this issuse. Padding is set to 0.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p15-identified.png)<br>**Date Identified:** 07/08/2024 | ![Fixed](/assets/images/testing/solved-bugs/p15-fixed.png) <br> **Date Fixed:** 07/08/2024     |
+
+</details>
+
+<details>
+
+**<summary>Full width is not a full containe</summary>**
+
+**Information**
+* The full width image was not a full container causing responsive issues at different screen sizes. 
+* DevTool was used to identify the problem.
+* It was identified that changing the background size to cover solves this issue
+* This fix was then implemented.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p16-identified.png)<br>**Date Identified:** 12/08/2024 | ![Fixed](/assets/images/testing/solved-bugs/p16-fixed.png) <br> **Date Fixed:** 12/08/2024     |
+
+</details>
+
+**<summary>Text overlaps Back to top button</summary>**
+
+**Information**
+* Back to top button appears to be behind some of the texts. 
+* To identify the issue, DevTools was used. 
+* To fix it, z-index was used to bring it to the front. This solved the issue.
+
+**Screenshots:**
+|Identified                                                         |Fixed                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------|
+![Identified](/assets/images/testing/solved-bugs/p17-identified.png)<br>**Date Identified:** 12/08/2024 | ![Fixed](/assets/images/testing/solved-bugs/p17-fixed.png) <br> **Date Fixed:** 12/08/2024     |
+
+</details>
+
+<br>
+
 [BACK TO TOP](#table-of-contents)
 
 ## Unsolved Bugs 
