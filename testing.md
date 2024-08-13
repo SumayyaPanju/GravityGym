@@ -12,9 +12,6 @@
     * [Mobile Audit](#mobile-audit)
 5. [Wave Web Accessibility Evaluation](#wave-web-accessibility-evaluation)
 6. [User Story Testing](#user-story-testing)
-    * [First Time Visitor](#first-time-visitors)
-    * [Returning Visitor](#returning-visitors)
-    * [Frequent User](#frequent-users)
 7. [Features](#features)
     * [404 page](#404-page)
     * [Links](#links)
@@ -1076,7 +1073,7 @@ The following solutions have been attempted, however they have not worked:
 
 <details>
 
-<summary>Back to top button on small devices</summary>
+**<summary>Back to top button on small devices</summary>**
 
 **Problem:**
 * Back to top button on small devices does not work as expected
