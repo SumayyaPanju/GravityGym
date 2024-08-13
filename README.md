@@ -59,7 +59,7 @@ Users can get in contact with the client via the contact page or by redirecting 
 
 ### Project Goals
 
-The main objective is to offer a platform that helps the client and the business reach their respective objectives. The website is created with the intention of giving clients access to vital company information and bringing in more gym members for the company. 
+The main objective is to offer a platform that helps the client and the business reach their respective objectives. The website is created with the intention of giving clients access to vital company information and bringing in more gym members for the company by advertising through this website. The table below shows clients and business goals and how Gravity Gym aims to achieve this. Different users have different expectations from this website, hence this is covered in details by focusing on what each user would want. 
 
 [BACK TO TOP](#table-of-contents)
 
