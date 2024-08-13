@@ -174,6 +174,14 @@ Green color is used to make certain sections standout, or to highlight a specifi
 
 #### Typography
 
+For typography [google fonts](https://fonts.google.com/) was used. I used the following fonts: 
+* [**Barlow**](https://fonts.google.com/specimen/Barlow?query=barlow) - For body text
+* [**Fjalla One**](https://fonts.google.com/specimen/Fjalla+One?query=fjalla) - For headings
+
+These fonts were used together with CSS functions of 'font-weight' and 'letter-spacing' to give a light, neat and easy to read font. The font size is changed depending on the device size. 
+
+Only 2 fonts was used as I wanted to keep the website simple and consistent. 
+
 [BACK TO TOP](#table-of-contents)
 
 #### Imagery
