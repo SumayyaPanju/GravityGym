@@ -45,6 +45,12 @@ Live project can be viewed [here](https://sumayyapanju.github.io/GravityGym/)
 
 The website Gravity Gym was created for the business to advertise and enlighten both present and new gym members. This website provides existing and prospective gym members with information about the facility. 
 
+Gravity Gym is a Gym in London and they offer a variety of services. For example, personal trainers, various classes, swimming, sauna and steam. The owner wants to increase the number of people that show interest in their gym. The aim of this project is to reach out to a wide range of audiences, ranging from individuals who want to get fit and healthy to individuals who want to relax (e.g. via sauna etc) and make friends. 
+
+This website provides users with basic information of the website, such as, where the gym is based, what facilities are available, what classes they have and what benefits are their for members. Users are also able to contact the owner through 'Contact Us' page, phone number or social media platforms which can be found at the footer of every page. 
+
+Users can get in contact with the client via the contact page or by redirecting to their social media pages.
+
 [BACK TO TOP](#table-of-contents)
 
 ---
