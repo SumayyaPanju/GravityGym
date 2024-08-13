@@ -184,9 +184,16 @@ FOR ALL PAGES
 * [**DevTools**](https://developer.chrome.com/docs/devtools) - Dev tools was used to identify ways in which the bugs can be resolved
 * [**HTML Validator**](https://validator.w3.org/) - This tool is used to identify any errors in the HTML code
 * [**Jigsaw CSS Validator**](https://jigsaw.w3.org/css-validator/) - This tool is used to identify any errors in the CSS code 
+* [**Mozilla Firefox**](https://www.mozilla.org/en-GB/firefox/new/) - This browser was used to test the responsiveness of this project
+* [**Opera**](https://www.opera.com/?utm_campaign=%2300%20-%20WW%20-%20Search%20-%20EN%20-%20Branded&utm_content=37670026502&gad_source=1&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnD6pMexv-8C_sD-s2ZnPkEst-60EPImV6Sm6QBll3PCxv-V2MTD0vkaAqzrEALw_wcB) - This browser was used to test the responsiveness of this project
+* [**Microsoft Edge**](https://www.microsoft.com/en-us/edge?ep=0&form=MA13M0&es=40) - This browser was used to test the responsiveness of this project
+* [**Google Chrome**](https://www.google.com/intl/en_uk/chrome/) - This browser was used to test the responsiveness of this project
 * [**JS Hint**](https://jshint.com/) - This tool is used to identify any errors in the JS code 
 * [**Lighthouse Audit**](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - This tool is used to evaluate my page
 * [**Wave audit**](https://wave.webaim.org/) - This tool is used to evaluate my page
+* [**Blisk**](https://blisk.io/product) - This tool was used to see how my page appears on different devices. Although this could be done through DevTool, I found that DevTool did not have the latest devices for testing purposes. Furthermore, it was a lot easier to compare different screensizes using Blisk. Blisk also allowed to see more than one device at a time. A few issues were picked up using this tool. 
+* [**Spell Check**](https://www.online-spellcheck.com/) - This tool was used to spell check my website to minimise spelling errors. 
+
 
 ---
 
@@ -239,8 +246,7 @@ A range of images were used from various websites. The link from where the image
 * **India Nixon** In testimonial section- [Visit Original Source Here](https://img.freepik.com/photos-premium/femme-parle-au-telephone-dans-salle-sport_826801-2792.jpg)
 * **Gallery Media** - In gallery section, two websites were used. [Visit Original Source Here - Website 1](https://www.b3fitness.co.uk/) [Visit Original Source Here - Website 2](https://www.panthersgym.com/)
 * **Question** In contact us section [Visit Original Source Here](https://www.vectorstock.com/royalty-free-vector/doodle-question-mark-vector-35835864)
-
-
+* **Most commonly used browser Statistics** [View resource here](https://gs.statcounter.com/browser-market-share)
 
 [BACK TO TOP](#table-of-contents)
 
@@ -254,16 +260,9 @@ A range of images were used from various websites. The link from where the image
 * **Styling input fields** - I wanted to style the input fields but I did not know how to target them. I used [this website](https://www.w3schools.com/css/css_form.asp) to help me target the input fields to achieve the look I want. 
 * **Tabs** - Tabs was used for adding classes schedules. Tabs was used instead of tables in order to prevent overload of information at viewport. [this website](https://www.w3schools.com/howto/howto_js_tabs.asp) was used to create tabs, its content and for its styling. 
 * **Table Row Hover** - To enable a more focused view for the row, the row is highlighted. [This website](https://www.textfixer.com/tutorials/highlight-table-row.php) is used to obtain the code for highlighting a row upon hovering the row. 
-
-
-
-* template for grid taken from Bootstrap and heavily modified 
-* Floating buttons from w3schools 
-* [example video](https://learn.codeinstitute.net/courses/course-v1:code_institute+DIWAD_MS1+1/courseware/5cc55f6df9fe41cc8dcb4d665a251ded/8341150079674a76b87da0143c45f6f9/)
-
-
-### Other References 
-* **Most commonly used browser Statistics** [View resource here](https://gs.statcounter.com/browser-market-share)
+* **Collapsible tabs for markdown** - [This website](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1a) was used to get the code to collapse sections within the markdown document. Collapsible section was used due to large amount of screenshots and tables present. 
+* **Checkbox size** - For extra extra large devices, the checkbox appeared to be very tiny. I could not figure out how to icnrease the size. [This website](https://stackoverflow.com/questions/306924/can-i-change-the-checkbox-size-using-css) had a code which resolved the issue. 
+* **Bootstrap** - Bootstrap was used to design the website and to make it responsive. The code from bootstrap is excessively modified to make this website as unique as possible. 
 
 ### Acknowledgements
 
@@ -285,18 +284,9 @@ A range of images were used from various websites. The link from where the image
 
 
 
----
----
----
 # delete once finished
 ---
-## When to write this documentation?
-### Before coding 
-* UX Section
-### During coding 
-* when you encounter bugs - this should be added to the testing sections 
-* When codes online have been used to solve issues experienced 
-* for media that you did not create yourself - saying you got it from this and this website is not sufficient. Must link it to the orignial owner, or website. 
+
 ### After coding
 * Deployment - steps taken to deploy the website 
     * [Refer Back to this video](https://learn.codeinstitute.net/courses/course-v1:code_institute+DIWAD_MS1+1/courseware/5cc55f6df9fe41cc8dcb4d665a251ded/8341150079674a76b87da0143c45f6f9/)
@@ -304,18 +294,6 @@ A range of images were used from various websites. The link from where the image
     * It should also include steps to run the code 
     * Document steps to clone, install and run the code 
 
-* Testing 
-    * if large enough - use a seperate MD file
-    * browser compatibility, any specific needs 
-    * refer back to user stories 
-    * use online validators 
-    * use lighthouse in chrome devtools  to check your site for performance, best practices and accessibility. Remember to  document these tools in your README file as well.
-    * Navigation Links 
-    * Each test should include: Expected (What is expected), Testing (How did you test it), Results (What results did you get), Fixes (If you did not get the results, how did you fix it), Re-run it if needed. 
-    * Provide screenshots 
-    * Include bug section - of difficult bugs and how did you fix it 
-
-    **MUST INCLUDE ALL THE IMPORTANT DECISIONS TAKEN FOR THE ASSESSORS AND IMPORTANT POTENTIAL EMPLOYERS**
 
 
 # Complete the following tasks: 
