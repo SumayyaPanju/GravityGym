@@ -574,14 +574,57 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 [BACK TO TOP](#table-of-contents)
 ## User Story Testing 
 
-[BACK TO TOP](#table-of-contents)
-### First Time Visitor
+Tests are carried out to ensure that the website designed serves it purposes for first time, returning and frequent users. 
 
-[BACK TO TOP](#table-of-contents)
-### Returning Visitor
+<details>
 
-[BACK TO TOP](#table-of-contents)
-### Frequent User
+**<summary>First time visitors</summary>**
+
+The following table shows user goals and screenshot as supporting evidence as to whether the goal has been achieved or not. 
+
+|Goals      |Screenshots        |Comments       |
+|-----------|-------------------|---------------|
+|**I want to learn more about Gravity Gym.** | ![Screenshot](/assets/images/testing/user-testing/first-g1a.png) ![Screenshot](/assets/images/testing/user-testing/first-g1b.png) | s soon as the user enters the home page, there is informaiton of what the gym has to offer|
+|**The website should be simple to use and intuitive to browse.** | ![Screenshot](/assets/images/testing/user-testing/first-g2.png)  | The page has a menu bar at the top of the page, where they can easily navigate to other pages with one click. Back to button is also available for users to scroll to the top of the page regardless of whether they are in the top, middle, or bottom of the page.|
+|**I want to know where the gym is location and what are their opening times. I want to know if it is local to me and if they are open at the hours I can go to the gym.**| ![Screenshot](/assets/images/testing/user-testing/first-g3.png) | At every page of the website, there is a footer with the gyms location and opening times. |
+|**I want to know what the experience previous and current users have had with the gym**|![Screenshot](/assets/images/testing/user-testing/first-g4.png) |There is a testimonial section at the bottom of home page, that shows other users experience with the gym |
+|**I want to know if the gym is reliable and trustworthy. I would want to have access to their social media platforms.** | ![Screenshot](/assets/images/testing/user-testing/first-g3.png) | At every page of the website, there is a footer with links to social media pages |
+|**I want to know what membership plans they have, what the ranges are.**| ![Screenshot](/assets/images/testing/user-testing/first-g5.png) |There is a page dedicated to membership plans which shows the price ranges|
+|**I would like to know what offers they have currently for new gym members**| ![Screenshot](/assets/images/testing/user-testing/first-g5.png) |There is a page dedidcated to membership plans and offers available |
+
+</details>
+
+<details>
+
+**<summary>Returning visitor</summary>**
+
+|Goals      |Screenshots        |Comments       |
+|-----------|-------------------|---------------|
+|**I want to know more about the gym, rather than just opening hours and location. I would like to know what facilities they offer.**| ![Screenshot](/assets/images/testing/user-testing/returning-1.png) | There is a section dedicated within the home page that shows what facilities the gym has to offer |
+|**I want to know if they have classes, and usually around what times.**|![Screenshot](/assets/images/testing/user-testing/returning-2.png) | There is a page dedicated 'schedules' that has a subsection 'classes' that shows what classes the gym provides and what time |
+|**I want to know if swimming is gender specific and if there are times allocated for that.**|![Screenshot](/assets/images/testing/user-testing/returning-3.png) | There is a page dedicated 'schedules' that has a subsection 'swimming' that shows the timing of swimming sessions and also whether it is for ladies, gents, mixed or under-16. |
+|**I want to know what membership plans they have and the difference between their membership plans.** |![Screenshot](/assets/images/testing/user-testing/returning-4.png) | There is a page dedicated 'plans' that shows what membership plans are available and what the differences are between the different plans. |
+|**To be able to contact the gym if needed**|![Screenshot](/assets/images/testing/user-testing/returning-5a.png) ![Screenshot](/assets/images/testing/user-testing/returning-5b.png)|There is a page dedicated for users so that they can contact the gym with any queries. Furthermore, there is a telephone number on the footer of every page. The user can use the contact number to get in touch with the gym |
+
+</details>
+
+<details>
+
+**<summary>Frequent user</summary>**
+
+|Goals      |Screenshots        |Comments       |
+|-----------|-------------------|---------------|
+|**I want to have easy access to the class information and their schedule.** |![Screenshot](/assets/images/testing/user-testing/frequent-1.png) | A page is dedicated for schedules whihc includes a timteable for classes. |
+|**I want to have easy access to swimming schedule**|![Screenshot](/assets/images/testing/user-testing/frequent-2.png) |A page is dedicated for schedules whihc includes a timteable for swimming. |
+|**I want to have easy access to sauna & steam schedule**|![Screenshot](/assets/images/testing/user-testing/frequent-3.png) | A page is dedicated for schedules whihc includes a timteable for sauna and steam. |
+|**I want to be able to download the schedule as pdf for offline use.** |![Screenshot](/assets/images/testing/user-testing/frequent-4.png) |A page is dedicated for schedules whihc includes pdf versions of timetables so that users can download it for offline access. |
+|**I want to be able to source membership information for renewal**|![Screenshot](/assets/images/testing/user-testing/frequent-5.png) | A page is dedicated for membership plans whihc includes all plans available. |
+|**I would like to know what offers they have currently for current and previous gym members**|![Screenshot](/assets/images/testing/user-testing/frequent-6.png)  | A page is dedicated for membership plans whihc includes all plans available. |
+
+
+</details>
+
+<br>
 
 [BACK TO TOP](#table-of-contents)
 
