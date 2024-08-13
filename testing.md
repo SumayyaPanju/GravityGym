@@ -227,16 +227,15 @@ Samsung Internet is a mobile phone browser. Attempts were made to download [Blue
 To test the responsiveness of GravityGym, DevTools is used. The Device is tested at different breakpoints based on Bootstrap that was used to design this project.
 
 The following breakpoints was used for this project:
-* Extra Small devices for portrait phones (less than 575px). 
-    * Max-width set at 575.98px
-* Small devices for landscape phones (576-767px). 
-    * Max-width set at 767.98px
-* Medium devices for tablets (between 768-991px). 
-    * Max-width set at 991.98px
-* Large devices for desktops (between 992-1199px). 
-    * Max-width set at 1199.98px
-* X-large devices for larger desktsops (1200px upwards). 
-    * Min-width set at 1200px
+
+|Breakpoint             |Type of devices            |Max/Min width          |Screen size range      |
+|-----------------------|---------------------------|-----------------------|-----------------------|
+|**Extra Small**        |Portrait phones            |max-width: 575.98px    |less than 575px        |
+|**Small**              |Landscape phones           |max-width:767.98px     |576-767px              |
+|**Medium**             |Tablets                    |max-width:991.98px     |768-991px              |
+|**Large**              |Desktops                   |max-width:1119.98px    |992-1199.98px          |
+|**Extra Large**        |Extra large desktops       |min-width:1200px       |More than 1200px       |
+|**Extra Extra Large**  |Extra Extra large desktops |min-width:2500px       |More than 2500px       |
 
 >Click below, on the relevant headings to expand
 
