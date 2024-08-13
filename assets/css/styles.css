@@ -78,6 +78,11 @@ h3 {
     font-size: 60px;
 }
 
+#org-name a{
+    color: #b2f71d;
+    text-decoration: none;
+}
+
 /*Navigation Section*/
 #gym-menu {
     margin-bottom: 20px;
