@@ -283,6 +283,7 @@ A range of images were used from various websites. The link from where the image
 * **Gallery Media** - In gallery section, two websites were used. [Visit Original Source Here - Website 1](https://www.b3fitness.co.uk/) [Visit Original Source Here - Website 2](https://www.panthersgym.com/)
 * **Question** In contact us section [Visit Original Source Here](https://www.vectorstock.com/royalty-free-vector/doodle-question-mark-vector-35835864)
 * **Most commonly used browser Statistics** [View resource here](https://gs.statcounter.com/browser-market-share)
+* **Color pallet** - [This website](https://www.color-hex.com/color/b2f71d) is used to obtain the screenshot of the color themes used for this project. This screenshot is used in README document under color themes. 
 
 [BACK TO TOP](#table-of-contents)
 
