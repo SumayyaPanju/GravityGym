@@ -214,6 +214,35 @@ The wireframe designed is similar to my final product, however, there are some d
 
 [BACK TO TOP](#table-of-contents)
 
+>Click below, on the relevant headings to expand
+
+<details>
+
+**<summary>Header</summary>**
+
+**Explanation:**
+
+* Wireframe was designed to include the logo, organization name and the menu all in one line. 
+    * However when designing it, the header looked very crowded. 
+    * Hence the navigation menu was moved on to the next line. 
+* Furthermore, according to the wireframe, the header and menu was designed to be sticky as the user scrolls the page. This design was not carried forward to the final design. 
+    * This is because as the design changed, the header took far much more space than anticipated occupying a large portion of the viewport. 
+    * To overcome this issue, a 'Back to top' button was implemented instead.
+
+<br>
+
+**Results:**
+
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-header-1.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-header-2.png)      v
+|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-header-1.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-header-2.png)      |
+|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-header-1.png) |![Screenshot](/assets/images/readme/wireframes/desktop-header-2.png)     |
+
+</details>
+
+
+[BACK TO TOP](#table-of-contents)
 ---
 
 # Features
