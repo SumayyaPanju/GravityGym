@@ -644,6 +644,14 @@ There are a few features that still needs to be implemented:
 
 [BACK TO TOP](#table-of-contents)
 
+# Improvements
+
+There are a couple of improvements I could make to this project:
+* **Cleaner code** - A systemic approach needs to be used when coding this project. Starting with mobile first design and then going up to extra extra large devices. 
+* **Classes and IDs** - Personally designed IDs and classes could be used to design this page better. This was done during this project, however, more of it could have been done. This way, any changes that needs to be made, would need to be done once on the CSS. 
+
+[BACK TO TOP](#table-of-contents)
+
 ---
 
 # Technologies used
