@@ -1,3 +1,7 @@
+![Screenshots](/assets/images/readme/features/home.png)
+
+---
+
 # TABLE OF CONTENTS
 
 Visit Live Project [here](https://sumayyapanju.github.io/GravityGym/)
