@@ -241,6 +241,26 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+**<summary>Hamburger Menu</summary>**
+
+**Explanation:**
+
+* Wireframe was designed to include a hamburger menu for mobile phones.
+* When designing the actual website, the hamburger menu required JavaScript
+* Due to lack of knowledge and experience in this field, this could not be accomplished. 
+* Online script was obtained and added to the website, however, the script would not work well. 
+* As a result, the same format as tablet and laptop devices was used.  stead.
+
+<br>
+
+**Results:**
+
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-hamburger-1.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-header-2.png)      |
+
+</details>
+
 <details>
 
 **<summary>Personal Trainer section</summary>**
