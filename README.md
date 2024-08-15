@@ -685,6 +685,36 @@ There are a couple of improvements I could make to this project:
 # Deployment
 ### GitHub Pages
 
+This website is deployed on GitHub. Live website can be viewed [here](https://sumayyapanju.github.io/GravityGym/). 
+
+The website can be deployed using this process:
+1. Login to [GitHub](https://github.com/)
+<br>![Screenshot](/assets/images/readme/deployment/login.png)
+
+2. Using the search bar go to this repository: **SumayyaPanju/GravityGym**
+<br>![Screenshot](/assets/images/readme/deployment/search.png)
+
+3. Select the repository 
+<br>![Screenshot](/assets/images/readme/deployment/select.png)
+
+4. Select 'Settings'
+<br>![Screenshot](/assets/images/readme/deployment/settings.png)
+
+5. Under 'Code and automation' select 'Pages'
+<br>![Screenshot](/assets/images/readme/deployment/automation.png)
+
+6. Under 'Build and deployment' and under 'Branch' select 'main'
+<br>![Screenshot](/assets/images/readme/deployment/main.png)
+
+7. Then select 'save'
+<br>![Screenshot](/assets/images/readme/deployment/save.png)
+
+8. A message will appear to show that settings are saved
+<br>![Screenshot](/assets/images/readme/deployment/saved.png)
+
+9. Once deployed, the page will display the following:
+<br>![Screenshot](/assets/images/readme/deployment/deployed.png)
+
 [BACK TO TOP](#table-of-contents)
 
 ### Forking the GitHub Repository
