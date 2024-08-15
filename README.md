@@ -719,7 +719,28 @@ The website can be deployed using this process:
 
 ### Forking the GitHub Repository
 
+The repository can be copied onto your own GitHub account, the repository can be forked. The website can be forked using this process:
+
+1. Login to [GitHub](https://github.com/)
+<br>![Screenshot](/assets/images/readme/deployment/login.png)
+
+2. Using the search bar go to this repository: **SumayyaPanju/GravityGym**
+<br>![Screenshot](/assets/images/readme/deployment/search.png)
+
+3. Select the repository 
+<br>![Screenshot](/assets/images/readme/deployment/select.png)
+
+4. Select on 'Fork' and then select on '+ Create a new fork'
+<br>![Screenshot](/assets/images/readme/deployment/fork.png)
+
+5. Select on 'Create Fork'
+<br>![Screenshot](/assets/images/readme/deployment/create-fork.png)
+
+6. The copy of the repository is now in your GitHub account
+<br>![Screenshot](/assets/images/readme/deployment/own-repository.png)
+
 [BACK TO TOP](#table-of-contents)
+
 
 ### Making a Local Clone
 
