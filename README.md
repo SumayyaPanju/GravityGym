@@ -574,6 +574,16 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 [BACK TO TOP](#table-of-contents)
 
+**Plans**
+
+![Screenshots](/assets/images/readme/features/plans.png)
+
+**Purpose:** This page aims to inform users about the different membership plans, their prices and the differences. It also informs users of existing offers.
+
+**Features:** When this page loads, the first information the user obtains is on the type of different membership plans available and the differences between them. It helps users to make an informed decision. Further down the page, there is information of offers that the gym is currently running. After that, if members have any questions, they can contact us through the contact us page. This link is provided at the bottom of the page. 
+
+[BACK TO TOP](#table-of-contents)
+
 ## Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
