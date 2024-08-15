@@ -326,6 +326,25 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
+**<summary>Contact Us Background Image</summary>**
+
+**Explanation:**
+
+* Wireframe was not designed to add a background image. 
+* Background image was added to make the page more lively as the page did not include additional containers.
+
+<br>
+
+**Results:**
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-contactus-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-contactus-1.png)      |
+|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-contactus-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-contactus-1.png)      |
+|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-contactus-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-contactus-1.png)     |
+
+</details>
 
 <br>
 
