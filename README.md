@@ -624,6 +624,15 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 [BACK TO TOP](#table-of-contents)
 
+**404**
+
+![Screenshots](/assets/images/readme/features/thank-you.png)
+
+**Purpose:** There are 2 'Thank you' pages which acts as a feedback for users.
+
+**Features:** This is a simple website to inform the user that the page they are searching for does not exist.
+
+[BACK TO TOP](#table-of-contents)
 
 ## Features Left to Implement
 
