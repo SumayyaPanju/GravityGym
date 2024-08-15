@@ -511,6 +511,17 @@ The homepage has a full width image to grab users attention. It does not take up
 
 [BACK TO TOP](#table-of-contents)
 
+## Animation and JavaScript for images 
+
+Animation is added to the page using CSS stylings. This zooms the images in. However, this only happens once. For this to happen every time the page is at viewport, JavaScript was used. The code for JavaScript was obtained from an external source, referenced under [here](#code). 
+
+Animation and JavaScript is used to add some life to the page, creating a good experience for the users. Without the use of animation and JavaScript, the page would be static and boring. 
+
+![Screenshot](/assets/images/readme/features/gs-pt.png)
+
+[BACK TO TOP](#table-of-contents)
+
+
 ### Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
