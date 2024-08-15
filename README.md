@@ -282,6 +282,28 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
+**<summary>Membership Queries</summary>**
+
+**Explanation:**
+
+* Wireframe was designed to end the page with discounts. However, an extra container was added for 'membership queries' as the page did not fit the planned design. 
+* The designed planned which is alternate containers colors of black, white, black, white, black. 
+* Without adding the extra container, the last container would be black container which merges with the footer background. 
+* Furthermore, the two containers would not be separated. Hence, an extra container was added.
+
+<br>
+
+**Results:**
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-queries-1.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-queries-2.png)      |
+|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-queries-1.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-queries-2.png)      |
+|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-queries-1.png) |![Screenshot](/assets/images/readme/wireframes/desktop-queries-2.png)     |
+
+</details>
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
