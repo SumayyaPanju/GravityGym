@@ -636,9 +636,13 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 ## Features Left to Implement
 
+There are a few features that still needs to be implemented:
+1. Adding a hamburger menu for smaller devices 
+2. Using a modal for images. So that when images are clicked, the images open up in a modal. 
+3. Add a live map, and link it to google maps
+4. Add payment method for subscriptions
+
 [BACK TO TOP](#table-of-contents)
-
-
 
 ---
 
