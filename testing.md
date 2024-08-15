@@ -725,6 +725,11 @@ The table below shows what is tested and the screenshot of the results
 [BACK TO TOP](#table-of-contents)
 
 ### Animation - Images
+Homepage includes animation where the image within the body container for 'Get started' and 'Personal trainer' section zooms in. Also, when the user scrolls all the way to the bottom of the page, and when the images comes back into the viewport of the user, the animation replays. This is achieved using JavaScript. 
+
+Animation and JavaScript is tested on all devices and works as expected.
+
+[Watch the video](/assets/images/testing/features/animation-images.mp4)
 
 [BACK TO TOP](#table-of-contents)
 
