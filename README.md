@@ -547,6 +547,23 @@ Back to top button is added on every page to allow users to scroll to the top of
 
 [BACK TO TOP](#table-of-contents)
 
+### Pages 
+
+The website was initially designed for four pages:
+* Home
+* Plans 
+* Schedules 
+* Contact Us
+
+Whilst creating the website, more pages were created than anticipated. These are the extra pages that was created:
+* Gallery
+* Thank you for membership subscriptions
+* Thank you for contact us page
+* 404 error page
+
+5 of the pages are accessible through the navigation menu: Home, Plans, Gallery, Schedules and Contact Us. The remaining pages acts as a feedback page for users when they click on a button or go navigate to a page that does not exist. 
+
+
 ## Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
