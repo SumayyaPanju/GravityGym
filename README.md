@@ -561,8 +561,18 @@ Whilst creating the website, more pages were created than anticipated. These are
 * Thank you for contact us page
 * 404 error page
 
-5 of the pages are accessible through the navigation menu: Home, Plans, Gallery, Schedules and Contact Us. The remaining pages acts as a feedback page for users when they click on a button or go navigate to a page that does not exist. 
+5 of the pages are accessible through the navigation menu: Home, Plans, Gallery, Schedules and Contact Us. The remaining pages acts as a feedback page for users when they click on a button or go navigate to a page that does not exist.
 
+**Homepage**
+
+![Screenshots](/assets/images/readme/features/home.png)
+
+**Purpose:** This page aims to grab users attention, provide basic information about the gym such as facilities, and assurance via feedbacks.
+
+**Features:** This page includes a full width image to grab users attention. As the user scrolls down, there is a motivational quote to maintain or uplift users spirit. As the scroll down further, a message is given to the user that they are not alone, and that we can help them through the use of a personal trainer. After this, the users are informed of what facilities the gym offers, for example, free parking. As the user further scrolls down, they see what other users in the past have experienced. This whole page is designed to motivate the user and encourage them to get a membership with this gym. 
+
+
+[BACK TO TOP](#table-of-contents)
 
 ## Features Left to Implement
 
