@@ -447,9 +447,9 @@ Following pages were added as the project was built:
 ---
 
 # Features
-### Existing Features
+## Existing Features
 
-## Favicon and title
+### Favicon and title
 
 A favicon is added for all of the pages. Favicon is used to help users locate the website when users have various tabs open at one time. 
 
@@ -466,7 +466,7 @@ Each page has been given a specific title name. The title informs the user of th
 
 [BACK TO TOP](#table-of-contents)
 
-## Meta Data
+### Meta Data
 
 When designing each page, it is coded to include meta information for each page, within the head element of the page. Meta information is used for SEO purposes. 
 
@@ -474,7 +474,7 @@ When designing each page, it is coded to include meta information for each page,
 
 [BACK TO TOP](#table-of-contents)
 
-## Logo and Organization Name
+### Logo and Organization Name
 
 Each page has a logo and the organization name. When clicked it will redirect the user to the homepage. This is designed in this method due to users expectations and normal behavior. In general, when a user clicks on a logo or the name of the business, they are redirected to the home page. Hence the same idea is used for this website. 
 
@@ -482,7 +482,7 @@ Each page has a logo and the organization name. When clicked it will redirect th
 
 [BACK TO TOP](#table-of-contents)
 
-## Navigation menu
+### Navigation menu
 
 Navigation bar is designed to be at the top of the page. The name used for each tabs, describes the content of the page. When selected, the user is directed to the page with one click. 
 
@@ -503,7 +503,7 @@ The navigation menu is designed using bootstrap to make it responsive for variou
 
 [BACK TO TOP](#table-of-contents)
 
-## Full width image 
+### Full width image 
 
 The homepage has a full width image to grab users attention. It does not take up the full viewport height in order to inform the user that there is more information below this image, they need to scroll down. 
 
@@ -511,7 +511,7 @@ The homepage has a full width image to grab users attention. It does not take up
 
 [BACK TO TOP](#table-of-contents)
 
-## Animation and JavaScript for images 
+### Animation and JavaScript for images 
 
 Animation is added to the page using CSS stylings. This zooms the images in. However, this only happens once. For this to happen every time the page is at viewport, JavaScript was used. The code for JavaScript was obtained from an external source, referenced under [here](#code). 
 
@@ -521,7 +521,7 @@ Animation and JavaScript is used to add some life to the page, creating a good e
 
 [BACK TO TOP](#table-of-contents)
 
-## JavaScript for buttons 
+### JavaScript for buttons 
 
 Animation is added to the page using CSS stylings. When the buttons are selected, the content collapses and comes into the users viewport. 
 
@@ -531,7 +531,7 @@ JavaScript is used to make the page interactive. The user is able to select a bu
 
 [BACK TO TOP](#table-of-contents)
 
-## Footer
+### Footer
 
 The bottom of the footer is designed to include necessary information that users frequently ask. For example, where is the gym located and what are the opening times. It also includes the social links and copyright information. This is done so that information is easily available to users on every page. 
 
@@ -539,7 +539,7 @@ The bottom of the footer is designed to include necessary information that users
 
 [BACK TO TOP](#table-of-contents)
 
-## Back to top button
+### Back to top button
 
 Back to top button is added on every page to allow users to scroll to the top of the page in one click. 
 
@@ -547,7 +547,7 @@ Back to top button is added on every page to allow users to scroll to the top of
 
 [BACK TO TOP](#table-of-contents)
 
-### Features Left to Implement
+## Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
 
