@@ -241,6 +241,28 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
+**<summary>Personal Trainer section</summary>**
+
+**Explanation:**
+
+* Wireframes design does not include a section for personal trainer. 
+* Adding another section similar to 'Get Started' section made the page look more aesthetic. Hence, a 'Personal Trainer' section is added. 
+
+<br>
+
+**Results:**
+
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-pt-1.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-pt-2.png)      |
+|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-pt-1.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-pt-2.png)      |
+|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-pt-1.png) |![Screenshot](/assets/images/readme/wireframes/desktop-pt-2.png)     |
+
+</details>
+
+<br>
 
 [BACK TO TOP](#table-of-contents)
 ---
