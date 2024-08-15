@@ -614,6 +614,17 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 [BACK TO TOP](#table-of-contents)
 
+**Thank you**
+
+![Screenshots](/assets/images/readme/features/thank-you.png)
+
+**Purpose:** There are 2 'Thank you' pages which acts as a feedback for users.
+
+**Features:** This is a simple website to inform the user that the form has been submitted.
+
+[BACK TO TOP](#table-of-contents)
+
+
 ## Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
