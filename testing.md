@@ -16,6 +16,8 @@
     * [404 page](#404-page)
     * [Links](#links)
     * [Form validation](#form-validation)
+    * [Animation - Images](#animation---images)
+    * [JavaScript - Collapsible tabs](#javascript---collapsible-tabs)
 8. [Solved Bugs](#solved-bugs)
 9. [Unsolved Bugs](#unsolved-bugs)
 
@@ -722,6 +724,13 @@ The table below shows what is tested and the screenshot of the results
 
 [BACK TO TOP](#table-of-contents)
 
+### Animation - Images
+
+[BACK TO TOP](#table-of-contents)
+
+### JavaScript - Collapsible tabs
+
+[BACK TO TOP](#table-of-contents)
 
 ## Solved Bugs
 
