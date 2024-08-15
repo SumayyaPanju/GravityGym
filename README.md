@@ -67,16 +67,16 @@ The main objective is to offer a platform that helps the client and the business
 
 The following table shows the goals of current and potential gym members and how it can be achieved through this website 
 
-  Clients Goals | Gravity Gym achieves this by
-  --- | ---
-  To find basic information about the gym e.g. opening times and location | Providing a section on the website that is dedicated to basic information (footer)
-  To find out what previous and current users think about the gym and users experience with the gym | Providing a section which contains gym members feedback (testimonial section)
-  To find out what facilities the gym offers | Providing a section which contains the facilities they provide (facilities)
-  To find out what the membership plans are and if they are a good deal. | Providing a page dedicated for membership plans. 
-  To find out more details about the classes the gym offers and their timings | Providing a page dedicated for classes that will be available and at what times. The same page entails information on other schedules. 
-  To have the ability to get in touch with the gym with any more questions | Providing a page that members will be able to contact the gym when needed. 
-  To have access to the social media profiles | Providing social links at the footer of the webpage. 
-  To be able to easily access the website | Providing a navigation menu will be at the top of the page, easily accessible and user friendly. 
+Clients Goals                                                                                     | Gravity Gym achieves this by
+--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------
+To find basic information about the gym e.g. opening times and location                           | Providing a section on the website that is dedicated to basic information (footer)
+To find out what previous and current users think about the gym and users experience with the gym | Providing a section which contains gym members feedback (testimonial section)
+To find out what facilities the gym offers                                                        | Providing a section which contains the facilities they provide (facilities)
+To find out what the membership plans are and if they are a good deal.                            | Providing a page dedicated for membership plans.
+To find out more details about the classes the gym offers and their timings                       | Providing a page dedicated for classes that will be available and at what times. The same page entails information on other schedules.
+To have the ability to get in touch with the gym with any more questions                          | Providing a page that members will be able to contact the gym when needed.
+To have access to the social media profiles                                                       | Providing social links at the footer of the webpage.
+To be able to easily access the website                                                           | Providing a navigation menu will be at the top of the page, easily accessible and user friendly.
 
 [BACK TO TOP](#table-of-contents)
 
@@ -84,13 +84,13 @@ The following table shows the goals of current and potential gym members and how
 
 The following table shows business goals and how it can be achieved through this website. 
 
-Business Goals | Gravity Gym achieves this by
- --- | ---
-Reach out to as many locals as possible | Providing website users with the address of the gym that is easily accessible (footer)  
-Attract new gym members | Providing potential gym members with information about the website such as facilities they provide and feedbacks from previous and current users. Also provide users with offers. 
-Prove reliability and trustworthiness | Provide website users with feedbacks from previous and current users. Also provide users with social links.  
-Retain current gym members | Provide current gym members easy access to information such as opening hours and timetables.  
-Growth in the quantity of new users expressing interest | To measure this, gravity gym provides a contact us page. 
+Business Goals                                          | Gravity Gym achieves this by
+--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Reach out to as many locals as possible                 | Providing website users with the address of the gym that is easily accessible (footer)
+Attract new gym members                                 | Providing potential gym members with information about the website such as facilities they provide and feedbacks from previous and current users. Also provide users with offers.
+Prove reliability and trustworthiness                   | Provide website users with feedbacks from previous and current users. Also provide users with social links.
+Retain current gym members                              | Provide current gym members easy access to information such as opening hours and timetables.
+Growth in the quantity of new users expressing interest | To measure this, gravity gym provides a contact us page.
 
 
 [BACK TO TOP](#table-of-contents)
@@ -255,9 +255,9 @@ The wireframe designed is similar to my final product, however, there are some d
 
 **Results:**
 
-|Device design          |Desired Results            |Final Results          |
-|-----------------------|---------------------------|-----------------------|
-|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-hamburger-1.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-header-2.png)      |
+| Device design | Desired Results                                                        | Final Results                                                       |
+|---------------|------------------------------------------------------------------------|---------------------------------------------------------------------|
+| **Mobile**    | ![Screenshot](/assets/images/readme/wireframes/mobile-hamburger-1.png) | ![Screenshot](/assets/images/readme/wireframes/mobile-header-2.png) |
 
 </details>
 
@@ -274,11 +274,11 @@ The wireframe designed is similar to my final product, however, there are some d
 
 **Results:**
 
-|Device design          |Desired Results            |Final Results          |
-|-----------------------|---------------------------|-----------------------|
-|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-pt-1.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-pt-2.png)      |
-|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-pt-1.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-pt-2.png)      |
-|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-pt-1.png) |![Screenshot](/assets/images/readme/wireframes/desktop-pt-2.png)     |
+| Device design | Desired Results                                                  | Final Results                                                    |
+|---------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| **Mobile**    | ![Screenshot](/assets/images/readme/wireframes/mobile-pt-1.png)  | ![Screenshot](/assets/images/readme/wireframes/mobile-pt-2.png)  |
+| **Tablet**    | ![Screenshot](/assets/images/readme/wireframes/tablet-pt-1.png)  | ![Screenshot](/assets/images/readme/wireframes/tablet-pt-2.png)  |
+| **Desktop**   | ![Screenshot](/assets/images/readme/wireframes/desktop-pt-1.png) | ![Screenshot](/assets/images/readme/wireframes/desktop-pt-2.png) |
 
 </details>
 
@@ -294,11 +294,11 @@ The wireframe designed is similar to my final product, however, there are some d
 <br>
 
 **Results:**
-|Device design          |Desired Results            |Final Results          |
-|-----------------------|---------------------------|-----------------------|
-|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-facilities-1.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-facilities-2.png)      |
-|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-facilities-1.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-facilities-2.png)      |
-|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-facilities-1.png) |![Screenshot](/assets/images/readme/wireframes/desktop-facilities-2.png)     |
+| Device design | Desired Results                                                          | Final Results                                                            |
+|---------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **Mobile**    | ![Screenshot](/assets/images/readme/wireframes/mobile-facilities-1.png)  | ![Screenshot](/assets/images/readme/wireframes/mobile-facilities-2.png)  |
+| **Tablet**    | ![Screenshot](/assets/images/readme/wireframes/tablet-facilities-1.png)  | ![Screenshot](/assets/images/readme/wireframes/tablet-facilities-2.png)  |
+| **Desktop**   | ![Screenshot](/assets/images/readme/wireframes/desktop-facilities-1.png) | ![Screenshot](/assets/images/readme/wireframes/desktop-facilities-2.png) |
 
 </details>
 
@@ -316,11 +316,11 @@ The wireframe designed is similar to my final product, however, there are some d
 <br>
 
 **Results:**
-|Device design          |Desired Results            |Final Results          |
-|-----------------------|---------------------------|-----------------------|
-|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-queries-1.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-queries-2.png)      |
-|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-queries-1.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-queries-2.png)      |
-|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-queries-1.png) |![Screenshot](/assets/images/readme/wireframes/desktop-queries-2.png)     |
+| Device design | Desired Results                                                       | Final Results                                                         |
+|---------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| **Mobile**    | ![Screenshot](/assets/images/readme/wireframes/mobile-queries-1.png)  | ![Screenshot](/assets/images/readme/wireframes/mobile-queries-2.png)  |
+| **Tablet**    | ![Screenshot](/assets/images/readme/wireframes/tablet-queries-1.png)  | ![Screenshot](/assets/images/readme/wireframes/tablet-queries-2.png)  |
+| **Desktop**   | ![Screenshot](/assets/images/readme/wireframes/desktop-queries-1.png) | ![Screenshot](/assets/images/readme/wireframes/desktop-queries-2.png) |
 
 </details>
 
@@ -338,11 +338,11 @@ The wireframe designed is similar to my final product, however, there are some d
 <br>
 
 **Results:**
-|Device design          |Desired Results            |Final Results          |
-|-----------------------|---------------------------|-----------------------|
-|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-schedules-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-schedules-1.png)      |
-|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-schedules-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-schedules-1.png)      |
-|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-schedules-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-schedules-1.png)     |
+| Device design | Desired Results                                                         | Final Results                                                           |
+|---------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Mobile**    | ![Screenshot](/assets/images/readme/wireframes/mobile-schedules-2.png)  | ![Screenshot](/assets/images/readme/wireframes/mobile-schedules-1.png)  |
+| **Tablet**    | ![Screenshot](/assets/images/readme/wireframes/tablet-schedules-2.png)  | ![Screenshot](/assets/images/readme/wireframes/tablet-schedules-1.png)  |
+| **Desktop**   | ![Screenshot](/assets/images/readme/wireframes/desktop-schedules-2.png) | ![Screenshot](/assets/images/readme/wireframes/desktop-schedules-1.png) |
 
 </details>
 
@@ -358,11 +358,11 @@ The wireframe designed is similar to my final product, however, there are some d
 <br>
 
 **Results:**
-|Device design          |Desired Results            |Final Results          |
-|-----------------------|---------------------------|-----------------------|
-|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-contactus-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-contactus-1.png)      |
-|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-contactus-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-contactus-1.png)      |
-|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-contactus-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-contactus-1.png)     |
+| Device design | Desired Results                                                         | Final Results                                                           |
+|---------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Mobile**    | ![Screenshot](/assets/images/readme/wireframes/mobile-contactus-2.png)  | ![Screenshot](/assets/images/readme/wireframes/mobile-contactus-1.png)  |
+| **Tablet**    | ![Screenshot](/assets/images/readme/wireframes/tablet-contactus-2.png)  | ![Screenshot](/assets/images/readme/wireframes/tablet-contactus-1.png)  |
+| **Desktop**   | ![Screenshot](/assets/images/readme/wireframes/desktop-contactus-2.png) | ![Screenshot](/assets/images/readme/wireframes/desktop-contactus-1.png) |
 
 </details>
 
@@ -378,11 +378,11 @@ The wireframe designed is similar to my final product, however, there are some d
 <br>
 
 **Results:**
-|Device design          |Desired Results            |Final Results          |
-|-----------------------|---------------------------|-----------------------|
-|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-contactpara-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-contactpara-1.png)      |
-|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-contactpara-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-contactpara-1.png)      |
-|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-contactpara-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-contactpara-1.png)     |
+| Device design | Desired Results                                                           | Final Results                                                             |
+|---------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **Mobile**    | ![Screenshot](/assets/images/readme/wireframes/mobile-contactpara-2.png)  | ![Screenshot](/assets/images/readme/wireframes/mobile-contactpara-1.png)  |
+| **Tablet**    | ![Screenshot](/assets/images/readme/wireframes/tablet-contactpara-2.png)  | ![Screenshot](/assets/images/readme/wireframes/tablet-contactpara-1.png)  |
+| **Desktop**   | ![Screenshot](/assets/images/readme/wireframes/desktop-contactpara-2.png) | ![Screenshot](/assets/images/readme/wireframes/desktop-contactpara-1.png) |
 
 </details>
 
@@ -398,11 +398,11 @@ The wireframe designed is similar to my final product, however, there are some d
 <br>
 
 **Results:**
-|Device design          |Desired Results            |Final Results          |
-|-----------------------|---------------------------|-----------------------|
-|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-footer-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-footer-1.png)      |
-|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-footer-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-footer-1.png)      |
-|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-footer-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-footer-1.png)     |
+| Device design | Desired Results                                                      | Final Results                                                        |
+|---------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Mobile**    | ![Screenshot](/assets/images/readme/wireframes/mobile-footer-2.png)  | ![Screenshot](/assets/images/readme/wireframes/mobile-footer-1.png)  |
+| **Tablet**    | ![Screenshot](/assets/images/readme/wireframes/tablet-footer-2.png)  | ![Screenshot](/assets/images/readme/wireframes/tablet-footer-1.png)  |
+| **Desktop**   | ![Screenshot](/assets/images/readme/wireframes/desktop-footer-2.png) | ![Screenshot](/assets/images/readme/wireframes/desktop-footer-1.png) |
 
 </details>
 
@@ -419,11 +419,11 @@ The wireframe designed is similar to my final product, however, there are some d
 <br>
 
 **Results:**
-|Device design          |Desired Results            |Final Results          |
-|-----------------------|---------------------------|-----------------------|
-|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-footer-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-footer-1.png)      |
-|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-footer-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-footer-1.png)      |
-|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-footer-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-footer-1.png)     |
+| Device design | Desired Results                                                      | Final Results                                                        |
+|---------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Mobile**    | ![Screenshot](/assets/images/readme/wireframes/mobile-footer-2.png)  | ![Screenshot](/assets/images/readme/wireframes/mobile-footer-1.png)  |
+| **Tablet**    | ![Screenshot](/assets/images/readme/wireframes/tablet-footer-2.png)  | ![Screenshot](/assets/images/readme/wireframes/tablet-footer-1.png)  |
+| **Desktop**   | ![Screenshot](/assets/images/readme/wireframes/desktop-footer-2.png) | ![Screenshot](/assets/images/readme/wireframes/desktop-footer-1.png) |
 
 </details>
 
@@ -789,13 +789,13 @@ The following websites were used to gather ideas on how to design the website an
 
 ### Content
 
-|Content Used           |Location           |Original Link          |Comments           |
-|-----------------------|-------------------|-----------------------|-------------------|
-|**Feedback** | Home | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)| Testimonial for Sara Thomas. Date of experience: 02 July 2024 |
-|**Feedback** |  Home | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3) | Testimonial for Sam Oneal. Date of experience: 08 July 2024|
-|**Feedback** |  Home | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)| Testimonial for Mark Duncan. Date of experience: 05 July 2024|
-|**Feedback** |  Home | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=6) | Testimonial for Sara Thomas. Date of experience: 03 July 2024|
-|**Timetable** |  Schedules | [Link](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/) | Schedule content was obtained from this website| 
+| Content Used  | Location  | Original Link                                                                    | Comments                                                      |
+|---------------|-----------|----------------------------------------------------------------------------------|---------------------------------------------------------------|
+| **Feedback**  | Home      | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)              | Testimonial for Sara Thomas. Date of experience: 02 July 2024 |
+| **Feedback**  | Home      | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)              | Testimonial for Sam Oneal. Date of experience: 08 July 2024   |
+| **Feedback**  | Home      | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)              | Testimonial for Mark Duncan. Date of experience: 05 July 2024 |
+| **Feedback**  | Home      | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=6)              | Testimonial for Sara Thomas. Date of experience: 03 July 2024 |
+| **Timetable** | Schedules | [Link](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/) | Schedule content was obtained from this website               |
 
 [BACK TO TOP](#table-of-contents)
 
@@ -805,21 +805,21 @@ The following websites were used to gather ideas on how to design the website an
 
 A range of images were used from various websites. The link from where the images were sourced has been referenced here:
 
-|Media Used           |Location           |Original Link          |
-|-----------------------|-------------------|-----------------------|
-|**Logo** | All pages | [Link](https://pngtree.com/freepng/gym-vector-design_8875711.html)|
-|**Full width Image** | Home | [Link](https://topflexfitness.co.uk/cdn/shop/files/Untitled_design_-_2024-05-24T113406.722-min.jpg?v=1716546925&width=2000)|
-|**Getting Started** | Home | [Link](https://stablediffusionweb.com/fr/image/6614364-hyper-realistic-gym-workout)|
-|**Personal Trainer** | Home | [Link](https://www.revolution-pts.com/locations/personal-trainer-withdean-sports-complex)|
-|**Mark Duncan** | Home | [Link](https://www.freepik.com/premium-ai-image/photo-young-adult-doing-indoor-sport-gym_121273542.htm)|
-|**Sam Oneal**  | Home | [Link](https://www.freepik.com/premium-ai-image/healthy-muscular-man-showing-thumbs-up-looking-into-lens-smiling-gym_138039830.htm)|
-|**Sara Thomas** | Home | [Link](https://fr.freepik.com/photos-premium/belle-femme-athletique-souriante-entraineur-fitness-dans-salle-gym-musculation-sportive-s-entrainer_60873461.htm)|
-|**India Nixon** | Home | [Link](https://img.freepik.com/photos-premium/femme-parle-au-telephone-dans-salle-sport_826801-2792.jpg)|
-|**Gallery Media** | Gallery | [Link](https://www.b3fitness.co.uk/)|
-|**Gallery Media** | Gallery | [Link](https://www.panthersgym.com/)|
-|**Question** | Contact Us| [Link](https://www.vectorstock.com/royalty-free-vector/doodle-question-mark-vector-35835864)|
-|**Most commonly used browser Statistics** | Testing.md | [Link](https://gs.statcounter.com/browser-market-share)|
-|**Colour pallet** | Readme.md | [Link](https://www.colour-hex.com/colour/b2f71d)|
+| Media Used                                | Location   | Original Link                                                                                                                                                  |
+|-------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Logo**                                  | All pages  | [Link](https://pngtree.com/freepng/gym-vector-design_8875711.html)                                                                                             |
+| **Full width Image**                      | Home       | [Link](https://topflexfitness.co.uk/cdn/shop/files/Untitled_design_-_2024-05-24T113406.722-min.jpg?v=1716546925&width=2000)                                    |
+| **Getting Started**                       | Home       | [Link](https://stablediffusionweb.com/fr/image/6614364-hyper-realistic-gym-workout)                                                                            |
+| **Personal Trainer**                      | Home       | [Link](https://www.revolution-pts.com/locations/personal-trainer-withdean-sports-complex)                                                                      |
+| **Mark Duncan**                           | Home       | [Link](https://www.freepik.com/premium-ai-image/photo-young-adult-doing-indoor-sport-gym_121273542.htm)                                                        |
+| **Sam Oneal**                             | Home       | [Link](https://www.freepik.com/premium-ai-image/healthy-muscular-man-showing-thumbs-up-looking-into-lens-smiling-gym_138039830.htm)                            |
+| **Sara Thomas**                           | Home       | [Link](https://fr.freepik.com/photos-premium/belle-femme-athletique-souriante-entraineur-fitness-dans-salle-gym-musculation-sportive-s-entrainer_60873461.htm) |
+| **India Nixon**                           | Home       | [Link](https://img.freepik.com/photos-premium/femme-parle-au-telephone-dans-salle-sport_826801-2792.jpg)                                                       |
+| **Gallery Media**                         | Gallery    | [Link](https://www.b3fitness.co.uk/)                                                                                                                           |
+| **Gallery Media**                         | Gallery    | [Link](https://www.panthersgym.com/)                                                                                                                           |
+| **Question**                              | Contact Us | [Link](https://www.vectorstock.com/royalty-free-vector/doodle-question-mark-vector-35835864)                                                                   |
+| **Most commonly used browser Statistics** | Testing.md | [Link](https://gs.statcounter.com/browser-market-share)                                                                                                        |
+| **Colour pallet**                         | Readme.md  | [Link](https://www.colour-hex.com/colour/b2f71d)                                                                                                               |
 
 [BACK TO TOP](#table-of-contents)
 
@@ -827,18 +827,18 @@ A range of images were used from various websites. The link from where the image
 
 ### Code
 
-|Media Used             |Link               |Comments:              |
-|-----------------------|-------------------|-----------------------|
-|**Invert logo** | [Link](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/invert) | Homepage uses a logo obtained from another source. However, the background colour was black. I could have edited the logo to make it white, however, this could be time-consuming and may not give me the results I wanted. Hence this source  allowed me to invert the logo colour using css.| 
-|**Animation** | [Link](https://www.taskade.com/) | The homepage includes animation which works when content is on viewport. The animation plays every time the content comes on viewport. The code has been obtained using AI method from this website. However, the exact code can only be viewed once logged in. Hence, the code can be viewed through these images: [Image 1](/assets/images/readme/taskade-1.png), [Image 2](/assets/images/readme/taskade-2.png). The code was updated using the same source for it to be responsive for mobile devices. The code can be viewed through these images: [Image 3](/assets/images/readme/taskade-3.png), [Image 4](/assets/images/readme/taskade-4.png).|
-|**Footer** | [Link](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14) | Footer was coded to be at the bottom of the page, however, the code was making it stick. I tried using other options such as making the body position relative and footer position absolute, however it did not give me the results I wanted. The footer would appear just below the content of the web page. If the page has no content, the footer would appear below the nav, however, I wanted it to be at the bottom of the page even if there is no content. I used this website to resolve this problem.|
-|**Centering image** | [Link](https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) | I was struggling to center the image in the contact us page which act as a background for the form section. I used this source to help me position the image in the center.|
-|**Styling input fields** | [Link](https://www.w3schools.com/css/css_form.asp) | I wanted to style the input fields but I did not know how to target them. I used this source to help me target the input fields to achieve the look I want. |
-|**Tabs** | [Link](https://www.w3schools.com/howto/howto_js_tabs.asp) | Tabs was used for adding classes schedules. Tabs was used instead of tables in order to prevent overload of information at viewport. This source was used to create tabs, it is content and for it is styling. |
-|**Table Row Hover** | [Link](https://www.textfixer.com/tutorials/highlight-table-row.php) | To enable a more focused view for the row, the row is highlighted. This source is used to obtain the code for highlighting a row upon hovering the row. |
-|**Collapsible tabs for markdown** | [Link](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1a) | This source was used to get the code to collapse sections within the markdown document. Collapsible section was used due to large amount of screenshots and tables present. |
-|**Checkbox size** | [Link](https://stackoverflow.com/questions/306924/can-i-change-the-checkbox-size-using-css)  | For extra extra large devices, the checkbox appeared to be very tiny. I could not figure out how to increase the size. This source had a code which resolved the issue. |
-|**Bootstrap** | [Link](https://getbootstrap.com/docs/5.3/getting-started/introduction/) | Bootstrap was used to design the website and to make it responsive. The code from bootstrap is excessively modified to make this website as unique as possible. |
+| Media Used                        | Link                                                                                        | Comments:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Invert logo**                   | [Link](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/invert)             | Homepage uses a logo obtained from another source. However, the background colour was black. I could have edited the logo to make it white, however, this could be time-consuming and may not give me the results I wanted. Hence this source  allowed me to invert the logo colour using css.                                                                                                                                                                                                                                                                                                                                                          |
+| **Animation**                     | [Link](https://www.taskade.com/)                                                            | The homepage includes animation which works when content is on viewport. The animation plays every time the content comes on viewport. The code has been obtained using AI method from this website. However, the exact code can only be viewed once logged in. Hence, the code can be viewed through these images: [Image 1](/assets/images/readme/taskade-1.png), [Image 2](/assets/images/readme/taskade-2.png). The code was updated using the same source for it to be responsive for mobile devices. The code can be viewed through these images: [Image 3](/assets/images/readme/taskade-3.png), [Image 4](/assets/images/readme/taskade-4.png). |
+| **Footer**                        | [Link](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14)   | Footer was coded to be at the bottom of the page, however, the code was making it stick. I tried using other options such as making the body position relative and footer position absolute, however it did not give me the results I wanted. The footer would appear just below the content of the web page. If the page has no content, the footer would appear below the nav, however, I wanted it to be at the bottom of the page even if there is no content. I used this website to resolve this problem.                                                                                                                                         |
+| **Centering image**               | [Link](https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/)   | I was struggling to center the image in the contact us page which act as a background for the form section. I used this source to help me position the image in the center.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Styling input fields**          | [Link](https://www.w3schools.com/css/css_form.asp)                                          | I wanted to style the input fields but I did not know how to target them. I used this source to help me target the input fields to achieve the look I want.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Tabs**                          | [Link](https://www.w3schools.com/howto/howto_js_tabs.asp)                                   | Tabs was used for adding classes schedules. Tabs was used instead of tables in order to prevent overload of information at viewport. This source was used to create tabs, it is content and for it is styling.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Table Row Hover**               | [Link](https://www.textfixer.com/tutorials/highlight-table-row.php)                         | To enable a more focused view for the row, the row is highlighted. This source is used to obtain the code for highlighting a row upon hovering the row.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Collapsible tabs for markdown** | [Link](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1a)             | This source was used to get the code to collapse sections within the markdown document. Collapsible section was used due to large amount of screenshots and tables present.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Checkbox size**                 | [Link](https://stackoverflow.com/questions/306924/can-i-change-the-checkbox-size-using-css) | For extra extra large devices, the checkbox appeared to be very tiny. I could not figure out how to increase the size. This source had a code which resolved the issue.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Bootstrap**                     | [Link](https://getbootstrap.com/docs/5.3/getting-started/introduction/)                     | Bootstrap was used to design the website and to make it responsive. The code from bootstrap is excessively modified to make this website as unique as possible.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 [BACK TO TOP](#table-of-contents)
  
 
