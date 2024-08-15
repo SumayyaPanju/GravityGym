@@ -346,6 +346,27 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
+**<summary>Contact Us Paragraph</summary>**
+
+**Explanation:**
+
+* The actual content for paragraph is not used as designed on wireframes. 
+* This was done to keep the page simple and straightforward.
+
+<br>
+
+**Results:**
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-contactpara-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-contactpara-1.png)      |
+|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-contactpara-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-contactpara-1.png)      |
+|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-contactpara-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-contactpara-1.png)     |
+
+</details>
+
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
