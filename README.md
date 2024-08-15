@@ -407,6 +407,21 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
+**<summary>Extra Pages</summary>**
+
+The PDF document linked has designs for all pages that was initially designed when planning this project. More pages were built as the project was built due to project demand or due to feedbacks obtained from my mentor. 
+
+Following pages were added as the project was built:
+* Gallery page
+* Membership thank you page
+* Contact us page
+* 404 page
+
+</details>
+
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
