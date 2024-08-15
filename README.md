@@ -204,12 +204,13 @@ A range of images have been used throughout the website for various purposes. Fo
 
 # Wireframes
 
-* Mobile Wireframes - <a href="/assets/documents/mobile-wireframe.pdf" target="_blank">Click Here</a>
-* Tablet  Wireframes - <a href="/assets/documents/tablet-wireframe.pdf" target="_blank">Click Here</a>
-* Desktop  Wireframes - <a href="/assets/documents/desktop-wireframe.pdf" target="_blank">Click Here</a>
+* Mobile Wireframes - [Click here](/assets/documents/mobile-wireframe.pdf)
+* Tablet  Wireframes - [Click here](/assets/documents/tablet-wireframe.pdf)
+* Desktop  Wireframes - [Click here](/assets/documents/desktop-wireframe.pdf)
 
-FOR ALL PAGES
+**NOTE** For some pages 2 designs have been created. The one that looks better whilst creating the website will be used. 
 
+The wireframe designed is similar to my final product, however, there are some differences. The table below outlines the differences. The differences between the wireframes are identical across different device sizes.
 
 [BACK TO TOP](#table-of-contents)
 
