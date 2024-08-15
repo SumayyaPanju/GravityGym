@@ -366,6 +366,25 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
+**<summary>Address</summary>**
+
+**Explanation:**
+
+* Wireframe was designed to just add an address and contact number. It did not include any headings or sub-headings. 
+* Sub-headings was added to the page to make the footer consistent throughout the section, following the pattern of 'Opening hours' and 'Off peak hours'. 
+
+<br>
+
+**Results:**
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-footer-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-footer-1.png)      |
+|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-footer-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-footer-1.png)      |
+|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-footer-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-footer-1.png)     |
+
+</details>
 
 <br>
 
