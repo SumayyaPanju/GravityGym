@@ -539,6 +539,13 @@ The bottom of the footer is designed to include necessary information that users
 
 [BACK TO TOP](#table-of-contents)
 
+## Back to top button
+
+Back to top button is added on every page to allow users to scroll to the top of the page in one click. 
+
+![Screenshot](/assets/images/readme/features/back-to-top.png)
+
+[BACK TO TOP](#table-of-contents)
 
 ### Features Left to Implement
 
