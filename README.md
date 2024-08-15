@@ -194,6 +194,12 @@ Only 2 fonts was used as I wanted to keep the website simple and consistent.
 
 #### Imagery
 
+A range of images have been used throughout the website for various purposes. For example:
+* **Hero image** - is used to grab users attention
+* **Testimonial images** - to assure users that real people have left feedback which can be referenced back to, by using their names. 
+* **Gallery images** - to inform users of what the gym looks like and build an interest within the user for the gym. 
+* **Background image** - within the contact us page, to make the page slightly more interesting as this page did not include anything else. 
+
 [BACK TO TOP](#table-of-contents)
 
 # Wireframes
