@@ -386,6 +386,27 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
+**<summary>Social Icons</summary>**
+
+**Explanation:**
+
+* WWireframe has designed the social icons to be very large. 
+* When the page was designed, large social icons was not looking neat and it was not consistent with the page style. Furthermore, it caused issue with responsiveness. 
+* Hence, icons were made smaller in the final design
+
+<br>
+
+**Results:**
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-footer-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-footer-1.png)      |
+|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-footer-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-footer-1.png)      |
+|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-footer-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-footer-1.png)     |
+
+</details>
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
