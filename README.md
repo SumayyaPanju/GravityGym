@@ -482,6 +482,27 @@ Each page has a logo and the organization name. When clicked it will redirect th
 
 [BACK TO TOP](#table-of-contents)
 
+## Navigation menu
+
+Navigation bar is designed to be at the top of the page. The name used for each tabs, describes the content of the page. When selected, the user is directed to the page with one click. 
+
+On hovering, the tab and its title changes to green colour (accent colour) which informs the user that this tab can be clicked on. 
+
+On active pages, the same thing happens which informs the user that this is the page they are currently on. 
+
+The navigation menu is designed using bootstrap to make it responsive for various devices. 
+
+**For mobile devices:**<br>
+![Screenshot](/assets/images/readme/features/mobile-nav.png)<br>
+
+**For tablet devices:**<br>
+![Screenshot](/assets/images/readme/features/tablet-nav.png)<br>
+
+**For desktop devices:**<br>
+![Screenshot](/assets/images/readme/features/desktop-nav.png)<br>
+
+[BACK TO TOP](#table-of-contents)
+
 ### Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
