@@ -734,6 +734,11 @@ Animation and JavaScript is tested on all devices and works as expected.
 [BACK TO TOP](#table-of-contents)
 
 ### JavaScript - Collapsible tabs
+Schedule page includes collapsible tabs for daily schedule for classes, swimming, sauna and steam. Animation was used so that the page is not overcorwded, allowing the user to only view information that the user wants to see. Only one tab at a time can be opened throughout the page.  
+
+Animation and JavaScript is tested on all devices and works as expected.
+
+[Watch the video](/assets/images/testing/features/animation-collapsible-tabs.mp4)
 
 [BACK TO TOP](#table-of-contents)
 
