@@ -676,7 +676,7 @@ There are a couple of improvements I could make to this project:
 * [**JS Hint**](https://jshint.com/) - This tool is used to identify any errors in the JS code 
 * [**Lighthouse Audit**](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - This tool is used to evaluate my page
 * [**Wave audit**](https://wave.webaim.org/) - This tool is used to evaluate my page
-* [**Blisk**](https://blisk.io/product) - This tool was used to see how my page appears on different devices. Although this could be done through DevTool, I found that DevTool did not have the latest devices for testing purposes. Furthermore, it was a lot easier to compare different screensizes using Blisk. Blisk also allowed to see more than one device at a time. A few issues were picked up using this tool. 
+* [**Blisk**](https://blisk.io/product) - This tool was used to see how my page appears on different devices. Although this could be done through DevTool, I found that DevTool did not have the latest devices for testing purposes. Furthermore, it was a lot easier to compare different screen sizes using Blisk. Blisk also allowed to see more than one device at a time. A few issues were picked up using this tool. 
 * [**Spell Check**](https://www.online-spellcheck.com/) - This tool was used to spell check my website to minimise spelling errors. 
 
 

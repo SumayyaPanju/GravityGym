@@ -223,7 +223,7 @@ h3 {
 }
 
 /*Membership Plans*/
-.plans-containter {
+.plans-container {
     border-radius: 5px;
 }
 
@@ -235,25 +235,25 @@ h3 {
     font-size: 200%;
 }
 
-.plans-containter p {
+.plans-container p {
     text-transform: uppercase;
 }
 
-.plans-containter i {
+.plans-container i {
     font-size: larger;
 }
 
-.plans-containter p .green {
+.plans-container p .green {
     color: #b2f71d;
     ;
 }
 
-.plans-containter p .red {
+.plans-container p .red {
     color: #b2f71d;
     ;
 }
 
-.plans-containter button {
+.plans-container button {
     margin: 20px;
     padding: 10px 20px;
     text-transform: uppercase;
@@ -263,7 +263,7 @@ h3 {
     border-radius: 5px;
 }
 
-.plans-containter button:hover {
+.plans-container button:hover {
     background-color: #b2f71d;
     color: black;
 }
@@ -288,7 +288,7 @@ h3 {
     font-size: 130%;
 }
 
-.plans-containter .button:hover {
+.plans-container .button:hover {
     background-color: #b2f71d;
 }
 
@@ -728,7 +728,7 @@ footer {
     }
 
     /*Membership plans*/
-    .plans-containter {
+    .plans-container {
         border-radius: 15px;
     }
 
@@ -872,12 +872,12 @@ footer {
         padding-bottom: 30px;
     }
 
-    .plans-containter h4 {
+    .plans-container h4 {
         font-size: 400%;
         padding-bottom: 30px;
     }
 
-    .plans-containter p {
+    .plans-container p {
         padding-bottom: 20px;
     }
 
