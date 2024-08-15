@@ -33,14 +33,16 @@ Visit Live Project [here](https://sumayyapanju.github.io/GravityGym/)
 
 ---
 
-
 # Live Project
 
 Live project can be viewed [here](https://sumayyapanju.github.io/GravityGym/)
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ---
+
 # Introduction to the Project
 
 The website Gravity Gym was created for the business to advertise and enlighten both present and new gym members. This website provides existing and prospective gym members with information about the facility. 
@@ -51,6 +53,8 @@ This website provides users with basic information of the website, such as, wher
 
 Users can get in contact with the client via the contact page or by redirecting to their social media pages.
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ---
@@ -60,6 +64,8 @@ Users can get in contact with the client via the contact page or by redirecting 
 ### Project Goals
 
 The main objective is to offer a platform that helps the client and the business reach their respective objectives. The website is created with the intention of giving clients access to vital company information and bringing in more gym members for the company by advertising through this website. The table below shows clients and business goals and how Gravity Gym aims to achieve this. Different users have different expectations from this website, hence this is covered in details by focusing on what each user would want. 
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -78,6 +84,8 @@ To have the ability to get in touch with the gym with any more questions        
 To have access to the social media profiles                                                       | Providing social links at the footer of the webpage.
 To be able to easily access the website                                                           | Providing a navigation menu will be at the top of the page, easily accessible and user friendly.
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ### Business Goals
@@ -92,6 +100,7 @@ Prove reliability and trustworthiness                   | Provide website users 
 Retain current gym members                              | Provide current gym members easy access to information such as opening hours and timetables.
 Growth in the quantity of new users expressing interest | To measure this, gravity gym provides a contact us page.
 
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -108,6 +117,8 @@ As a first-time visitor:
 * I want to know what membership plans they have, what the ranges are. 
 * I would like to know what offers they have currently for new gym members 
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 #### Returning Visitor Goals
@@ -118,6 +129,8 @@ As a returning visitor:
 * I want to know if swimming is gender specific and if there are times allocated for that. 
 * I want to know what membership plans they have and the difference between their membership plans. 
 * To be able to contact the gym if needed
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -131,12 +144,11 @@ As a frequent user:
 * I want to be able to source membership information for renewal 
 * I would like to know what offers they have currently for current and previous gym members 
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
-
 # Design choices
-
-
 
 #### Color Scheme
 
@@ -176,7 +188,7 @@ For those sections where the background color is white, the font color is black.
 
 Green color is used to make certain sections standout, or to highlight a specific element. For example, links upon hover will change its color to green. This is to inform user, that this is what they are hovering on. It is also used to highlight active sections, informing users thats this is the page they are currently on. It is also used at the footer of the page, to highlight the different section of the footer. Furthermore it is used for icons on the plans page to make the comparisons table more interesting.
 
-<br>
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -190,6 +202,8 @@ These fonts were used together with CSS functions of 'font-weight' and 'letter-s
 
 Only 2 fonts was used as I wanted to keep the website simple and consistent. 
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 #### Imagery
@@ -199,6 +213,8 @@ A range of images have been used throughout the website for various purposes. Fo
 * **Testimonial images** - to assure users that real people have left feedback which can be referenced back to, by using their names. 
 * **Gallery images** - to inform users of what the gym looks like and build an interest within the user for the gym. 
 * **Background image** - within the contact us page, to make the page slightly more interesting as this page did not include anything else. 
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -211,6 +227,8 @@ A range of images have been used throughout the website for various purposes. Fo
 **NOTE** For some pages 2 designs have been created. The one that looks better whilst creating the website will be used. 
 
 The wireframe designed is similar to my final product, however, there are some differences. The table below outlines the differences. The differences between the wireframes are identical across different device sizes.
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -441,8 +459,7 @@ Following pages were added as the project was built:
 
 </details>
 
-
-<br>
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 ---
@@ -464,6 +481,7 @@ Each page has been given a specific title name. The title informs the user of th
 ![Screenshot](/assets/images/readme/features/favicon-thankyou.png)<br>
 ![Screenshot](/assets/images/readme/features/favicon-404.png)<br>
 
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -473,6 +491,8 @@ When designing each page, it is coded to include meta information for each page,
 
 ![Screenshot](/assets/images/readme/features/meta-data.png)
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ### Logo and Organization Name
@@ -480,6 +500,8 @@ When designing each page, it is coded to include meta information for each page,
 Each page has a logo and the organization name. When clicked it will redirect the user to the homepage. This is designed in this method due to users expectations and normal behavior. In general, when a user clicks on a logo or the name of the business, they are redirected to the home page. Hence the same idea is used for this website. 
 
 ![Screenshot](/assets/images/readme/features/header.png)
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -502,6 +524,8 @@ The navigation menu is designed using bootstrap to make it responsive for variou
 **For desktop devices:**<br>
 ![Screenshot](/assets/images/readme/features/desktop-nav.png)<br>
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ### Full width image 
@@ -509,6 +533,8 @@ The navigation menu is designed using bootstrap to make it responsive for variou
 The homepage has a full width image to grab users attention. It does not take up the full viewport height in order to inform the user that there is more information below this image, they need to scroll down. 
 
 ![Screenshot](/assets/images/readme/features/hero-image.png)
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -520,6 +546,8 @@ Animation and JavaScript is used to add some life to the page, creating a good e
 
 ![Screenshot](/assets/images/readme/features/gs-pt.png)
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ### JavaScript for buttons 
@@ -530,6 +558,8 @@ JavaScript is used to make the page interactive. The user is able to select a bu
 
 ![Screenshot](/assets/images/readme/features/buttons.png)
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ### Footer
@@ -538,6 +568,8 @@ The bottom of the footer is designed to include necessary information that users
 
 ![Screenshot](/assets/images/readme/features/footer.png)
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ### Back to top button
@@ -545,6 +577,8 @@ The bottom of the footer is designed to include necessary information that users
 Back to top button is added on every page to allow users to scroll to the top of the page in one click. 
 
 ![Screenshot](/assets/images/readme/features/back-to-top.png)
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -573,6 +607,8 @@ Whilst creating the website, more pages were created than anticipated. These are
 **Features:** This page includes a full width image to grab users attention. As the user scrolls down, there is a motivational quote to maintain or uplift users spirit. As the scroll down further, a message is given to the user that they are not alone, and that we can help them through the use of a personal trainer. After this, the users are informed of what facilities the gym offers, for example, free parking. As the user further scrolls down, they see what other users in the past have experienced. This whole page is designed to motivate the user and encourage them to get a membership with this gym. 
 
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 **Plans**
@@ -582,6 +618,8 @@ Whilst creating the website, more pages were created than anticipated. These are
 **Purpose:** This page aims to inform users about the different membership plans, their prices and the differences. It also informs users of existing offers.
 
 **Features:** When this page loads, the first information the user obtains is on the type of different membership plans available and the differences between them. It helps users to make an informed decision. Further down the page, there is information of offers that the gym is currently running. After that, if members have any questions, they can contact us through the contact us page. This link is provided at the bottom of the page. 
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -593,6 +631,8 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 **Features:** This page includes all the images which informs the user of what equipment and facilities are available. When clicked on the image, the image opens in a new tab. 
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 **Schedules**
@@ -602,6 +642,8 @@ Whilst creating the website, more pages were created than anticipated. These are
 **Purpose:** This page aims to inform users of the schedules for classes, swimming, sauna and steam. 
 
 **Features:** This page has 3 sections. Each section has series of button when clicked on, content is collapsed. Once collapsed, it shows schedule details such as what time and what activity is planned. When hovering over the content, the row is highlighted. This helps user read the information easily as the table does not have borders. This page also includes a pdf format for each section to allow users to have access to the schedules offline. 
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -613,6 +655,8 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 **Features:** This page has a simple contact form. When the user clicks on the input section, the background colour changes to green. This is done to make the page more exciting. Validation is added to the forms to ensure that the user fills the form correctly. For example, for email field, without @ the form cannot be submitted. 
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 **Thank you**
@@ -622,6 +666,8 @@ Whilst creating the website, more pages were created than anticipated. These are
 **Purpose:** There are 2 'Thank you' pages which acts as a feedback for users.
 
 **Features:** This is a simple website to inform the user that the form has been submitted.
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -633,6 +679,8 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 **Features:** This is a simple website to inform the user that the page they are searching for does not exist.
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ## Features Left to Implement
@@ -643,6 +691,8 @@ There are a few features that still needs to be implemented:
 3. Add a live map, and link it to google maps
 4. Add payment method for subscriptions
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 # Improvements
@@ -650,6 +700,8 @@ There are a few features that still needs to be implemented:
 There are a couple of improvements I could make to this project:
 * **Cleaner code** - A systemic approach needs to be used when coding this project. Starting with mobile first design and then going up to extra extra large devices. 
 * **Classes and IDs** - Personally designed IDs and classes could be used to design this page better. This was done during this project, however, more of it could have been done. This way, any changes that needs to be made, would need to be done once on the CSS. 
+
+<br> 
 
 [BACK TO TOP](#table-of-contents)
 
@@ -678,7 +730,6 @@ There are a couple of improvements I could make to this project:
 * [**Wave audit**](https://wave.webaim.org/) - This tool is used to evaluate my page
 * [**Blisk**](https://blisk.io/product) - This tool was used to see how my page appears on different devices. Although this could be done through DevTool, I found that DevTool did not have the latest devices for testing purposes. Furthermore, it was a lot easier to compare different screen sizes using Blisk. Blisk also allowed to see more than one device at a time. A few issues were picked up using this tool. 
 * [**Spell Check**](https://www.online-spellcheck.com/) - This tool was used to spell check my website to minimise spelling errors. 
-
 
 ---
 
@@ -715,6 +766,8 @@ The website can be deployed using this process:
 9. Once deployed, the page will display the following:
 <br>![Screenshot](/assets/images/readme/deployment/deployed.png)
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
 
 ### Forking the GitHub Repository
@@ -739,8 +792,9 @@ The repository can be copied onto your own GitHub account, the repository can be
 6. The copy of the repository is now in your GitHub account
 <br>![Screenshot](/assets/images/readme/deployment/own-repository.png)
 
-[BACK TO TOP](#table-of-contents)
+<br> 
 
+[BACK TO TOP](#table-of-contents)
 
 ### Making a Local Clone
 
@@ -773,8 +827,9 @@ The following process can be used to close the repository:
 9. Once the clone finishes, the terminal will show something similar to this:
 <br>![Screenshot](/assets/images/readme/deployment/clone-finished.png)
 
-[BACK TO TOP](#table-of-contents)
+<br> 
 
+[BACK TO TOP](#table-of-contents)
 
 ---
 
@@ -797,9 +852,9 @@ The following websites were used to gather ideas on how to design the website an
 | **Feedback**  | Home      | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=6)              | Testimonial for Sara Thomas. Date of experience: 03 July 2024 |
 | **Timetable** | Schedules | [Link](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/) | Schedule content was obtained from this website               |
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
-
-
 
 ### Media
 
@@ -821,9 +876,9 @@ A range of images were used from various websites. The link from where the image
 | **Most commonly used browser Statistics** | Testing.md | [Link](https://gs.statcounter.com/browser-market-share)                                                                                                        |
 | **Colour pallet**                         | Readme.md  | [Link](https://www.colour-hex.com/colour/b2f71d)                                                                                                               |
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
-
-
 
 ### Code
 
@@ -839,9 +894,10 @@ A range of images were used from various websites. The link from where the image
 | **Collapsible tabs for markdown** | [Link](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1a)             | This source was used to get the code to collapse sections within the markdown document. Collapsible section was used due to large amount of screenshots and tables present.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **Checkbox size**                 | [Link](https://stackoverflow.com/questions/306924/can-i-change-the-checkbox-size-using-css) | For extra extra large devices, the checkbox appeared to be very tiny. I could not figure out how to increase the size. This source had a code which resolved the issue.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Bootstrap**                     | [Link](https://getbootstrap.com/docs/5.3/getting-started/introduction/)                     | Bootstrap was used to design the website and to make it responsive. The code from bootstrap is excessively modified to make this website as unique as possible.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+<br> 
+
 [BACK TO TOP](#table-of-contents)
  
-
 ### Acknowledgements
 
 * Throughout the project, I had continuous support from:
@@ -850,29 +906,6 @@ A range of images were used from various websites. The link from where the image
     * Tutor support - which was available to us from code Institute 
     * W3 Schools - Support from there was obtained for various values and ideas 
 
+<br> 
+
 [BACK TO TOP](#table-of-contents)
-
-
-
-
-
-
-
-
-
-
-
-# delete once finished
----
-
-### After coding
-* Deployment - steps taken to deploy the website 
-    * [Refer Back to this video](https://learn.codeinstitute.net/courses/course-v1:code_institute+DIWAD_MS1+1/courseware/5cc55f6df9fe41cc8dcb4d665a251ded/8341150079674a76b87da0143c45f6f9/)
-    * site deployed to GitHub Pages 
-    * It should also include steps to run the code 
-    * Document steps to clone, install and run the code 
-
-
-
-# Complete the following tasks: 
-* [Fill out this form - not compulsory but ensures you have everything in place](https://learn.codeinstitute.net/courses/course-v1:code_institute+DIWAD_MS1+1/courseware/5cc55f6df9fe41cc8dcb4d665a251ded/8341150079674a76b87da0143c45f6f9/)

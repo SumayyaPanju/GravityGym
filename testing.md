@@ -66,9 +66,11 @@ The Table below shows screenshots of the error and warning messages from the HTM
 | **Contact Us - Thank you** | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2Fthank-you.html)                                                                                   | ![Screenshot](/assets/images/testing/validator/html-validator-thankyou-after.png)  | **No error**<br><br> Duplicate title was removed                                                                                                                                                                                                                                                                                                      |
 | **404**                    | [Results page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2F404.html)                                                                                         | ![Screenshots](/assets/images/testing/validator/html-validator-404-after.png)      | **No error**<br><br>Button element changed to div element                                                                                                                                                                                                                                                                                             |
 </details>
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
+
 ### CSS
 
 >Click below, on the relevant headings to expand
@@ -82,6 +84,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 | **style.css** | [Result page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsumayyapanju.github.io%2FGravityGym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![Screenshot](/assets/images/testing/validator/css-validator.png) | No error found. |
 
 </details>
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
@@ -99,6 +102,7 @@ The Table below shows screenshots of the error and warning messages from the HTM
 | **script.js** | ![Screenshot](/assets/images/testing/validator/js-validator.png) | 6 warnings found. However, unable to resolve it due to lack of knowledge in JavaScript. |
 
 </details>
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
@@ -220,9 +224,11 @@ Samsung Internet is a mobile phone browser. Attempts were made to download [Blue
 | **404**                   | ![Screenshot](/assets/images/testing/browser-compatibility/opera-404.png)                                                                                                                                                                                                                                                                                                                                                                                                     | Works as expected |
 
 </details>
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
+
 ## Responsiveness
 
 To test the responsiveness of GravityGym, DevTools is used. The Device is tested at different breakpoints based on Bootstrap that was used to design this project.
@@ -477,6 +483,7 @@ The following devices have been chosen to be tested:
 <br>
 
 [BACK TO TOP](#table-of-contents)
+
 <br>
 
 ## Lighthouse Audit 
@@ -547,9 +554,11 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 >![Screenshot](/assets/images/testing/audits/m-diagnostic-results.png)
 
 </details>
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
+
 ## Wave Web Accessibility Evaluation
 
 [WAVE](https://wave.webaim.org/) is another evaluation tool which evaluates the web page and it also helps developers make content more accessible to individuals with special needs. It can be used with or without the extension. 
@@ -577,6 +586,7 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 <br>
 
 [BACK TO TOP](#table-of-contents)
+
 ## User Story Testing 
 
 Tests are carried out to ensure that the website designed serves it purposes for first time, returning and frequent users. 
@@ -731,6 +741,8 @@ Animation and JavaScript is tested on all devices and works as expected.
 
 [Watch the video](https://www.youtube.com/watch?v=bjPXpX6Hi7g)
 
+<br>
+
 [BACK TO TOP](#table-of-contents)
 
 ### JavaScript - Collapsible tabs
@@ -739,6 +751,8 @@ Schedule page includes collapsible tabs for daily schedule for classes, swimming
 Animation and JavaScript is tested on all devices and works as expected.
 
 [Watch the video](https://www.youtube.com/watch?v=4yrHrHlrXAY)
+
+<br>
 
 [BACK TO TOP](#table-of-contents)
 
