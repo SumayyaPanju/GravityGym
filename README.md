@@ -474,6 +474,13 @@ When designing each page, it is coded to include meta information for each page,
 
 [BACK TO TOP](#table-of-contents)
 
+## Logo and Organization Name
+
+Each page has a logo and the organization name. When clicked it will redirect the user to the homepage. This is designed in this method due to users expectations and normal behavior. In general, when a user clicks on a logo or the name of the business, they are redirected to the home page. Hence the same idea is used for this website. 
+
+![Screenshot](/assets/images/readme/features/header.png)
+
+[BACK TO TOP](#table-of-contents)
 
 ### Features Left to Implement
 
