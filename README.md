@@ -262,6 +262,26 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
+**<summary>Facilities</summary>**
+
+**Explanation:**
+
+* Wireframe was designed the facilities section to be of 3-4 columns. 
+* However when designing it, the facilities section looked very crowded. Hence the facility section is designed to be 2 columns instead of 3-4 columns.
+
+<br>
+
+**Results:**
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-facilities-1.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-facilities-2.png)      |
+|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-facilities-1.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-facilities-2.png)      |
+|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-facilities-1.png) |![Screenshot](/assets/images/readme/wireframes/desktop-facilities-2.png)     |
+
+</details>
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
