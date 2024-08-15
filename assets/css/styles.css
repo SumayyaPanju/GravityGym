@@ -637,6 +637,10 @@ footer {
     padding-right: 10px;
 }
 
+#social-icons a:hover {
+    color: #b2f71d
+}
+
 #copyright-section {
     text-align: center;
     padding: 10px;
