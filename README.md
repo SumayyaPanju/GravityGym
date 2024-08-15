@@ -584,6 +584,17 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 [BACK TO TOP](#table-of-contents)
 
+**Gallery**
+
+![Screenshots](/assets/images/readme/features/gallery.png)
+
+**Purpose:** This page aims to show users what the gym looks like, what equipment and facilities are available. 
+
+**Features:** This page includes all the images which informs the user of what equipment and facilities are available. When clicked on the image, the image opens in a new tab. 
+
+[BACK TO TOP](#table-of-contents)
+
+
 ## Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
