@@ -604,6 +604,16 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 [BACK TO TOP](#table-of-contents)
 
+**Contact Us**
+
+![Screenshots](/assets/images/readme/features/contact-us.png)
+
+**Purpose:** This page aims to provide a platform for users to be able to contact the business if they have any queries
+
+**Features:** This page has a simple contact form. When the user clicks on the input section, the background colour changes to green. This is done to make the page more exciting. Validation is added to the forms to ensure that the user fills the form correctly. For example, for email field, without @ the form cannot be submitted. 
+
+[BACK TO TOP](#table-of-contents)
+
 ## Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
