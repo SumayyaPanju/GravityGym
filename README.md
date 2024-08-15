@@ -723,6 +723,35 @@ The website can be deployed using this process:
 
 ### Making a Local Clone
 
+The following process can be used to close the repository:
+
+1. Login to [GitHub](https://github.com/)
+<br>![Screenshot](/assets/images/readme/deployment/login.png)
+
+2. Using the search bar go to this repository: **SumayyaPanju/GravityGym**
+<br>![Screenshot](/assets/images/readme/deployment/search.png)
+
+3. Select the repository 
+<br>![Screenshot](/assets/images/readme/deployment/select.png)
+
+4. Select 'Code' and then select 'Local'. The select how you would like to clone it: HTTPS, SSH or GitHub CLI. Then copy the link
+<br>![Screenshot](/assets/images/readme/deployment/code.png)
+
+5. Select how you would like to clone it: HTTPS, SSH or GitHub CLI. Then copy the link
+<br>![Screenshot](/assets/images/readme/deployment/https.png)
+
+6. Open your preferred code editor and open 'Terminal'
+<br>![Screenshot](/assets/images/readme/deployment/terminal.png)
+
+7. In the terminal section type and paste the url: 'git clone url' and then press enter
+<br>![Screenshot](/assets/images/readme/deployment/terminal-url.png)
+
+8. Once the clone begins, the terminal will show something similar to this:
+<br>![Screenshot](/assets/images/readme/deployment/clone-starts.png)
+
+9. Once the clone finishes, the terminal will show something similar to this:
+<br>![Screenshot](/assets/images/readme/deployment/clone-finished.png)
+
 [BACK TO TOP](#table-of-contents)
 
 
