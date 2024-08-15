@@ -594,6 +594,15 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 [BACK TO TOP](#table-of-contents)
 
+**Schedules**
+
+![Screenshots](/assets/images/readme/features/schedules.png)
+
+**Purpose:** This page aims to inform users of the schedules for classes, swimming, sauna and steam. 
+
+**Features:** This page has 3 sections. Each section has series of button when clicked on, content is collapsed. Once collapsed, it shows schedule details such as what time and what activity is planned. When hovering over the content, the row is highlighted. This helps user read the information easily as the table does not have borders. This page also includes a pdf format for each section to allow users to have access to the schedules offline. 
+
+[BACK TO TOP](#table-of-contents)
 
 ## Features Left to Implement
 
