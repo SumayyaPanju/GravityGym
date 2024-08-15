@@ -521,6 +521,15 @@ Animation and JavaScript is used to add some life to the page, creating a good e
 
 [BACK TO TOP](#table-of-contents)
 
+## JavaScript for buttons 
+
+Animation is added to the page using CSS stylings. When the buttons are selected, the content collapses and comes into the users viewport. 
+
+JavaScript is used to make the page interactive. The user is able to select a button and the content displays as feedback. This keeps the page exciting.
+
+![Screenshot](/assets/images/readme/features/buttons.png)
+
+[BACK TO TOP](#table-of-contents)
 
 ### Features Left to Implement
 
