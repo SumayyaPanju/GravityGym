@@ -148,7 +148,7 @@ The following color theme was used:
 
 |Red        |Black          |White          |
 |-----------|---------------|---------------|
-|![Screenshot](/assets/images/screenshots/color-theme-red.png)|![Screenshot](/assets/images/screenshots/color-theme-black.png)|![Screenshot](/assets/images/screenshots/color-theme-white.png)
+|![Screenshot](/assets/images/readme/wireframes/color-theme-red.png)|![Screenshot](/assets/images/readme/wireframes/color-theme-black.png)|![Screenshot](/assets/images/readme/wireframes/color-theme-white.png)
 
 **FINAL COLOR SCHEME**
 
@@ -160,7 +160,7 @@ Hence, my final color scheme for this project is:
 
 |Green        |Black          |White          |
 |-----------|---------------|---------------|
-|![Screenshot](/assets/images/screenshots/color-theme-green.png)|![Screenshot](/assets/images/screenshots/color-theme-black.png)|![Screenshot](/assets/images/screenshots/color-theme-white.png)
+|![Screenshot](/assets/images/readme/wireframes/color-theme-green.png)|![Screenshot](/assets/images/readme/wireframes/color-theme-black.png)|![Screenshot](/assets/images/readme/wireframes/color-theme-white.png)
 
 
 A three color rule is used for this website:
