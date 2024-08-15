@@ -503,6 +503,14 @@ The navigation menu is designed using bootstrap to make it responsive for variou
 
 [BACK TO TOP](#table-of-contents)
 
+## Full width image 
+
+The homepage has a full width image to grab users attention. It does not take up the full viewport height in order to inform the user that there is more information below this image, they need to scroll down. 
+
+![Screenshot](/assets/images/readme/features/hero-image.png)
+
+[BACK TO TOP](#table-of-contents)
+
 ### Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
