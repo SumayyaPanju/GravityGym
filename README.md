@@ -725,20 +725,24 @@ The following websites were used to gather ideas on how to design the website an
 
 A range of images were used from various websites. The link from where the images were sourced has been referenced here:
 
-* **Logo** - [Visit Original Source Here](https://pngtree.com/freepng/gym-vector-design_8875711.html)
-* **Full width Image** - [Visit Original Source Here](https://topflexfitness.co.uk/cdn/shop/files/Untitled_design_-_2024-05-24T113406.722-min.jpg?v=1716546925&width=2000)
-* **Getting Started** - [Visit Original Source Here](https://stablediffusionweb.com/fr/image/6614364-hyper-realistic-gym-workout)
-* **Personal Trainer** - [Visit Original Source Here](https://www.revolution-pts.com/locations/personal-trainer-withdean-sports-complex)
-* **Mark Duncan** In testimonial section- [Visit Original Source Here](https://www.freepik.com/premium-ai-image/photo-young-adult-doing-indoor-sport-gym_121273542.htm)
-* **Sam Oneal** In testimonial section- [Visit Original Source Here](https://www.freepik.com/premium-ai-image/healthy-muscular-man-showing-thumbs-up-looking-into-lens-smiling-gym_138039830.htm)
-* **Sara Thomas** In testimonial section- [Visit Original Source Here](https://fr.freepik.com/photos-premium/belle-femme-athletique-souriante-entraineur-fitness-dans-salle-gym-musculation-sportive-s-entrainer_60873461.htm)
-* **India Nixon** In testimonial section- [Visit Original Source Here](https://img.freepik.com/photos-premium/femme-parle-au-telephone-dans-salle-sport_826801-2792.jpg)
-* **Gallery Media** - In gallery section, two websites were used. [Visit Original Source Here - Website 1](https://www.b3fitness.co.uk/) [Visit Original Source Here - Website 2](https://www.panthersgym.com/)
-* **Question** In contact us section [Visit Original Source Here](https://www.vectorstock.com/royalty-free-vector/doodle-question-mark-vector-35835864)
-* **Most commonly used browser Statistics** [View resource here](https://gs.statcounter.com/browser-market-share)
-* **Color pallet** - [This website](https://www.color-hex.com/color/b2f71d) is used to obtain the screenshot of the color themes used for this project. This screenshot is used in README document under color themes. 
+|Media Used           |Location           |Original Link          |
+|-----------------------|-------------------|-----------------------|
+|**Logo** | All pages | [Link](https://pngtree.com/freepng/gym-vector-design_8875711.html)|
+|**Full width Image** | Home | [Link](https://topflexfitness.co.uk/cdn/shop/files/Untitled_design_-_2024-05-24T113406.722-min.jpg?v=1716546925&width=2000)|
+|**Getting Started** | Home | [Link](https://stablediffusionweb.com/fr/image/6614364-hyper-realistic-gym-workout)|
+|**Personal Trainer** | Home | [Link](https://www.revolution-pts.com/locations/personal-trainer-withdean-sports-complex)|
+|**Mark Duncan** | Home | [Link](https://www.freepik.com/premium-ai-image/photo-young-adult-doing-indoor-sport-gym_121273542.htm)|
+|**Sam Oneal**  | Home | [Link](https://www.freepik.com/premium-ai-image/healthy-muscular-man-showing-thumbs-up-looking-into-lens-smiling-gym_138039830.htm)|
+|**Sara Thomas** | Home | [Link](https://fr.freepik.com/photos-premium/belle-femme-athletique-souriante-entraineur-fitness-dans-salle-gym-musculation-sportive-s-entrainer_60873461.htm)|
+|**India Nixon** | Home | [Link](https://img.freepik.com/photos-premium/femme-parle-au-telephone-dans-salle-sport_826801-2792.jpg)|
+|**Gallery Media** | Gallery | [Link](https://www.b3fitness.co.uk/)|
+|**Gallery Media** | Gallery | [Link](https://www.panthersgym.com/)|
+|**Question** | Contact Us| [Link](https://www.vectorstock.com/royalty-free-vector/doodle-question-mark-vector-35835864)|
+|**Most commonly used browser Statistics** | Testing.md | [Link](https://gs.statcounter.com/browser-market-share)|
+|**Colour pallet** | Readme.md | [Link](https://www.colour-hex.com/colour/b2f71d)|
 
 [BACK TO TOP](#table-of-contents)
+
 
 
 ### Code
