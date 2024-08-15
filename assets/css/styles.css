@@ -626,6 +626,10 @@ footer {
     text-transform: uppercase;
 }
 
+#footer-phone{
+    color: black;
+}
+
 #social-icons a {
     text-decoration: none;
     color: white;
