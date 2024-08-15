@@ -111,6 +111,8 @@ Based on research, the most commonly used browsers in 2024 are:
 5. Samsung Internet (2.59%)
 6. Opera (2.06%)
 
+>Click below, on the relevant headings to expand
+
 <details>
 
 >Click below, on the relevant headings to expand
@@ -449,6 +451,8 @@ The test is carried out for extra extra large devices such as extra extra large 
 
 Further tests were carried out for responsiveness. This was carried out using [Blisk](https://blisk.io/product). For each device group, a screen recording is taken instead of screenshots.  
 
+>Click below, on the relevant headings to expand
+
 <details>
 
 **<summary>Blisk results</summary>**
@@ -467,6 +471,8 @@ The following devices have been chosen to be tested:
 | **macOS-= - Large**                   | Largest iMac at 3200px                  | This is the largest iMac size available on Blisk| [Watch the video](/assets/images/testing/responsiveness/macOS-l.mp4) |All pages are responsive. |
 
 </details>
+
+<br>
 
 [BACK TO TOP](#table-of-contents)
 <br>
@@ -572,6 +578,8 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 ## User Story Testing 
 
 Tests are carried out to ensure that the website designed serves it purposes for first time, returning and frequent users. 
+
+>Click below, on the relevant headings to expand
 
 <details>
 
@@ -1010,6 +1018,8 @@ The following bugs were identified whilst creating the website. These bugs were 
 [BACK TO TOP](#table-of-contents)
 
 ## Unsolved Bugs 
+
+>Click below, on the relevant headings to expand
 
 <details>
 
