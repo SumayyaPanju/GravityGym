@@ -449,6 +449,21 @@ Following pages were added as the project was built:
 # Features
 ### Existing Features
 
+## Favicon and title
+
+A favicon is added for all of the pages. Favicon is used to help users locate the website when users have various tabs open at one time. 
+
+Each page has been given a specific title name. The title informs the user of the content of the page, what the page is about. This information is also used by the search engine. 
+
+![Screenshot](/assets/images/readme/features/favicon-home.png)<br>
+![Screenshot](/assets/images/readme/features/favicon-plans.png)<br>
+![Screenshot](/assets/images/readme/features/favicon-gallery.png)<br>
+![Screenshot](/assets/images/readme/features/favicon-schedules.png)<br>
+![Screenshot](/assets/images/readme/features/favicon-contactus.png)<br>
+![Screenshot](/assets/images/readme/features/favicon-thankyou.png)<br>
+![Screenshot](/assets/images/readme/features/favicon-404.png)<br>
+
+
 [BACK TO TOP](#table-of-contents)
 
 ### Features Left to Implement
