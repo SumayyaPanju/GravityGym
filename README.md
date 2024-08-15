@@ -466,6 +466,15 @@ Each page has been given a specific title name. The title informs the user of th
 
 [BACK TO TOP](#table-of-contents)
 
+## Meta Data
+
+When designing each page, it is coded to include meta information for each page, within the head element of the page. Meta information is used for SEO purposes. 
+
+![Screenshot](/assets/images/readme/features/meta-data.png)
+
+[BACK TO TOP](#table-of-contents)
+
+
 ### Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
