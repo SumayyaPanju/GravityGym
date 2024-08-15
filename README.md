@@ -304,6 +304,29 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
+**<summary>Swimming, Sauna and Steam</summary>**
+
+**Explanation:**
+
+* Wireframe was designed to include a table for swimming, steam and sauna schedules instead of tabs.
+* Furthermore, colors was used to code for gender specific sections. 
+* However, when this design was added to the page, the table made the page look very crowded and the color scheme looked very messy. 
+* Hence the same idea that was used for 'classes' schedule was used for the rest of the page - tabs. 
+
+<br>
+
+**Results:**
+|Device design          |Desired Results            |Final Results          |
+|-----------------------|---------------------------|-----------------------|
+|**Mobile**         |![Screenshot](/assets/images/readme/wireframes/mobile-schedules-2.png)  |![Screenshot](/assets/images/readme/wireframes/mobile-schedules-1.png)      |
+|**Tablet**         |![Screenshot](/assets/images/readme/wireframes/tablet-schedules-2.png)  |![Screenshot](/assets/images/readme/wireframes/tablet-schedules-1.png)      |
+|**Desktop**        |![Screenshot](/assets/images/readme/wireframes/desktop-schedules-2.png) |![Screenshot](/assets/images/readme/wireframes/desktop-schedules-1.png)     |
+
+</details>
+
+
 <br>
 
 [BACK TO TOP](#table-of-contents)
