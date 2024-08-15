@@ -709,15 +709,16 @@ The following websites were used to gather ideas on how to design the website an
 
 ### Content
 
-* **Names for Testimonial section** - Fake names created using Name-Generator - [Visit Content Here](https://www.name-generator.org.uk/quick/)
-* **Testimoinal of Sara Thomas**- Visit Content Here [Date of experience: 02 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
-* **Testimoinal of Sam Oneal**- Visit Content Here [Date of experience: 08 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
-* **Testimoinal of Mark Duncan**- Visit Content Here [Date of experience: 05 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)
-* **Testimoinal of Sara Thomas**- Visit Content Here [Date of experience: 03 July 2024](https://uk.trustpilot.com/review/www.thegymgroup.com?page=6)
-* **Classes Timetable** - [Visit content here](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/) - Schedule content was obtained from this website 
-* **Testing.md** - [This website](https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos) was used from code institute submission to obtain information on the test that needs to be carried out and to generate a template for my project. 
+|Content Used           |Location           |Original Link          |Comments           |
+|-----------------------|-------------------|-----------------------|-------------------|
+|**Feedback** | Home | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)| Testimonial for Sara Thomas. Date of experience: 02 July 2024 |
+|**Feedback** |  Home | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3) | Testimonial for Sam Oneal. Date of experience: 08 July 2024|
+|**Feedback** |  Home | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=3)| Testimonial for Mark Duncan. Date of experience: 05 July 2024|
+|**Feedback** |  Home | [Link](https://uk.trustpilot.com/review/www.thegymgroup.com?page=6) | Testimonial for Sara Thomas. Date of experience: 03 July 2024|
+|**Timetable** |  Schedules | [Link](https://www.placesleisure.org/centres/sparkhill-pool-and-fitness-centre/) | Schedule content was obtained from this website| 
 
 [BACK TO TOP](#table-of-contents)
+
 
 
 ### Media
