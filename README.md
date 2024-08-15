@@ -531,6 +531,15 @@ JavaScript is used to make the page interactive. The user is able to select a bu
 
 [BACK TO TOP](#table-of-contents)
 
+## Footer
+
+The bottom of the footer is designed to include necessary information that users frequently ask. For example, where is the gym located and what are the opening times. It also includes the social links and copyright information. This is done so that information is easily available to users on every page. 
+
+![Screenshot](/assets/images/readme/features/footer.png)
+
+[BACK TO TOP](#table-of-contents)
+
+
 ### Features Left to Implement
 
 [BACK TO TOP](#table-of-contents)
