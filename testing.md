@@ -8,8 +8,6 @@
 2. [Browser Compatibility](#browser-compatibility)
 3. [Responsiveness](#responsiveness)
 4. [Lighthouse Audit](#lighthouse-audit)
-    * [Desktop Audit](#desktop-audit)
-    * [Mobile Audit](#mobile-audit)
 5. [Wave Web Accessibility Evaluation](#wave-web-accessibility-evaluation)
 6. [User Story Testing](#user-story-testing)
 7. [Features](#features)
