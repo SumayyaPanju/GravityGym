@@ -627,7 +627,8 @@ footer {
 }
 
 #footer-phone{
-    color: black;
+    color: white;
+    text-decoration: none;
 }
 
 #social-icons a {
