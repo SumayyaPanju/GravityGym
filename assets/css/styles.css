@@ -986,8 +986,13 @@ footer {
 @media (max-width: 1199.98px) {
 
     /*Full width*/
+    #full-width-cont {
+        height: 379px;
+    }
+
     #full-width-image {
         background: url("../images/full-width_1200.webp") no-repeat center top;
+        height: 379;
     }
 
     .textbox-cont-text p {
@@ -1007,13 +1012,13 @@ footer {
 
     /*Full Width*/
     #full-width-cont {
-        height: 350px;
+        height: 314px;
         width: 100%;
     }
 
     #full-width-image {
         background: url("../images/full-width_992.webp") no-repeat center top;
-        height: 350px;
+        height: 314px;
         width: 100%;
     }
 
@@ -1046,13 +1051,13 @@ footer {
 
     /*Full Width*/
     #full-width-cont {
-        height: 250px;
+        height: 243px;
         width: 100%;
     }
 
     #full-width-image {
         background: url("../images/full-width_768.webp") no-repeat center top;
-        height: 250px;
+        height: 243px;
         width: 100%;
     }
 
@@ -1134,13 +1139,15 @@ footer {
 @media (max-width: 575.98px) {
 
     /*Full width image*/
+    #full-width-cont {
+        height: 182px;
+    }
+
     #full-width-image {
         background: url("../images/full-width_576.webp") no-repeat center top;
-        height: 200px;
+        height: 182px;
     }
-    #full-width-cont {
-        height: 200px;
-    }
+
     /*Testimonial*/
     .testimonial-groups p {
         min-height: 150px;
