@@ -2,11 +2,13 @@
 @font-face {
     font-family: Barlow;
     src: url(../fonts/barlow/Barlow-Regular.woff2) format(woff2);
+    font-display: swap;
 }
 
 @font-face {
     font-family: FjallaOne;
     src: url(../fonts/fjalla-one/FjallaOne-Regular.woff2) format(woff2);
+    font-display: swap;
 }
 
 /*Body Styling*/
