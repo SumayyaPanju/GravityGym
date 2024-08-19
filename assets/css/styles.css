@@ -231,6 +231,12 @@ h3 {
     min-height: 200px;
 }
 
+.testimonial-groups img {
+    width: 248px;
+    height: 310px;
+
+}
+
 /*Membership Plans*/
 .plans-container {
     border-radius: 5px;
