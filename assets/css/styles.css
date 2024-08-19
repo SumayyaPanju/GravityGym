@@ -135,7 +135,7 @@ h3 {
 }
 
 #full-width-image {
-    background: url("../images/full-width.jpg") no-repeat center top;
+    background: url("../images/full-width.webp") no-repeat center top;
     background-size: cover;
     height: 500px;
     width: 100%;
@@ -163,14 +163,14 @@ h3 {
 }
 
 #images-cont-gs {
-    background: url("../images/get-started.jpg") no-repeat center;
+    background: url("../images/get-started.webp") no-repeat center;
     background-size: cover;
     height: 80vh;
     width: auto;
 }
 
 #images-cont-pt {
-    background: url("../images/pt.jpeg") no-repeat center;
+    background: url("../images/pt-bg.webp") no-repeat center;
     background-size: cover;
     height: 80vh;
     width: auto;
@@ -837,7 +837,7 @@ footer {
     }
 
     #full-width-image {
-        background: url("../images/full-width.jpg") no-repeat center top;
+        background: url("../images/full-width.webp") no-repeat center top;
         background-size: cover;
         height: 800px;
     }
