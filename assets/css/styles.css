@@ -1,13 +1,13 @@
 /*Fonts*/
 @font-face {
-    font-family: Barlow;
-    src: url(../fonts/barlow/Barlow-Regular.woff2) format(woff2);
+    font-family: 'Barlow';
+    src: url("../fonts/barlow/barlow-regular.woff2") format(woff2);
     font-display: swap;
 }
 
 @font-face {
-    font-family: FjallaOne;
-    src: url(../fonts/fjalla-one/FjallaOne-Regular.woff2) format(woff2);
+    font-family: 'FjallaOne';
+    src: url("../fonts/fjalla-one/fjallaone-regular.woff2") format(woff2);
     font-display: swap;
 }
 
@@ -87,7 +87,7 @@ h3 {
     font-size: 60px;
 }
 
-#org-name a{
+#org-name a {
     color: #b2f71d;
     text-decoration: none;
 }
