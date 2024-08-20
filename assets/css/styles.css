@@ -76,10 +76,10 @@ h3 {
 }
 
 @keyframes blinker {
-  50% {
-    background-color: white;
-    color: #000000;
-  }
+    50% {
+        background-color: white;
+        color: #000000;
+    }
 }
 
 #banner a {
