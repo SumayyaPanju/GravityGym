@@ -5,6 +5,297 @@
     <meta charset="UTF-8">
     <!--Critical CSS-->
     <style>
+        @font-face {
+            font-family: 'Barlow';
+            src: url(assets/fonts/barlow/barlow-regular.woff2) format(woff2);
+            font-display: swap
+        }
+
+        @font-face {
+            font-family: 'FjallaOne';
+            src: url(assets/fonts/fjalla-one/fjallaone-regular.woff2) format(woff2);
+            font-display: swap
+        }
+
+        body {
+            font-family: "Barlow", sans-serif;
+            letter-spacing: 2px;
+            font-weight: 400;
+            font-size: 100%;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column
+        }
+
+        #body-container {
+            margin-top: 20px
+        }
+
+        h2 {
+            font-family: "FjallaOne", 'Franklin Gothic Medium';
+            letter-spacing: 3px;
+            font-size: 200%;
+            font-weight: 900;
+            padding-top: 30px;
+            text-transform: uppercase
+        }
+
+        h3 {
+            font-family: "FjallaOne", 'Franklin Gothic Medium';
+            transform: scaleY(.8);
+            padding-top: 20px;
+            text-transform: uppercase
+        }
+
+        .containers {
+            padding-top: 50px;
+            padding-bottom: 50px
+        }
+
+        .dark-container {
+            background-color: black;
+            color: white
+        }
+
+        .light-container {
+            background-color: white;
+            color: black
+        }
+
+            #header-container {
+            padding-top: 20px
+        }
+
+        #head-section {
+            padding-bottom: 30px;
+            text-align: center
+        }
+
+        #org-logo {
+            height: 105px;
+            width: 100px;
+            filter: invert(100%)
+        }
+
+        #org-name {
+            font-family: "Fjalla One", 'Franklin Gothic Medium';
+            margin: 0;
+            padding: 0;
+            display: inline-block;
+            vertical-align: text-top;
+            letter-spacing: 3px;
+            font-size: 60px
+        }
+
+        #org-name a {
+            color: #b2f71d;
+            text-decoration: none
+        }
+
+        #gym-menu {
+            margin-bottom: 20px
+        }
+
+        #gym-menu a {
+            text-decoration: none;
+            color: white;
+            font-size: 115%;
+            border: solid white 3px;
+            height: auto;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 700
+        }
+
+        #gym-menu a i {
+            display: block;
+            padding-bottom: 10px;
+            padding-top: 10px
+        }
+
+        #gym-menu #active {
+            border-color: #b2f71d;
+            border-width: 3px
+        }
+
+        #gym-menu #active span {
+            color: #b2f71d
+        }
+
+        #full-width-cont {
+            height: 500px;
+            width: 100%;
+            overflow: hidden
+        }
+
+        #full-width-image {
+            background: url(assets/images/full-width.webp) no-repeat center top;
+            background-size: cover;
+            height: 500px;
+            width: 100%;
+            border-style: none;
+            padding: 0
+        }
+
+        .textbox-cont {
+            height: auto;
+            width: 100%;
+            align-content: center;
+            margin: 0
+        }
+
+        .textbox-cont-text p {
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        .images-cont {
+            height: 80vh;
+            padding: 0
+        }
+
+        #images-cont-gs {
+            background: url(assets/images/get-started.webp) no-repeat center;
+            background-size: cover;
+            height: 80vh;
+            width: auto
+        }
+
+        #images-cont-pt {
+            background: url(assets/images/pt-bg.webp) no-repeat center;
+            background-size: cover;
+            height: 80vh;
+            width: auto
+        }
+
+        .animate {
+            opacity: 0
+        }
+
+        #faci-heading {
+            padding-bottom: 50px
+        }
+
+        .group-cont img {
+            width: 80px;
+            height: 80px;
+            filter: brightness(0) invert(1)
+        }
+
+        .faci-p {
+            padding: 0
+        }
+
+        #testimonial-heading {
+            padding-bottom: 30px
+        }
+
+        .testimonial-groups p {
+            min-height: 200px
+        }
+
+        .testimonial-groups img {
+            width: 248px;
+            height: 310px
+        }
+
+        @media (max-width:1199.98px) {
+            #full-width-cont {
+                height: 379px
+            }
+
+            #full-width-image {
+                background: url(assets/images/full-width_1200.webp) no-repeat center top;
+                height: 379px
+            }
+
+            .textbox-cont-text p {
+                margin-left: 40px;
+                margin-right: 40px;
+                font-size: 140%
+            }
+
+            .testimonial-groups p {
+                min-height: 255px
+            }
+        }
+
+        @media (max-width:991.98px) {
+            #full-width-cont {
+                height: 314px;
+                width: 100%
+            }
+
+            #full-width-image {
+                background: url(assets/images/full-width_992.webp) no-repeat center top;
+                height: 314px;
+                width: 100%
+            }
+
+            #gym-menu a {
+                font-size: 90%
+            }
+
+            .testimonial-groups p {
+                min-height: 150px
+            }
+        }
+
+        @media (max-width:767.98px) {
+            #full-width-cont {
+                height: 243px;
+                width: 100%
+            }
+
+            #full-width-image {
+                background: url(assets/images/full-width_768.webp) no-repeat center top;
+                height: 243px;
+                width: 100%
+            }
+
+            #org-name {
+                font-size: 300%
+            }
+
+            .navtext {
+                margin-top: 2%;
+                margin-bottom: 2%
+            }
+
+            #gym-menu {
+                padding-right: 1%;
+                padding-left: 1%
+            }
+
+            #gym-menu a {
+                font-size: 100%
+            }
+
+            .faci-p {
+                display: none
+            }
+
+            .testimonial-groups p {
+                min-height: 180px;
+                font-size: 90%
+            }
+        }
+
+        @media (max-width:575.98px) {
+            #full-width-cont {
+                height: 182px
+            }
+
+            #full-width-image {
+                background: url(assets/images/full-width_576.webp) no-repeat center top;
+                height: 182px
+            }
+
+            .testimonial-groups p {
+                min-height: 150px
+            }
+        }
+
         :root {
             --bs-blue: #0d6efd;
             --bs-indigo: #6610f2;
@@ -360,297 +651,6 @@
 
         .text-nowrap {
             white-space: nowrap !important
-        }
-
-        @font-face {
-            font-family: 'Barlow';
-            src: url(assets/fonts/barlow/barlow-regular.woff2) format(woff2);
-            font-display: swap
-        }
-
-        @font-face {
-            font-family: 'FjallaOne';
-            src: url(assets/fonts/fjalla-one/fjallaone-regular.woff2) format(woff2);
-            font-display: swap
-        }
-
-        body {
-            font-family: "Barlow", sans-serif;
-            letter-spacing: 2px;
-            font-weight: 400;
-            font-size: 100%;
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column
-        }
-
-        #body-container {
-            margin-top: 20px
-        }
-
-        h2 {
-            font-family: "FjallaOne", 'Franklin Gothic Medium';
-            letter-spacing: 3px;
-            font-size: 200%;
-            font-weight: 900;
-            padding-top: 30px;
-            text-transform: uppercase
-        }
-
-        h3 {
-            font-family: "FjallaOne", 'Franklin Gothic Medium';
-            transform: scaleY(.8);
-            padding-top: 20px;
-            text-transform: uppercase
-        }
-
-        .containers {
-            padding-top: 50px;
-            padding-bottom: 50px
-        }
-
-        .dark-container {
-            background-color: black;
-            color: white
-        }
-
-        .light-container {
-            background-color: white;
-            color: black
-        }
-
-        #header-container {
-            padding-top: 20px
-        }
-
-        #head-section {
-            padding-bottom: 30px;
-            text-align: center
-        }
-
-        #org-logo {
-            height: 100px;
-            width: auto;
-            filter: invert(100%)
-        }
-
-        #org-name {
-            font-family: "Fjalla One", 'Franklin Gothic Medium';
-            margin: 0;
-            padding: 0;
-            display: inline-block;
-            vertical-align: text-top;
-            letter-spacing: 3px;
-            font-size: 60px
-        }
-
-        #org-name a {
-            color: #b2f71d;
-            text-decoration: none
-        }
-
-        #gym-menu {
-            margin-bottom: 20px
-        }
-
-        #gym-menu a {
-            text-decoration: none;
-            color: white;
-            font-size: 115%;
-            border: solid white 3px;
-            height: auto;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-weight: 700
-        }
-
-        #gym-menu a i {
-            display: block;
-            padding-bottom: 10px;
-            padding-top: 10px
-        }
-
-        #gym-menu #active {
-            border-color: #b2f71d;
-            border-width: 3px
-        }
-
-        #gym-menu #active span {
-            color: #b2f71d
-        }
-
-        #full-width-cont {
-            height: 500px;
-            width: 100%;
-            overflow: hidden
-        }
-
-        #full-width-image {
-            background: url(assets/images/full-width.webp) no-repeat center top;
-            background-size: cover;
-            height: 500px;
-            width: 100%;
-            border-style: none;
-            padding: 0
-        }
-
-        .textbox-cont {
-            height: auto;
-            width: 100%;
-            align-content: center;
-            margin: 0
-        }
-
-        .textbox-cont-text p {
-            margin-left: auto;
-            margin-right: auto
-        }
-
-        .images-cont {
-            height: 80vh;
-            padding: 0
-        }
-
-        #images-cont-gs {
-            background: url(assets/images/get-started.webp) no-repeat center;
-            background-size: cover;
-            height: 80vh;
-            width: auto
-        }
-
-        #images-cont-pt {
-            background: url(assets/images/pt-bg.webp) no-repeat center;
-            background-size: cover;
-            height: 80vh;
-            width: auto
-        }
-
-        .animate {
-            opacity: 0
-        }
-
-        #faci-heading {
-            padding-bottom: 50px
-        }
-
-        .group-cont img {
-            width: 80px;
-            height: 80px;
-            filter: brightness(0) invert(1)
-        }
-
-        .faci-p {
-            padding: 0
-        }
-
-        #testimonial-heading {
-            padding-bottom: 30px
-        }
-
-        .testimonial-groups p {
-            min-height: 200px
-        }
-
-        .testimonial-groups img {
-            width: 248px;
-            height: 310px
-        }
-
-        @media (max-width:1199.98px) {
-            #full-width-cont {
-                height: 379px
-            }
-
-            #full-width-image {
-                background: url(assets/images/full-width_1200.webp) no-repeat center top;
-                height: 379
-            }
-
-            .textbox-cont-text p {
-                margin-left: 40px;
-                margin-right: 40px;
-                font-size: 140%
-            }
-
-            .testimonial-groups p {
-                min-height: 255px
-            }
-        }
-
-        @media (max-width:991.98px) {
-            #full-width-cont {
-                height: 314px;
-                width: 100%
-            }
-
-            #full-width-image {
-                background: url(assets/images/full-width_992.webp) no-repeat center top;
-                height: 314px;
-                width: 100%
-            }
-
-            #gym-menu a {
-                font-size: 90%
-            }
-
-            .testimonial-groups p {
-                min-height: 150px
-            }
-        }
-
-        @media (max-width:767.98px) {
-            #full-width-cont {
-                height: 243px;
-                width: 100%
-            }
-
-            #full-width-image {
-                background: url(assets/images/full-width_768.webp) no-repeat center top;
-                height: 243px;
-                width: 100%
-            }
-
-            #org-name {
-                font-size: 300%
-            }
-
-            .navtext {
-                margin-top: 2%;
-                margin-bottom: 2%
-            }
-
-            #gym-menu {
-                padding-right: 1%;
-                padding-left: 1%
-            }
-
-            #gym-menu a {
-                font-size: 100%
-            }
-
-            .faci-p {
-                display: none
-            }
-
-            .testimonial-groups p {
-                min-height: 180px;
-                font-size: 90%
-            }
-        }
-
-        @media (max-width:575.98px) {
-            #full-width-cont {
-                height: 182px
-            }
-
-            #full-width-image {
-                background: url(assets/images/full-width_576.webp) no-repeat center top;
-                height: 182px
-            }
-
-            .testimonial-groups p {
-                min-height: 150px
-            }
         }
     </style>
     <!--Meta data-->
