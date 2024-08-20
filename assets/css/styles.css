@@ -73,7 +73,7 @@ h3 {
 
 #org-logo {
     height: 100px;
-    width: auto;
+    width: 100px;
     filter: invert(100%);
 }
 
@@ -807,6 +807,7 @@ footer {
 
     #org-logo {
         height: 250px;
+        width: 250px;
     }
 
     #org-name {
