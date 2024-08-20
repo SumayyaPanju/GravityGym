@@ -666,6 +666,10 @@ Based on the test, the user is directed to the correct 404 page. this is shown i
 
 </details>
 
+<br>
+
+[BACK TO TOP](#table-of-contents)
+
 ### Links
 
 There are various links throughout the web page. All of them were tested to see if they do what they are supposed to do. The table below shows the test done and its results. 
@@ -694,6 +698,10 @@ There are various links throughout the web page. All of them were tested to see 
 
 
 </details>
+
+<br>
+
+[BACK TO TOP](#table-of-contents)
 
 ### Form validation
 
