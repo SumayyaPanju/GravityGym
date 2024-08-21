@@ -488,47 +488,62 @@ The following devices have been chosen to be tested:
 
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) is a chrome extension which is installed on the browser. It is used to audit quality of the website. The report indicates how the page can be improved. Lighthouse audit test is carried out for desktop and mobile. 
 
+### Desktop Audits
+
 >Click below, on the relevant headings to expand
+
+Lighthouse provided some suggestions on how the pages could be improved. Similar suggestions were provided for all pages. The screenshot below shows the suggestions provided by Lighthouse.  
 
 <details>
 
-**<summary> Desktop Audit - Before making improvements...</summary>**
-
-|                            | Screenshot                                                            | Evaluation tool suggests:                                                                                                                                                                     |
-|----------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Home**                   | ![Screenshot](/assets/images/testing/audits/la-home-before.png)       | Add metadata, improve contrast, improve, preload, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                           |
-| **Plans**                  | ![Screenshot](/assets/images/testing/audits//la-plans-before.png)     | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
-| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-plans-ty-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
-| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-gallery-before.png)    | Add metadata, reduce network payloads, reduce large layout shifts, have discernible name for links, images to webp or avif, [and more](#further-information-on-lighthouse-audit-for-desktops) |
-| **Schedules**              | ![Screenshot](/assets/images/testing/audits/la-schedules-before.png)  | Add metadata, increase space for touch targets, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                             |
-| **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-contact-us-before.png) | Add metadata, resize background image to match natural aspect ratio, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                        |
-| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-before.png)   | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
-| **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-before.png)        | Add metadata, [and more](#further-information-on-lighthouse-audit-for-desktops)                                                                                                               |
-
-#### Further information on lighthouse audit for desktops
-
-For all or almost all pages, there were common suggestions by lighthouse to improve performance of the website. These suggestions were not carried out due to lack of skills/knowledge in those areas. The screenshot below shows the suggestions given by lighthouse:
+**<summary>Suggestions by Lighthouse audit for improvements before changes</summary>**
 
 >![Screenshot](/assets/images/testing/audits/diagnostic-results.png)
 
 </details>
 
+<br>
+
+<br>
+
+After implementing the changes, most of the suggestions made imrpoved the site score. However, there were some diagnostic suggestions that was beyond my ability to overcome. Either due to lack of capacity or lack of administrative rights. This was consistent for all pages throughout the project. The screenshot below shows the suggestions provided by Lighthouse that could increase the score further.  
+
 <details>
 
-**<summary> Desktop Audit - After making improvements...</summary>**
+**<summary>Suggestions by Lighthouse audit for improvements after changes</summary>**
 
-|                            | Screenshot                                                           | Notes                                                                                                                                                                                                                                                                                  |
-|----------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Home**                   | ![Screenshot](/assets/images/testing/audits/la-home-after.png)       | Metadata was added, contrast was changed                                                                                                                                                                                                                                               |
-| **Plans**                  | ![Screenshot](/assets/images/testing/audits/la-plans-after.png)      | Meta description is added                                                                                                                                                                                                                                                              |
-| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-plans-ty-after.png)   | Meta description is added                                                                                                                                                                                                                                                              |
-| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-gallery-after.png)    | Metadata was added, links were given a discernible name, alt texts was assigned, images were converted to webp                                                                                                                                                                         |
-| **Schedules**              | ![Screenshot](/assets/images/testing/audits/la-schedules-after.png)  | Metadata was added, and spacing was also added. However, it still does not meet the minimum threshold required for accessibility. Further spacing is not added, as spacing seems sufficient. There is no adjacent buttons. The next button is in the next section which acts as a tab. |
-| **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-contact-us-after.png) | Metadata was added and image was resized                                                                                                                                                                                                                                               |
-| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-after.png)   | Metadata was added.                                                                                                                                                                                                                                                                    |
-| **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-after.png)        | Metadata was added.                                                                                                                                                                                                                                                                    |
+>![Screenshot](/assets/images/testing/audits/diagnostic-results-after.png) 
+
 </details>
 
+<br>
+
+<br>
+
+The table below shows the lighthouse results before and after changes have been implemented. 
+
+<details>
+
+**<summary> Desktop Audit Results</summary>**
+
+|                            | Screenshot - Before changes | Screenshot - After changes  suggests:                  |
+|----------------------------|------------------------------------------|-------------------------------------------|
+| **Home**                   |![Screenshot](/assets/images/testing/audits/la-home-before.png) | ![Screenshot](/assets/images/testing/audits/la-home-after.png)       |
+| **Plans**                  | ![Screenshot](/assets/images/testing/audits//la-plans-before.png)     | ![Screenshot](/assets/images/testing/audits/la-plans-after.png)       |
+| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-plans-ty-before.png)   | ![Screenshot](/assets/images/testing/audits/la-plans-ty-after.png) |
+| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-gallery-before.png)    | ![Screenshot](/assets/images/testing/audits/la-gallery-after.png) |
+| **Schedules**              | ![Screenshot](/assets/images/testing/audits/la-schedules-before.png)  | ![Screenshot](/assets/images/testing/audits/la-schedules-after.png)  |
+| **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-contact-us-before.png) | ![Screenshot](/assets/images/testing/audits/la-contact-us-after.png)     |
+| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-thankyou-before.png)   | ![Screenshot](/assets/images/testing/audits/la-thankyou-after.png)   |
+| **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-before.png)        | ![Screenshot](/assets/images/testing/audits/la-404-after.png)    |
+
+
+</details>
+
+<br>
+
+
+### Mobile Audit 
 <details>
 
 **<summary> Mobile Audit...</summary>**
@@ -544,6 +559,23 @@ For all or almost all pages, there were common suggestions by lighthouse to impr
 | **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-m-contactus.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
 | **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-m-thankyou.png)  | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
 | **404**                    | ![Screenshot](/assets/images/testing/audits/la-m-404.png)       | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+
+
+### Changes implemented
+
+Based on the suggestions the following changes were made for each pages:
+
+
+|Pages          | Changes made          |
+|---------------|-----------------------|
+| **All pages**      | - Metadata was added to improve SEO <br> - Colours changed to improve contrast <br> - Critical CSS added to improve performance <br> - External links moved to the bottom of the page as Critical CSS has been added <br> - Images given an explicit size to improve performance <br> -  Images resized and optimised to improve performance - Images converted to webp format to improve performance| 
+| **Home**     | - Different sizes used for different devices for full width image to improve performance|
+|**Gallery** | - Links were given a discernible name and alt texts was assigned to improve SEO and accessibility. |
+|**Schedules** | Spacing for touch target was increased for improving accessibility |
+|**Contact Us** | - Image size changed to match natural aspect ratio for best practice |
+
+<br>
+
 
 #### Further information on lighthouse audit for mobiles
 
