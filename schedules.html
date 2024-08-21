@@ -5,6 +5,378 @@
     <meta charset="UTF-8">
     <!--Critical CSS-->
     <style>
+        @font-face {
+            font-family: Barlow;
+            src: url('assets/fonts/barlow/barlow-regular.woff2') format(woff2);
+            font-display: swap
+        }
+
+        @font-face {
+            font-family: FjallaOne;
+            src: url('assets/fonts/fjalla-one/fjallaone-regular.woff2') format(woff2);
+            font-display: swap
+        }
+
+        #classes {
+            text-align: center;
+            padding-bottom: 50px
+        }
+
+        #classes .tab {
+            overflow: hidden
+        }
+
+        #classes .tab button {
+            background-color: inherit;
+            border: 1px solid #000;
+            outline: 0;
+            padding: 1%;
+            font-size: 100%;
+            text-transform: uppercase;
+            font-weight: 600;
+            margin-top: 1%;
+            margin-bottom: 1%;
+            text-decoration: none;
+            color: #000
+        }
+
+        body {
+            font-family: Barlow, sans-serif;
+            letter-spacing: 2px;
+            font-weight: 400;
+            font-size: 100%;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column
+        }
+
+        #body-container {
+            margin-top: 20px
+        }
+
+        h2 {
+            font-family: FjallaOne, 'Franklin Gothic Medium';
+            letter-spacing: 3px;
+            font-size: 200%;
+            font-weight: 900;
+            padding-top: 30px;
+            text-transform: uppercase
+        }
+
+        .dark-container {
+            background-color: #000;
+            color: #fff
+        }
+
+        .light-container {
+            background-color: #fff;
+            color: #000
+        }
+
+        #banner {
+            color: #000;
+            background-color: #b2f71d;
+            position: fixed;
+            z-index: 2;
+            width: 100%;
+            text-align: center;
+            font-weight: 700;
+            text-transform: uppercase;
+            padding: 7px;
+            opacity: .9;
+            animation: 2s step-start 5 blinker
+        }
+
+        @keyframes blinker {
+            50% {
+                background-color: #fff;
+                color: #000
+            }
+        }
+
+        #banner a {
+            text-decoration: none;
+            color: #000
+        }
+
+        #header-container {
+            padding-top: 50px
+        }
+
+        #head-section {
+            padding-bottom: 30px;
+            text-align: center
+        }
+
+        #org-logo {
+            height: 105px;
+            width: 100px;
+            filter: invert(100%)
+        }
+
+        #org-name {
+            font-family: "Fjalla One", 'Franklin Gothic Medium';
+            margin: 0;
+            padding: 0;
+            display: inline-block;
+            vertical-align: text-top;
+            letter-spacing: 3px;
+            font-size: 60px
+        }
+
+        #org-name a {
+            color: #b2f71d;
+            text-decoration: none
+        }
+
+        #gym-menu {
+            margin-bottom: 20px
+        }
+
+        #gym-menu a {
+            text-decoration: none;
+            color: #fff;
+            font-size: 115%;
+            border: 3px solid #fff;
+            height: auto;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 700
+        }
+
+        #gym-menu a i {
+            display: block;
+            padding-bottom: 10px;
+            padding-top: 10px
+        }
+
+        #gym-menu #active {
+            border-color: #b2f71d;
+            border-width: 3px
+        }
+
+        #gym-menu #active span {
+            color: #b2f71d
+        }
+
+        #classes,
+        #sauna,
+        #swimming {
+            text-align: center;
+            padding-bottom: 50px
+        }
+
+        #classes .tab,
+        #swimming .tab {
+            overflow: hidden
+        }
+
+        #classes .tab button,
+        #swimming .tab button {
+            background-color: inherit;
+            border: 1px solid #000;
+            outline: 0;
+            padding: 1%;
+            font-size: 100%;
+            text-transform: uppercase;
+            font-weight: 600;
+            margin-top: 1%;
+            margin-bottom: 1%;
+            text-decoration: none;
+            color: #000
+        }
+
+        #classes .tabcontent,
+        #sauna .tabcontent,
+        #swimming .tabcontent {
+            display: none;
+            padding: 6px 12px;
+            border: none
+        }
+
+        .classes-schedule {
+            margin-top: 20px;
+            margin-bottom: 20px
+        }
+
+        .classes-schedule td,
+        .classes-schedule th,
+        .classes-schedule tr {
+            text-align: center
+        }
+
+        .classes-schedule th {
+            font-weight: 800;
+            text-transform: uppercase;
+            padding-top: 10px;
+            padding-bottom: 10px
+        }
+
+        .classes-schedule th,
+        .classes-schedule tr td {
+            text-align: left;
+            padding-right: 20px;
+            padding-left: 20px
+        }
+
+        .classes-schedule tr td {
+            text-transform: capitalize
+        }
+
+        #swimming .tab button {
+            border: 1px solid #fff;
+            color: #fff
+        }
+
+        .download {
+            background-color: #fff;
+            margin-top: 20px;
+            border: 2px solid #000;
+            width: max-content;
+            margin-inline: auto;
+            padding: 1%;
+            margin-top: 25px;
+            margin-bottom: 25px
+        }
+
+        .download-a {
+            width: max-content;
+            letter-spacing: 2px;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: 800;
+            color: #000
+        }
+
+        table {
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        td {
+            padding-bottom: 1%
+        }
+
+        #back-to-top-btn a {
+            position: fixed;
+            top: 90%;
+            left: 90%;
+            transform: translate(-50%, -50%);
+            padding: 5px 10px;
+            width: max-content;
+            background-color: #b2f71d;
+            color: #000;
+            letter-spacing: 2px;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: 800
+        }
+
+        #back-to-top-btn {
+            position: fixed;
+            top: 90%;
+            left: 90%;
+            transform: translate(-50%, -50%);
+            z-index: 1
+        }
+
+        @media (min-width:1200px) {
+            h2 {
+                letter-spacing: 5px;
+                font-size: 300%
+            }
+
+            a,
+            button,
+            td,
+            th {
+                font-size: 120%;
+                letter-spacing: 4px
+            }
+
+            #back-to-top-btn a {
+                top: 95%;
+                left: 92%
+            }
+
+            #back-to-top-btn {
+                top: 95%;
+                left: 92%
+            }
+        }
+
+        @media (max-width:991.98px) {
+            #gym-menu a {
+                font-size: 90%
+            }
+        }
+
+        @media (max-width:767.98px) {
+            #org-name {
+                font-size: 300%
+            }
+
+            .navtext {
+                margin-top: 2%;
+                margin-bottom: 2%
+            }
+
+            #gym-menu {
+                padding-right: 1%;
+                padding-left: 1%
+            }
+
+            #gym-menu a {
+                font-size: 100%
+            }
+
+            .tab button {
+                padding: 2%;
+                margin-top: 2%;
+                margin-bottom: 2%;
+                font-size: 90%;
+                margin-right: 1%
+            }
+
+            .classes-schedule th,
+            .classes-schedule tr td {
+                padding-right: 10px;
+                padding-left: 10px
+            }
+
+            #back-to-top-btn a {
+                top: 95%;
+                left: 85%
+            }
+
+            #back-to-top-btn {
+                top: 95%;
+                left: 85%
+            }
+        }
+
+        @media (max-width:575.98px) {
+            .classes-schedule th {
+                padding-right: 5px
+            }
+
+            .classes-schedule tr td {
+                font-size: 80%;
+                padding-left: 0;
+                padding-right: 1px
+            }
+
+            #back-to-top-btn a {
+                left: 76%;
+                top: 90%
+            }
+
+            #back-to-top-btn {
+                left: 76%;
+                top: 90%
+            }
+        }
+
         :root {
             --bs-blue: #0d6efd;
             --bs-indigo: #6610f2;
@@ -73,7 +445,7 @@
             --bs-black-rgb: 0, 0, 0;
             --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
             --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-            --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, .15), rgba(255, 255, 255, 0));
+            --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
             --bs-body-font-family: var(--bs-font-sans-serif);
             --bs-body-font-size: 1rem;
             --bs-body-font-weight: 400;
@@ -84,11 +456,11 @@
             --bs-body-bg-rgb: 255, 255, 255;
             --bs-emphasis-color: #000;
             --bs-emphasis-color-rgb: 0, 0, 0;
-            --bs-secondary-color: rgba(33, 37, 41, .75);
+            --bs-secondary-color: rgba(33, 37, 41, 0.75);
             --bs-secondary-color-rgb: 33, 37, 41;
             --bs-secondary-bg: #e9ecef;
             --bs-secondary-bg-rgb: 233, 236, 239;
-            --bs-tertiary-color: rgba(33, 37, 41, .5);
+            --bs-tertiary-color: rgba(33, 37, 41, 0.5);
             --bs-tertiary-color-rgb: 33, 37, 41;
             --bs-tertiary-bg: #f8f9fa;
             --bs-tertiary-bg-rgb: 248, 249, 250;
@@ -104,21 +476,21 @@
             --bs-border-width: 1px;
             --bs-border-style: solid;
             --bs-border-color: #dee2e6;
-            --bs-border-color-translucent: rgba(0, 0, 0, .175);
-            --bs-border-radius: .375rem;
-            --bs-border-radius-sm: .25rem;
-            --bs-border-radius-lg: .5rem;
+            --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
+            --bs-border-radius: 0.375rem;
+            --bs-border-radius-sm: 0.25rem;
+            --bs-border-radius-lg: 0.5rem;
             --bs-border-radius-xl: 1rem;
             --bs-border-radius-xxl: 2rem;
             --bs-border-radius-2xl: var(--bs-border-radius-xxl);
             --bs-border-radius-pill: 50rem;
-            --bs-box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
-            --bs-box-shadow-sm: 0 .125rem .25rem rgba(0, 0, 0, .075);
-            --bs-box-shadow-lg: 0 1rem 3rem rgba(0, 0, 0, .175);
-            --bs-box-shadow-inset: inset 0 1px 2px rgba(0, 0, 0, .075);
-            --bs-focus-ring-width: .25rem;
-            --bs-focus-ring-opacity: .25;
-            --bs-focus-ring-color: rgba(13, 110, 253, .25);
+            --bs-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+            --bs-box-shadow-sm: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+            --bs-box-shadow-lg: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+            --bs-box-shadow-inset: inset 0 1px 2px rgba(0, 0, 0, 0.075);
+            --bs-focus-ring-width: 0.25rem;
+            --bs-focus-ring-opacity: 0.25;
+            --bs-focus-ring-color: rgba(13, 110, 253, 0.25);
             --bs-form-valid-color: #198754;
             --bs-form-valid-border-color: #198754;
             --bs-form-invalid-color: #dc3545;
@@ -150,8 +522,7 @@
         }
 
         h1,
-        h2,
-        h3 {
+        h2 {
             margin-top: 0;
             margin-bottom: .5rem;
             font-weight: 500;
@@ -163,17 +534,20 @@
             font-size: calc(1.375rem + 1.5vw)
         }
 
+        @media (min-width:1200px) {
+            h1 {
+                font-size: 2.5rem
+            }
+        }
+
         h2 {
             font-size: calc(1.325rem + .9vw)
         }
 
-        h3 {
-            font-size: calc(1.3rem + .6vw)
-        }
-
-        p {
-            margin-top: 0;
-            margin-bottom: 1rem
+        @media (min-width:1200px) {
+            h2 {
+                font-size: 2rem
+            }
         }
 
         a {
@@ -320,11 +694,6 @@
             width: 41.66666667%
         }
 
-        .col-6 {
-            flex: 0 0 auto;
-            width: 50%
-        }
-
         .col-12 {
             flex: 0 0 auto;
             width: 100%
@@ -335,19 +704,17 @@
                 flex: 0 0 auto;
                 width: 25%
             }
+        }
 
-            .col-sm-4 {
+        @media (min-width:768px) {
+            .col-md-2 {
                 flex: 0 0 auto;
-                width: 33.33333333%
+                width: 16.66666667%
             }
         }
 
         .m-0 {
             margin: 0 !important
-        }
-
-        .m-2 {
-            margin: .5rem !important
         }
 
         .p-0 {
@@ -364,365 +731,6 @@
 
         .text-nowrap {
             white-space: nowrap !important
-        }
-
-        @media (min-width:576px) {
-            .m-sm-3 {
-                margin: 1rem !important
-            }
-        }
-
-        @font-face {
-            font-family: 'Barlow';
-            src: url(assets/fonts/barlow/barlow-regular.woff2) format(woff2);
-            font-display: swap
-        }
-
-        @font-face {
-            font-family: 'FjallaOne';
-            src: url(assets/fonts/fjalla-one/fjallaone-regular.woff2) format(woff2);
-            font-display: swap
-        }
-
-        body {
-            font-family: "Barlow", sans-serif;
-            letter-spacing: 2px;
-            font-weight: 400;
-            font-size: 100%;
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column
-        }
-
-        #body-container {
-            margin-top: 20px
-        }
-
-        h2 {
-            font-family: "FjallaOne", 'Franklin Gothic Medium';
-            letter-spacing: 3px;
-            font-size: 200%;
-            font-weight: 900;
-            padding-top: 30px;
-            text-transform: uppercase
-        }
-
-        h3 {
-            font-family: "FjallaOne", 'Franklin Gothic Medium';
-            transform: scaleY(.8);
-            padding-top: 20px;
-            text-transform: uppercase
-        }
-
-        .dark-container {
-            background-color: black;
-            color: white
-        }
-
-        .light-container {
-            background-color: white;
-            color: black
-        }
-
-        #banner {
-            color: black;
-            background-color: #b2f71d;
-            position: fixed;
-            z-index: 2;
-            width: 100%;
-            text-align: center;
-            font-weight: 700;
-            text-transform: uppercase;
-            padding: 7px;
-            opacity: .9;
-            animation: blinker 2s step-start infinite
-        }
-
-        @keyframes blinker {
-            50% {
-                background-color: white;
-                color: #000
-            }
-        }
-
-        #banner a {
-            text-decoration: none;
-            color: black
-        }
-
-        #header-container {
-            padding-top: 50px
-        }
-
-        #head-section {
-            padding-bottom: 30px;
-            text-align: center
-        }
-
-        #org-logo {
-            height: 105px;
-            width: 100px;
-            filter: invert(100%)
-        }
-
-        #org-name {
-            font-family: "Fjalla One", 'Franklin Gothic Medium';
-            margin: 0;
-            padding: 0;
-            display: inline-block;
-            vertical-align: text-top;
-            letter-spacing: 3px;
-            font-size: 60px
-        }
-
-        #org-name a {
-            color: #b2f71d;
-            text-decoration: none
-        }
-
-        #gym-menu {
-            margin-bottom: 20px
-        }
-
-        #gym-menu a {
-            text-decoration: none;
-            color: white;
-            font-size: 115%;
-            border: solid white 3px;
-            height: auto;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-weight: 700
-        }
-
-        #gym-menu a i {
-            display: block;
-            padding-bottom: 10px;
-            padding-top: 10px
-        }
-
-        #gym-menu #active {
-            border-color: #b2f71d;
-            border-width: 3px
-        }
-
-        #gym-menu #active span {
-            color: #b2f71d
-        }
-
-        #classes,
-        #swimming,
-        #sauna {
-            text-align: center;
-            padding-bottom: 50px
-        }
-
-        #classes .tab,
-        #swimming .tab,
-        #sauna .tab {
-            overflow: hidden
-        }
-
-        #classes .tab button,
-        #swimming .tab button,
-        #sauna .tab button {
-            background-color: inherit;
-            border: solid 1px black;
-            outline: none;
-            padding: 1%;
-            font-size: 100%;
-            text-transform: uppercase;
-            font-weight: 600;
-            margin-top: 1%;
-            margin-bottom: 1%;
-            text-decoration: none;
-            color: #000
-        }
-
-        #classes .tabcontent,
-        #swimming .tabcontent,
-        #sauna .tabcontent {
-            display: none;
-            padding: 6px 12px;
-            border: none
-        }
-
-        .classes-schedule {
-            margin-top: 20px;
-            margin-bottom: 20px
-        }
-
-        .classes-schedule th,
-        .classes-schedule tr,
-        .classes-schedule td {
-            text-align: center
-        }
-
-        .classes-schedule th {
-            font-weight: 800;
-            text-transform: uppercase;
-            padding-top: 10px;
-            padding-bottom: 10px
-        }
-
-        .classes-schedule th,
-        .classes-schedule tr td {
-            text-align: left;
-            padding-right: 20px;
-            padding-left: 20px
-        }
-
-        .classes-schedule tr td {
-            text-transform: capitalize
-        }
-
-        #swimming .tab button {
-            border: solid 1px white;
-            color: white
-        }
-
-        .download {
-            background-color: white;
-            margin-top: 20px;
-            border: solid 2px black;
-            width: max-content;
-            margin-inline: auto;
-            padding: 1%;
-            margin-top: 25px;
-            margin-bottom: 25px
-        }
-
-        .download a {
-            width: max-content;
-            letter-spacing: 2px;
-            text-decoration: none;
-            text-transform: uppercase;
-            font-weight: 800;
-            color: black
-        }
-
-        table {
-            margin-left: auto;
-            margin-right: auto
-        }
-
-        td {
-            padding-bottom: 1%
-        }
-
-        #back-to-top-btn a {
-            position: fixed;
-            top: 90%;
-            left: 90%;
-            transform: translate(-50%, -50%);
-            padding: 5px 10px;
-            width: max-content;
-            background-color: #b2f71d;
-            color: black;
-            letter-spacing: 2px;
-            text-decoration: none;
-            text-transform: uppercase;
-            font-weight: 800
-        }
-
-        #back-to-top-btn {
-            position: fixed;
-            top: 90%;
-            left: 90%;
-            transform: translate(-50%, -50%);
-            z-index: 1
-        }
-
-        footer {
-            margin-top: auto
-        }
-
-        #footer-section {
-            background-color: black;
-            color: white;
-            padding: 40px 20px 10px 20px
-        }
-
-        .footer-group p {
-            line-height: 1.2
-        }
-
-        .footer-bold {
-            font-weight: 700;
-            color: #b2f71d;
-            text-transform: uppercase
-        }
-
-        @media (max-width:991.98px) {
-            #gym-menu a {
-                font-size: 90%
-            }
-        }
-
-        @media (max-width:767.98px) {
-            #org-name {
-                font-size: 300%
-            }
-
-            .navtext {
-                margin-top: 2%;
-                margin-bottom: 2%
-            }
-
-            #gym-menu {
-                padding-right: 1%;
-                padding-left: 1%
-            }
-
-            #gym-menu a {
-                font-size: 100%
-            }
-
-            .tab button {
-                padding: 2%;
-                margin-top: 2%;
-                margin-bottom: 2%;
-                font-size: 90%;
-                margin-right: 1%
-            }
-
-            .classes-schedule th,
-            .classes-schedule tr td {
-                padding-right: 10px;
-                padding-left: 10px
-            }
-
-            #back-to-top-btn a {
-                top: 95%;
-                left: 85%
-            }
-
-            #back-to-top-btn {
-                top: 95%;
-                left: 85%
-            }
-        }
-
-        @media (max-width:575.98px) {
-            .classes-schedule th {
-                padding-right: 5px
-            }
-
-            .classes-schedule tr td {
-                font-size: 80%;
-                padding-left: 0;
-                padding-right: 1px
-            }
-
-            #back-to-top-btn a {
-                left: 76%;
-                top: 90%
-            }
-
-            #back-to-top-btn {
-                left: 76%;
-                top: 90%
-            }
         }
     </style>
     <!--Meta data-->
@@ -1387,8 +1395,10 @@
                     </tr>
                 </table>
             </div>
-            <a class="download-a" href="assets/documents/classes-schedule.pdf" target="_blank"><div class="download">download pdf here
-            </div></a>
+            <a class="download-a" href="assets/documents/classes-schedule.pdf" target="_blank">
+                <div class="download">download pdf here
+                </div>
+            </a>
         </section>
         <!--Swimming-->
         <section class="dark-container" id="swimming">
@@ -1539,8 +1549,10 @@
                     </tr>
                 </table>
             </div>
-            <a class="download-a" href="assets/documents/swimming-schedule.pdf" target="_blank"><div class="download">download pdf here
-            </div></a>
+            <a class="download-a" href="assets/documents/swimming-schedule.pdf" target="_blank">
+                <div class="download">download pdf here
+                </div>
+            </a>
         </section>
         <!--Sauna & Steam-->
         <section class="light-container" id="sauna">
@@ -1646,8 +1658,10 @@
                     </tr>
                 </table>
             </div>
-            <a class="download-a" href="assets/documents/sauna-steam-schedule.pdf" target="_blank"><div class="download">download pdf here
-            </div></a>
+            <a class="download-a" href="assets/documents/sauna-steam-schedule.pdf" target="_blank">
+                <div class="download">download pdf here
+                </div>
+            </a>
         </section>
     </section>
     <!--Back to top button-->
