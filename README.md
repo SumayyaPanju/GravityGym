@@ -921,7 +921,7 @@ A range of images were used from various websites. The link from where the image
     * My tutor - Satish Boini and Komal Karir 
     * My mentor - Rory Patrick 
     * Tutor support - which was available to us from code Institute 
-    * W3 Schools - Support from there was obtained for various values and ideas 
+    * Peer feedback 
 
 <br> 
 
