@@ -754,6 +754,7 @@ There are a couple of improvements I could make to this project:
 |**Cloud Converter**|[Link](https://cloudconvert.com/ttf-to-woff2)|This tool was used to convert ttf fonts from google fonts to woff2. It was also used to convert images to webp. 
 |**Simple Image resizer**|[Link](https://www.simpleimageresizer.com/upload)|This tool was used to resize images
 |**Image compressor**|[Link](https://compressor.io/)|This tool was used to compress images 
+|**Critical CSS Generator**|[Link](https://www.corewebvitals.io/tools/critical-css-generator)|This tool was used to generate critical CSS to improve performance of the website. |
 
 ---
 
