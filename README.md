@@ -688,6 +688,14 @@ Whilst creating the website, more pages were created than anticipated. These are
 
 [BACK TO TOP](#table-of-contents)
 
+### Critical CSS Generator 
+
+Critical CSS generator was used to generate important CSS for improving performance. An external CSS stylesheet has been used, however, this slows the performance of the website. Hence, in the attempt to improve the performance, CSS generator has been used and the style has been embedded within the html page, inside the head element. 
+
+<br>
+
+[BACK TO TOP](#table-of-contents)
+
 ## Features Left to Implement
 
 There are a few features that still needs to be implemented:
