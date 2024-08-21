@@ -24,7 +24,7 @@ Visit Live Project [here](https://sumayyapanju.github.io/GravityGym/)
     * [Existing Features](#existing-features)
     * [Features Left to Implement](#features-left-to-implement)
 6. [Improvements](#improvements)
-7. [Testing](/testing.md)
+7. [Testing](/TESTING.md)
 8. [Technologies used](#technologies-used)
 9. [Deployment](#deployment)
     * [GitHub Pages](#github-pages)
@@ -177,7 +177,7 @@ Hence, my final color scheme for this project is:
 
 |Green        |Black          |White          |
 |-----------|---------------|---------------|
-|![Screenshot](/assets/images/readme/wireframes/color-theme-green.png)|![Screenshot](/assets/images/readme/wireframes/color-theme-black.png)|![Screenshot](/assets/images/readme/wireframes/color-theme-white.png)
+|![Screenshot](/assets/images/readme/wireframes/color-theme-green.png)|![Screenshot](/assets/images/readme/wireframes/color-theme-black.png)|![Screenshot](/assets/images/readme/wireframes/color-theme-white.png)|
 
 
 A three color rule is used for this website:
