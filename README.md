@@ -714,27 +714,35 @@ There are a couple of improvements I could make to this project:
 
 # Technologies used
 
-* **HTML5** - Language used to make the website
-* **CSS** - Language used to make the website 
-* [**Bootstrap**](https://getbootstrap.com/) - Bootstrap v5.3 was used to make the website responsive and for styling purposes 
-* [**Font Awesome**](https://fontawesome.com/) - Font awesome was used for icons and better user experience. 
-* [**Google Fonts**](https://fonts.google.com/?preview.layout=grid) - Google fonts was used to import fonts on to the website. The font used for this website was 'Fjalla One' and 'Barlow'. 
-* [**Balsamiq**](https://balsamiq.com/) - Desktop version of Balsamiq was used to create [wireframes](#wireframes) for the website for mobile, tablet and laptop devices. 
-* **Git** - Git was used for version control. For this [GitPod](https://www.gitpod.io/) and [GitHub](https://github.com/) was also used.  
-* [**GitHub**](https://github.com/) - Project code that was written up on [GitPod](https://www.gitpod.io/) was stored here. Codes were pushed onto the GitHub using add and commit commands. 
-* [**GitPod**](https://www.gitpod.io/) - This platform was used to writeup the code. Code from here was pushed onto the [GitHub](https://github.com/) using add and commit commands. 
-* [**DevTools**](https://developer.chrome.com/docs/devtools) - Dev tools was used to identify ways in which the bugs can be resolved
-* [**HTML Validator**](https://validator.w3.org/) - This tool is used to identify any errors in the HTML code
-* [**Jigsaw CSS Validator**](https://jigsaw.w3.org/css-validator/) - This tool is used to identify any errors in the CSS code 
-* [**Mozilla Firefox**](https://www.mozilla.org/en-GB/firefox/new/) - This browser was used to test the responsiveness of this project
-* [**Opera**](https://www.opera.com/?utm_campaign=%2300%20-%20WW%20-%20Search%20-%20EN%20-%20Branded&utm_content=37670026502&gad_source=1&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnD6pMexv-8C_sD-s2ZnPkEst-60EPImV6Sm6QBll3PCxv-V2MTD0vkaAqzrEALw_wcB) - This browser was used to test the responsiveness of this project
-* [**Microsoft Edge**](https://www.microsoft.com/en-us/edge?ep=0&form=MA13M0&es=40) - This browser was used to test the responsiveness of this project
-* [**Google Chrome**](https://www.google.com/intl/en_uk/chrome/) - This browser was used to test the responsiveness of this project
-* [**JS Hint**](https://jshint.com/) - This tool is used to identify any errors in the JS code 
-* [**Lighthouse Audit**](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - This tool is used to evaluate my page
-* [**Wave audit**](https://wave.webaim.org/) - This tool is used to evaluate my page
-* [**Blisk**](https://blisk.io/product) - This tool was used to see how my page appears on different devices. Although this could be done through DevTool, I found that DevTool did not have the latest devices for testing purposes. Furthermore, it was a lot easier to compare different screen sizes using Blisk. Blisk also allowed to see more than one device at a time. A few issues were picked up using this tool. 
-* [**Spell Check**](https://www.online-spellcheck.com/) - This tool was used to spell check my website to minimise spelling errors. 
+| Technology Used  | Original Link | Comments|
+|---------------|-----------|----------------------------------------------------------------------------------|
+|**HTML5**||Language used to make the website
+|**CSS**||Language used to make the website 
+|**Bootstrap**|[Link](https://getbootstrap.com/)|Bootstrap v5.3 was used to make the website responsive and for styling purposes 
+|**Font Awesome**|[Link](https://fontawesome.com/)|Font awesome was used for icons and better user experience. 
+|**Google Fonts**|[Link](https://fonts.google.com/?preview.layout=grid)|Google fonts was used to import fonts on to the website. The font used for this website was 'Fjalla One' and 'Barlow'. 
+|**Balsamiq**|[Link](https://balsamiq.com/)|Desktop version of Balsamiq was used to create [wireframes](#wireframes) for the website for mobile, tablet and laptop devices. 
+|**Git**||Git was used for version control. For this [GitPod](https://www.gitpod.io/) and [GitHub](https://github.com/) was also used.  
+|**GitHub**|[Link](https://github.com/)|Project code that was written up on [GitPod](https://www.gitpod.io/) was stored here. Codes were pushed onto the GitHub using add and commit commands. 
+|**GitPod**|[Link](https://www.gitpod.io/)|This platform was used to writeup the code. Code from here was pushed onto the [GitHub](https://github.com/) using add and commit commands. 
+|**ChatGPT**|[Link](https://openai.com/chatgpt/)|This platform was used to generate content for the website.
+|**Microsoft Word**|[Link](https://www.microsoft.com/en-gb/microsoft-365/word)|This tool was used to create schedules, which was then saved as pdf.  
+|**DevTools**|[Link](https://developer.chrome.com/docs/devtools)|Dev tools was used to identify ways in which the bugs can be resolved
+|**HTML Validator**|[Link](https://validator.w3.org/)|This tool is used to identify any errors in the HTML code
+|**Jigsaw CSS Validator**|[Link](https://jigsaw.w3.org/css-validator/)|This tool is used to identify any errors in the CSS code 
+|**Mozilla Firefox**|[Link](https://www.mozilla.org/en-GB/firefox/new/)|This browser was used to test the responsiveness of this project
+|**Opera**|[Link](https://www.opera.com/?utm_campaign=%2300%20-%20WW%20-%20Search%20-%20EN%20-%20Branded&utm_content=37670026502&gad_source=1&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnD6pMexv-8C_sD-s2ZnPkEst-60EPImV6Sm6QBll3PCxv-V2MTD0vkaAqzrEALw_wcB)|This browser was used to test the responsiveness of this project
+|**Microsoft Edge**|[Link](https://www.microsoft.com/en-us/edge?ep=0&form=MA13M0&es=40) |This browser was used to test the responsiveness of this project
+|**Google Chrome**|[Link](https://www.google.com/intl/en_uk/chrome/) |This browser was used to test the responsiveness of this project
+|**JS Hint**|[Link](https://jshint.com/)| This tool is used to identify any errors in the JS code 
+|**Lighthouse Audit**|[Link](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)|This tool is used to evaluate my page
+|**Wave audit**|[Link](https://wave.webaim.org/)| This tool is used to evaluate my page
+|**Blisk**|[Link](https://blisk.io/product)| This tool was used to see how my page appears on different devices. Although this could be done through DevTool, I found that DevTool did not have the latest devices for testing purposes. Furthermore, it was a lot easier to compare different screen sizes using Blisk. Blisk also allowed to see more than one device at a time. A few issues were picked up using this tool. 
+|**Spell Check**|[Link](https://www.online-spellcheck.com/)| This tool was used to spell check my website to minimise spelling errors. 
+|**Screen Rec**|[Link](https://screenrec.com/)|This tool was used to record the screen when undertaking tests for my project
+|**Cloud Converter**|[Link](https://cloudconvert.com/ttf-to-woff2)|This tool was used to convert ttf fonts from google fonts to woff2. It was also used to convert images to webp. 
+|**Simple Image resizer**|[Link](https://www.simpleimageresizer.com/upload)|This tool was used to resize images
+|**Image compressor**|[Link](https://compressor.io/)|This tool was used to compress images 
 
 ---
 
