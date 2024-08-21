@@ -264,6 +264,8 @@ The wireframe designed is similar to my final product, however, there are some d
 
 </details>
 
+<details>
+
 **<summary>Hamburger Menu</summary>**
 
 **Explanation:**
@@ -532,6 +534,7 @@ The navigation menu is designed using bootstrap to make it responsive for variou
 <br> 
 
 [BACK TO TOP](#table-of-contents)
+
 
 ### Full width image 
 
