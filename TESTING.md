@@ -846,6 +846,11 @@ The table below shows what is tested and the screenshot of the results
 
 ### Animation - Banner 
 
+The website contains a banner at the top of the page. The banner is designed to grab users attention on every page, and it is supposed to run atleast 5 times. It is is also supposed to be responsive and stick to the header as the user scrolls down the page. Pure CSS is used to achieve this. 
+
+The banner is tested using DevTools and it works as expected.
+
+[Watch the video](https://youtu.be/tDW-juI5pV4)
 <br>
 
 [BACK TO TOP](#table-of-contents)
