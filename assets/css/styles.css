@@ -807,6 +807,12 @@ footer {
     #page-not-found p {
         font-weight: 700;
     }
+
+    /*Gallery*/
+    #gallery div img {
+        width: 261px;
+        height: 261px;
+    }
 }
 
 /* XX-Large devices (larger desktops, 2500px and up)*/
@@ -958,6 +964,11 @@ footer {
         max-width: none;
     }
 
+    #gallery div img {
+        width: 586px;
+        height: 586px;
+    }
+
     /*Schedules*/
     #classes .tab button,
     #swimming .tab button,
@@ -1042,11 +1053,17 @@ footer {
     .testimonial-groups p {
         min-height: 255px;
     }
+
+    /*Gallery*/
+    #gallery div img {
+        width: 216px;
+        height: 216px;
+    }
 }
 
 /* Medium devices (tablets, between 768-991px)*/
 @media (max-width: 991.98px) {
-
+s
     /*Full Width*/
     #full-width-cont {
         height: 314px;
@@ -1080,6 +1097,11 @@ footer {
 
     .pass {
         font-size: 245%;
+    }
+    /*Gallery*/
+    #gallery div img {
+        width: 216px;
+        height: 216px;
     }
 }
 
@@ -1138,6 +1160,12 @@ footer {
     .group-2 {
         margin-left: 10%;
         margin-right: 10%;
+    }
+
+    /*Gallery*/
+    #gallery div img {
+        width: 246px;
+        height: 246px;
     }
 
     /*Schedules*/
@@ -1199,6 +1227,12 @@ footer {
     .group-2 {
         margin-left: 5%;
         margin-right: 5%;
+    }
+
+    /*Gallery*/
+    #gallery div img {
+        width: 551px;
+        height: 551px;
     }
 
     /*Schedules*/
