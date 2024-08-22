@@ -581,7 +581,7 @@ After implementing the changes, most of the suggestions made improved the site s
 
 **<summary>Suggestions by Lighthouse audit for Gallery page</summary>**
 
->![Screenshot](/assets/images/testing/audits/m-diagnostic-results-g-after.png.png) 
+>![Screenshot](/assets/images/testing/audits/m-diagnostic-results-g-after.png) 
 
 </details>
 
@@ -617,6 +617,46 @@ Based on the suggestions the following changes were made for each pages:
 |**Schedules** | Spacing for touch target was increased for improving accessibility |
 |**Contact Us** | - Image size changed to match natural aspect ratio for best practice |
 
+
+<br>
+
+[BACK TO TOP](#table-of-contents)
+
+### Results Evaluation
+
+**Desktop Audit**
+
+|Pages      |Performance    |   Accessibility   | Best Practice     | SEO       |
+|---        |----           |----               |---                |--         |
+|**Home** |100    |100   |100    | 100        |
+|**Plans** |96    |100   |100    | 100        |
+|**Plans - Thank you** | 100    |100   |100    | 100        | 
+|**Gallery** | 98    |96   |100    | 100        | 
+|**Schedules** |100    |100   |100    | 100        | 
+|**Contact Us** | 100    |100   |100    | 100        |
+|**Contact Us - Thank you** |100    |100   |100    | 100        |  
+|**404** |100    |100   |100    | 100        | 
+
+
+For desktop results, all of the scores are 90 and above which indicates good score. No further improvement is required. 
+<br>
+<br>
+
+**Mobile Audit**
+
+|Pages      |Performance    |   Accessibility   | Best Practice     | SEO       |Comments       |
+|---        |----           |----               |---                |--         |---            |
+|**Home** |78    |100   |100    | 100        |
+|**Plans** |83    |100   |100    | 100        |
+|**Plans - Thank you** | 85    |100   |100    | 100        |
+|**Gallery** | 87    |96   |100    | 100        | 
+|**Schedules** |83    |100   |100    | 100        | 
+|**Contact Us** | 81    |100   |100    | 100        |
+|**Contact Us - Thank you** |85    |100   |100    | 100        |  
+|**404** |85    |100   |100    | 100        | 
+
+
+For mobile results, performance needs improvement otherwise, the other scores indicates a good score. Lighthouse have given similar suggestions for all pages. However, one common suggestion that affects performance resulting in scores below 90 is 'Avoid large layout shifts'. A lot of effort has been made to reduce this as much as possible. Images were compressed and resized and set dimensions was allocated to the images. However, to further improve the score, I need to expand my knowledge and skills in this area. 
 
 <br>
 
