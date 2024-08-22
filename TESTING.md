@@ -234,9 +234,9 @@ Samsung Internet is a mobile phone browser. Attempts were made to download [Blue
 
 ## Responsiveness
 
-To test the responsiveness of GravityGym, DevTools is used. The Device is tested at different breakpoints based on Bootstrap that was used to design this project.
+To test the responsiveness of GravityGym, DevTools is used. The Device is tested at different breakpoints based on Bootstrap that was used to design this website.
 
-The following breakpoints was used for this project:
+The following breakpoints was used for this website:
 
 | Breakpoints           | Type of devices            | Max/Min width       | Screen size range |
 |-----------------------|----------------------------|---------------------|-------------------|
@@ -511,7 +511,7 @@ Lighthouse provided some suggestions on how the pages could be improved. Similar
 
 <br>
 
-After implementing the changes, most of the suggestions made improved the site score. However, there were some diagnostic suggestions that was beyond my ability to overcome. Either due to lack of capacity or lack of administrative rights. This was consistent for all pages throughout the project. The screenshot below shows the suggestions provided by Lighthouse that could increase the score further.  
+After implementing the changes, most of the suggestions made improved the site score. However, there were some diagnostic suggestions that was beyond my ability to overcome. Either due to lack of capacity or lack of administrative rights. This was consistent for all pages throughout the website. The screenshot below shows the suggestions provided by Lighthouse that could increase the score further.  
 
 <details>
 
@@ -570,7 +570,7 @@ Lighthouse provided some suggestions on how the pages could be improved. Similar
 <br>
 <br>
 
-After implementing the changes, most of the suggestions made improved the site score. However, there were some diagnostic suggestions that was beyond my ability to overcome. Either due to lack of capacity or lack of administrative rights. This was consistent for all pages throughout the project except for 'Gallery' page. The screenshot below shows the suggestions provided by Lighthouse that could increase the score further.  
+After implementing the changes, most of the suggestions made improved the site score. However, there were some diagnostic suggestions that was beyond my ability to overcome. Either due to lack of capacity or lack of administrative rights. This was consistent for all pages throughout the website except for 'Gallery' page. The screenshot below shows the suggestions provided by Lighthouse that could increase the score further.  
 
 <details>
 

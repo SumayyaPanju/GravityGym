@@ -4,11 +4,11 @@
 
 # TABLE OF CONTENTS
 
-Visit Live Project [here](https://sumayyapanju.github.io/GravityGym/)
+Visit Live Website [here](https://sumayyapanju.github.io/GravityGym/)
 
-1. [Introduction to the Project](#introduction-to-the-project)
+1. [Introduction to the website ](#introduction-to-the-website)
 2. [User Experience](#user-experience-ux)
-    * [Project Goals](#project-goals)
+    * [Website Goals](#website-goals)
     * [Client's Goals](#clients-goals)
     * [Business Goals](#business-goals)
     * [User Stories](#user-stories)
@@ -38,9 +38,9 @@ Visit Live Project [here](https://sumayyapanju.github.io/GravityGym/)
 
 ---
 
-# Live Project
+# Live Website
 
-Live project can be viewed [here](https://sumayyapanju.github.io/GravityGym/)
+Live website can be viewed [here](https://sumayyapanju.github.io/GravityGym/)
 
 <br> 
 
@@ -48,11 +48,11 @@ Live project can be viewed [here](https://sumayyapanju.github.io/GravityGym/)
 
 ---
 
-# Introduction to the Project
+# Introduction to the Website
 
 The website Gravity Gym was created for the business to advertise and enlighten both present and new gym members. This website provides existing and prospective gym members with information about the facility. 
 
-Gravity Gym is a Gym in London and they offer a variety of services. For example, personal trainers, various classes, swimming, sauna and steam. The owner wants to increase the number of people that show interest in their gym. The aim of this project is to reach out to a wide range of audiences, ranging from individuals who want to get fit and healthy to individuals who want to relax (e.g. via sauna etc) and make friends. 
+Gravity Gym is a Gym in London and they offer a variety of services. For example, personal trainers, various classes, swimming, sauna and steam. The owner wants to increase the number of people that show interest in their gym. The aim of this website is to reach out to a wide range of audiences, ranging from individuals who want to get fit and healthy to individuals who want to relax (e.g. via sauna etc) and make friends. 
 
 This website provides users with basic information of the website, such as, where the gym is based, what facilities are available, what classes they have and what benefits are their for members. Users are also able to contact the owner through 'Contact Us' page, phone number or social media platforms which can be found at the footer of every page. 
 
@@ -66,7 +66,7 @@ Users can get in contact with the client via the contact page or by redirecting 
 
 # User Experience (UX)
 
-### Project Goals
+### Website Goals
 
 The main objective is to offer a platform that helps the client and the business reach their respective objectives. The website is created with the intention of giving clients access to vital company information and bringing in more gym members for the company by advertising through this website. The table below shows clients and business goals and how Gravity Gym aims to achieve this. Different users have different expectations from this website, hence this is covered in details by focusing on what each user would want. 
 
@@ -173,7 +173,7 @@ Whilst testing the website pages using Lighthouse and Wave, a common problem enc
 
 This time I chose to go for a green color that is pleasing to the eye. I chose green because it symbolizes balance, harmony and nature. It is a color that aims to energize and relax the body. 
 
-Hence, my final color scheme for this project is: 
+Hence, my final color scheme for this website is: 
 
 |Green        |Black          |White          |
 |-----------|---------------|---------------|
@@ -456,9 +456,9 @@ The wireframe designed is similar to my final product, however, there are some d
 
 **<summary>Extra Pages</summary>**
 
-The PDF document linked has designs for all pages that was initially designed when planning this project. More pages were built as the project was built due to project demand or due to feedbacks obtained from my mentor. 
+The PDF document linked has designs for all pages that was initially designed when planning this website. More pages were built as the website was built due to website demand or due to feedbacks obtained from my mentor. 
 
-Following pages were added as the project was built:
+Following pages were added as the website was built:
 * Gallery page
 * Membership thank you page
 * Contact us page
@@ -713,9 +713,9 @@ There are a few features that still needs to be implemented:
 
 # Improvements
 
-There are a couple of improvements I could make to this project:
-* **Cleaner code** - A systemic approach needs to be used when coding this project. Starting with mobile first design and then going up to extra extra large devices. 
-* **Classes and IDs** - Personally designed IDs and classes could be used to design this page better. This was done during this project, however, more of it could have been done. This way, any changes that needs to be made, would need to be done once on the CSS. 
+There are a couple of improvements I could make to this website:
+* **Cleaner code** - A systemic approach needs to be used when coding this website. Starting with mobile first design and then going up to extra extra large devices. 
+* **Classes and IDs** - Personally designed IDs and classes could be used to design this page better. This was done for this website, however, more of it could have been done. This way, any changes that needs to be made, would need to be done once on the CSS. 
 
 <br> 
 
@@ -734,23 +734,23 @@ There are a couple of improvements I could make to this project:
 |**Google Fonts**|[Link](https://fonts.google.com/?preview.layout=grid)|Google fonts was used to import fonts on to the website. The font used for this website was 'Fjalla One' and 'Barlow'. 
 |**Balsamiq**|[Link](https://balsamiq.com/)|Desktop version of Balsamiq was used to create [wireframes](#wireframes) for the website for mobile, tablet and laptop devices. 
 |**Git**||Git was used for version control. For this [GitPod](https://www.gitpod.io/) and [GitHub](https://github.com/) was also used.  
-|**GitHub**|[Link](https://github.com/)|Project code that was written up on [GitPod](https://www.gitpod.io/) was stored here. Codes were pushed onto the GitHub using add and commit commands. 
+|**GitHub**|[Link](https://github.com/)|Website code that was written up on [GitPod](https://www.gitpod.io/) was stored here. Codes were pushed onto the GitHub using add and commit commands. 
 |**GitPod**|[Link](https://www.gitpod.io/)|This platform was used to writeup the code. Code from here was pushed onto the [GitHub](https://github.com/) using add and commit commands. 
 |**ChatGPT**|[Link](https://openai.com/chatgpt/)|This platform was used to generate content for the website.
 |**Microsoft Word**|[Link](https://www.microsoft.com/en-gb/microsoft-365/word)|This tool was used to create schedules, which was then saved as pdf.  
 |**DevTools**|[Link](https://developer.chrome.com/docs/devtools)|Dev tools was used to identify ways in which the bugs can be resolved
 |**HTML Validator**|[Link](https://validator.w3.org/)|This tool is used to identify any errors in the HTML code
 |**Jigsaw CSS Validator**|[Link](https://jigsaw.w3.org/css-validator/)|This tool is used to identify any errors in the CSS code 
-|**Mozilla Firefox**|[Link](https://www.mozilla.org/en-GB/firefox/new/)|This browser was used to test the responsiveness of this project
-|**Opera**|[Link](https://www.opera.com/?utm_campaign=%2300%20-%20WW%20-%20Search%20-%20EN%20-%20Branded&utm_content=37670026502&gad_source=1&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnD6pMexv-8C_sD-s2ZnPkEst-60EPImV6Sm6QBll3PCxv-V2MTD0vkaAqzrEALw_wcB)|This browser was used to test the responsiveness of this project
-|**Microsoft Edge**|[Link](https://www.microsoft.com/en-us/edge?ep=0&form=MA13M0&es=40) |This browser was used to test the responsiveness of this project
-|**Google Chrome**|[Link](https://www.google.com/intl/en_uk/chrome/) |This browser was used to test the responsiveness of this project
+|**Mozilla Firefox**|[Link](https://www.mozilla.org/en-GB/firefox/new/)|This browser was used to test the responsiveness of this website
+|**Opera**|[Link](https://www.opera.com/?utm_campaign=%2300%20-%20WW%20-%20Search%20-%20EN%20-%20Branded&utm_content=37670026502&gad_source=1&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnD6pMexv-8C_sD-s2ZnPkEst-60EPImV6Sm6QBll3PCxv-V2MTD0vkaAqzrEALw_wcB)|This browser was used to test the responsiveness of this website
+|**Microsoft Edge**|[Link](https://www.microsoft.com/en-us/edge?ep=0&form=MA13M0&es=40) |This browser was used to test the responsiveness of this website
+|**Google Chrome**|[Link](https://www.google.com/intl/en_uk/chrome/) |This browser was used to test the responsiveness of this website
 |**JS Hint**|[Link](https://jshint.com/)| This tool is used to identify any errors in the JS code 
 |**Lighthouse Audit**|[Link](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)|This tool is used to evaluate my page
 |**Wave audit**|[Link](https://wave.webaim.org/)| This tool is used to evaluate my page
 |**Blisk**|[Link](https://blisk.io/product)| This tool was used to see how my page appears on different devices. Although this could be done through DevTool, I found that DevTool did not have the latest devices for testing purposes. Furthermore, it was a lot easier to compare different screen sizes using Blisk. Blisk also allowed to see more than one device at a time. A few issues were picked up using this tool. 
 |**Spell Check**|[Link](https://www.online-spellcheck.com/)| This tool was used to spell check my website to minimise spelling errors. 
-|**Screen Rec**|[Link](https://screenrec.com/)|This tool was used to record the screen when undertaking tests for my project
+|**Screen Rec**|[Link](https://screenrec.com/)|This tool was used to record the screen when undertaking tests for my website
 |**Cloud Converter**|[Link](https://cloudconvert.com/ttf-to-woff2)|This tool was used to convert ttf fonts from google fonts to woff2. It was also used to convert images to webp. 
 |**Simple Image resizer**|[Link](https://www.simpleimageresizer.com/upload)|This tool was used to resize images
 |**Image compressor**|[Link](https://compressor.io/)|This tool was used to compress images 
@@ -860,7 +860,7 @@ The following process can be used to close the repository:
 
 # Credits
 
-The following websites were used to gather ideas on how to design the website and what content to include. These websites was also used to decide what features I did not want to include on this project:
+The following websites were used to gather ideas on how to design the website and what content to include. These websites was also used to decide what features I did not want to include:
 * **Village Gym** - [Visit Content Here](https://www.villagegym.co.uk/)
 * **Pure Gym** - [Visit Content Here](https://www.puregym.com/)
 * **JD Gyms** - [Visit Content Here](https://www.jdgyms.co.uk/)
@@ -919,8 +919,8 @@ A range of images were used from various websites. The link from where the image
 | **Collapsible tabs for markdown** | [Link](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1a)             | This source was used to get the code to collapse sections within the markdown document. Collapsible section was used due to large amount of screenshots and tables present.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **Checkbox size**                 | [Link](https://stackoverflow.com/questions/306924/can-i-change-the-checkbox-size-using-css) | For extra extra large devices, the checkbox appeared to be very tiny. I could not figure out how to increase the size. This source had a code which resolved the issue.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Bootstrap**                     | [Link](https://getbootstrap.com/docs/5.3/getting-started/introduction/)                     | Bootstrap was used to design the website and to make it responsive. The code from bootstrap is excessively modified to make this website as unique as possible.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|**W3 Schools**|[Link](https://www.w3schools.com/)| This website was referred to as guidance when designing this project. |
-|**MDN Web Docs**|[Link](https://developer.mozilla.org/en-US/)| This website was referred to as guidance when designing this project.
+|**W3 Schools**|[Link](https://www.w3schools.com/)| This website was referred to as guidance when designing this website. |
+|**MDN Web Docs**|[Link](https://developer.mozilla.org/en-US/)| This website was referred to as guidance when designing this website.
 |**Chrome for developers**|[Link](https://developer.chrome.com/docs/lighthouse/performance/performance-scoring)| This website was referred to when attempting to improve performance of the website 
 
 <br> 
@@ -929,7 +929,7 @@ A range of images were used from various websites. The link from where the image
  
 ### Acknowledgements
 
-* Throughout the project, I had continuous support from:
+* Throughout this website, I had continuous support from:
     * My tutor - Satish Boini and Komal Karir 
     * My mentor - Rory Patrick 
     * Tutor support - which was available to us from code Institute 
