@@ -506,7 +506,7 @@ Lighthouse provided some suggestions on how the pages could be improved. Similar
 
 <br>
 
-After implementing the changes, most of the suggestions made imrpoved the site score. However, there were some diagnostic suggestions that was beyond my ability to overcome. Either due to lack of capacity or lack of administrative rights. This was consistent for all pages throughout the project. The screenshot below shows the suggestions provided by Lighthouse that could increase the score further.  
+After implementing the changes, most of the suggestions made improved the site score. However, there were some diagnostic suggestions that was beyond my ability to overcome. Either due to lack of capacity or lack of administrative rights. This was consistent for all pages throughout the project. The screenshot below shows the suggestions provided by Lighthouse that could increase the score further.  
 
 <details>
 
@@ -522,11 +522,9 @@ After implementing the changes, most of the suggestions made imrpoved the site s
 
 The table below shows the lighthouse results before and after changes have been implemented. 
 
-<details>
+**Desktop Audit Results**
 
-**<summary> Desktop Audit Results</summary>**
-
-|                            | Screenshot - Before changes | Screenshot - After changes  suggests:                  |
+|                            | Screenshot - Before changes made: | Screenshot - After changes made:                  |
 |----------------------------|------------------------------------------|-------------------------------------------|
 | **Home**                   |![Screenshot](/assets/images/testing/audits/la-home-before.png) | ![Screenshot](/assets/images/testing/audits/la-home-after.png)       |
 | **Plans**                  | ![Screenshot](/assets/images/testing/audits//la-plans-before.png)     | ![Screenshot](/assets/images/testing/audits/la-plans-after.png)       |
@@ -538,27 +536,70 @@ The table below shows the lighthouse results before and after changes have been 
 | **404**                    | ![Screenshot](/assets/images/testing/audits/la-404-before.png)        | ![Screenshot](/assets/images/testing/audits/la-404-after.png)    |
 
 
-</details>
 
 <br>
 
 
 ### Mobile Audit 
+
+>Click below, on the relevant headings to expand
+
+Lighthouse provided some suggestions on how the pages could be improved. Similar suggestions were provided for all pages except 'Home' and 'Gallery' page. The screenshot below shows the suggestions provided by Lighthouse.  
+
 <details>
 
-**<summary> Mobile Audit...</summary>**
+**<summary>Suggestions by Lighthouse audit for All pages</summary>**
 
+>![Screenshot](/assets/images/testing/audits/m-diagnostic-results-all.png.png)
 
-|                            | Screenshot                                                      | Notes                                                             |
-|----------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------|
-| **Home**                   | ![Screenshot](/assets/images/testing/audits/la-m-home.png)      | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Plans**                  | ![Screenshot](/assets/images/testing/audits/la-m-plans.png)     | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-m-plans-ty.png)  | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-m-gallery.png)   | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Schedules**              | ![Screenshot](/assets/images/testing/audits/la-m-schedules.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-m-contactus.png) | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-m-thankyou.png)  | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
-| **404**                    | ![Screenshot](/assets/images/testing/audits/la-m-404.png)       | [See below](#further-information-on-lighthouse-audit-for-mobiles) |
+</details>
+
+<details>
+
+**<summary>Suggestions by Lighthouse audit for Home and Gallery page</summary>**
+
+>![Screenshot](/assets/images/testing/audits/m-diagnostic-results-h-g.png.png)
+
+</details>
+
+<br>
+<br>
+
+After implementing the changes, most of the suggestions made improved the site score. However, there were some diagnostic suggestions that was beyond my ability to overcome. Either due to lack of capacity or lack of administrative rights. This was consistent for all pages throughout the project except for 'Gallery' page. The screenshot below shows the suggestions provided by Lighthouse that could increase the score further.  
+
+<details>
+
+**<summary>Suggestions by Lighthouse audit for all pages</summary>**
+
+>![Screenshot](/assets/images/testing/audits/m-diagnostic-results-all-after.png) 
+
+</details>
+
+<details>
+
+**<summary>Suggestions by Lighthouse audit for Gallery page</summary>**
+
+>![Screenshot](/assets/images/testing/audits/m-diagnostic-results-g-after.png.png) 
+
+</details>
+
+<br>
+<br>
+
+The table below shows the lighthouse results before and after changes have been implemented. 
+
+**Mobile Audit Results**
+
+|                            | Screenshot - Before changes made: | Screenshot - After changes made:                  |
+|----------------------------|------------------------------------------|-------------------------------------------|
+| **Home**                   | ![Screenshot](/assets/images/testing/audits/la-m-home.png) |  ![Screenshot](/assets/images/testing/audits/la-m-home-after.png) |
+| **Plans**                  | ![Screenshot](/assets/images/testing/audits/la-m-plans.png) |![Screenshot](/assets/images/testing/audits/la-m-plans-after.png)  |
+| **Plans - Thank you**      | ![Screenshot](/assets/images/testing/audits/la-m-plans-ty.png)  |![Screenshot](/assets/images/testing/audits/la-m-plans-ty-after.png) |
+| **Gallery**                | ![Screenshot](/assets/images/testing/audits/la-m-gallery.png)  | ![Screenshot](/assets/images/testing/audits/la-m-gallery-after.png)  |
+| **Schedules**              | ![Screenshot](/assets/images/testing/audits/la-m-schedules.png) |![Screenshot](/assets/images/testing/audits/la-m-schedules-after.png) |
+| **Contact Us**             | ![Screenshot](/assets/images/testing/audits/la-m-contactus.png) |![Screenshot](/assets/images/testing/audits/la-m-contactus-after.png)  |
+| **Contact Us - Thank you** | ![Screenshot](/assets/images/testing/audits/la-m-thankyou.png) |![Screenshot](/assets/images/testing/audits/la-m-thankyou-after.png) |
+| **404**                    | ![Screenshot](/assets/images/testing/audits/la-m-404.png)     |![Screenshot](/assets/images/testing/audits/la-m-404-after.png)   |
 
 
 ### Changes implemented
@@ -574,16 +615,6 @@ Based on the suggestions the following changes were made for each pages:
 |**Schedules** | Spacing for touch target was increased for improving accessibility |
 |**Contact Us** | - Image size changed to match natural aspect ratio for best practice |
 
-<br>
-
-
-#### Further information on lighthouse audit for mobiles
-
-For all or almost all pages, there were common suggestions by lighthouse to improve performance of the website. These suggestions were not carried out due to lack of skills/knowledge in those areas. The screenshot below shows the suggestions given by lighthouse:
-
->![Screenshot](/assets/images/testing/audits/m-diagnostic-results.png)
-
-</details>
 
 <br>
 
