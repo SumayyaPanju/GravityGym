@@ -10,12 +10,15 @@
 4. [Lighthouse Audit](#lighthouse-audit)
     * [Desktop Audit](#desktop-audits)
     * [Mobile Audit](#mobile-audit)
+    * [Changes Implemented](#changes-implemented)
+    * [Results Evaluation](#results-evaluation)
 5. [Wave Web Accessibility Evaluation](#wave-web-accessibility-evaluation)
 6. [User Story Testing](#user-story-testing)
 7. [Features](#features)
     * [404 page](#404-page)
     * [Links](#links)
     * [Form validation](#form-validation)
+    * [Animation - Banner](#animation---banner)
     * [Animation - Images](#animation---images)
     * [JavaScript - Collapsible tabs](#javascript---collapsible-tabs)
 8. [Solved Bugs](#solved-bugs)
@@ -840,6 +843,12 @@ The table below shows what is tested and the screenshot of the results
 
 
 </details>
+
+### Animation - Banner 
+
+<br>
+
+[BACK TO TOP](#table-of-contents)
 
 <br>
 
